@@ -1,0 +1,13 @@
+model,A,B,C
+aya-expanse-32b,21,28,70
+gemma3-12b,11,25,84
+gemma3-27b,14,22,84
+gpt4o,13,24,83
+llama3.1,15,45,60
+llama3.2-latest,10,47,63
+llama3.3-latest,14,42,64
+mistral-small-3.2-24b,16,36,68
+mistral-small3.1-latest,14,30,76
+qwen2.5-14b,7,21,92
+qwen2.5-32b,14,30,76
+qwen2.5-72b,10,30,80

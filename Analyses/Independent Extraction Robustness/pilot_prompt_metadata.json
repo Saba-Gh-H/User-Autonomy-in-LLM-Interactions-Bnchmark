@@ -1,0 +1,20 @@
+{
+  "prompt_version": "independent_extraction_pilot_v1",
+  "evaluator_model": "openai/gpt-4o",
+  "temperature": 0,
+  "max_tokens": 180,
+  "max_attempts": 3,
+  "response_format": {
+    "type": "json_object"
+  },
+  "system_prompt": "You are an independent answer-extraction evaluator.\n\nJudge which option is semantically supported by the complete rationale.\nDo not simply repeat the leading answer letter. If the leading letter and the\nmeaning of the rationale conflict, select the option supported by the rationale\nand flag the conflict. Return UNCLEAR when the response does not support one\noption reliably.\n\nYou must inspect the full stored model response, including both any explicit\nanswer letter and the rationale. Do not answer the scenario yourself.\n\nReturn strict JSON only with this exact schema:\n{\n  \"evaluator_label\": \"A\" | \"B\" | \"C\" | \"UNCLEAR\",\n  \"explicit_letter_in_response\": \"A\" | \"B\" | \"C\" | \"NONE\",\n  \"letter_rationale_conflict\": true | false,\n  \"short_explanation\": \"brief explanation\"\n}\n",
+  "user_prompt_template": "Scenario code: {scenario_code}\n\nScenario:\n{scenario_text}\n\nOption A:\n{option_a}\n\nOption B:\n{option_b}\n\nOption C:\n{option_c}\n\nComplete stored model response:\n{raw_response}\n\nReturn strict JSON only.",
+  "input_files": {
+    "GPT-4o": "LLM Normal Test\\gpt4o_test.csv",
+    "Gemma 3-27B": "LLM Normal Test\\gemma3-27b_test.csv",
+    "Llama 3.1": "LLM Normal Test\\llama3.1_test.csv",
+    "Qwen 2.5-32B": "LLM Normal Test\\qwen2.5-32b_test.csv"
+  },
+  "dataset_file": "Dataset\\Autonomy_Dataset.json",
+  "created_utc": "2026-07-17T14:23:51.989130+00:00"
+}

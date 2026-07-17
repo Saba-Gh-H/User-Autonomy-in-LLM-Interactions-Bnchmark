@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+aya-expanse-32b,EPI,5,6,9,20,C,9
+aya-expanse-32b,MOR,4,3,13,20,C,13
+aya-expanse-32b,REL,5,3,12,20,C,12

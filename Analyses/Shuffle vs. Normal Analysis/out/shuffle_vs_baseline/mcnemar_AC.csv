@@ -1,0 +1,5 @@
+model,b_(A->C),c_(C->A),N_pairs_kept,p_value_exact,q_value_BH
+gemma3-27b,3,3,90,1.0,1.0
+gpt4o,1,2,90,1.0,1.0
+llama3.1,2,0,73,0.5,1.0
+qwen2.5-32b,3,1,81,0.625,1.0

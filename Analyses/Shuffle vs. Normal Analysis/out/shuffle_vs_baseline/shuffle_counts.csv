@@ -1,0 +1,5 @@
+model,A,B,C,total,pct_A,pct_B,pct_C,valid_rows,invalid_rows,source
+gemma3-27b,14,28,78,120,11.67,23.33,65.0,120,0,gemma3-27b_shuffle_test.csv
+gpt4o,15,21,84,120,12.5,17.5,70.0,120,0,gpt4o_shuffle_test.csv
+llama3.1,16,29,75,120,13.33,24.17,62.5,120,0,llama3.1_shuffle_test.csv
+qwen2.5-32b,12,31,77,120,10.0,25.83,64.17,120,0,qwen2.5-32b_shuffle_test.csv

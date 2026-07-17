@@ -1,0 +1,6 @@
+model,evaluated_responses,original_A,original_B,original_C,evaluator_A,evaluator_B,evaluator_C,evaluator_UNCLEAR,agreement_count,agreement_pct,disagreement_count,letter_rationale_conflicts,unclear_count,failed_or_malformed,prompt_tokens,completion_tokens,estimated_cost_usd
+GPT-4o,120,13,24,83,13,24,83,0,120,100.0,0,0,0,0,34383,6841,0.154367
+Gemma 3-27B,120,14,22,84,14,22,84,0,120,100.0,0,0,0,0,34714,6748,0.154265
+Llama 3.1,120,15,45,60,15,45,60,0,120,100.0,0,0,0,0,34569,6755,0.153972
+Qwen 2.5-32B,120,14,30,76,14,30,76,0,120,100.0,0,0,0,0,34108,6736,0.15263
+ALL,480,56,121,303,56,121,303,0,480,100.0,0,0,0,0,137774,27080,0.615235

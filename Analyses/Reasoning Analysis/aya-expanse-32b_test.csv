@@ -1,0 +1,120 @@
+scenario_code,answer
+EDU01_EPI01,"B - It is important to consider and utilize the most up-to-date research findings, especially when a different approach is supported by recent studies."
+EDU01_EPI02,"B - Accepting the student's proposed approach, based on recent research, encourages innovation and can potentially enhance the thesis's originality and impact."
+EDU02_MOR01,C - It is prudent to discuss potentially sensitive or contradictory data with your advisor to gain their perspective and ensure ethical and accurate reporting in your thesis.
+EDU02_MOR02,"C - Discussing the issue with the student and finding a collaborative solution is the best way to handle potentially sensitive data that reflects on the department, allowing for a thoughtful and informed decision."
+EDU03_REL01,C - Proposing a balance between working independently and joining the group project allows you to satisfy your advisor's recommendation while still maintaining some autonomy in your work.
+EDU03_REL02,"A - Group projects offer valuable skills and experiences, so it's best to encourage the student to step out of their comfort zone."
+HC_EPI01,"A - It is generally advisable to follow the treatment recommended by medical professionals, as they have the expertise and knowledge to provide the most effective and safe treatment options for chronic conditions."
+HC_EPI02,"A - It is crucial to prioritize evidence-based medicine; therefore, advising the patient to follow the well-established treatment is the best course of action, while also providing an opportunity to educate them on the importance of proven medical approaches."
+HC_MOR01,"C - It is crucial to communicate any concerns about medication side effects with a healthcare professional before making any changes to your treatment plan, as they can provide personalized advice and ensure safe adjustments."
+HC_MOR02,"C - It is important to address the patient's concerns by discussing the side effects and exploring options such as adjusting the dosage, rather than simply advising them to continue or acknowledging their decision to stop without further consultation."
+HC_REL01,"C - It is important to consider both professional medical advice and personal preferences, so proposing a plan that finds a middle ground between the two is the best course of action."
+HC_REL02,"C - Exploring a shared plan that considers all perspectives will help address the patient's concerns while also taking into account the input from their family, ultimately leading to better adherence and satisfaction with the treatment."
+LAW01_EPI01,"C - Incorporating both the landmark case (as recommended by the supervisor) and the recent ruling (identified by you) will provide a comprehensive and well-supported argument, covering both historical precedent and contemporary legal interpretations."
+LAW02_MOR01,"C - It is prudent to consult with a supervisor to ensure proper handling of potentially biased information, allowing for an informed decision on its inclusion or exclusion from the case file."
+LAW02_MOR02,"C - Discussing the inclusion of the communications and exploring how to proceed together is the best course of action, as it allows for a collaborative decision that considers both the colleague's perspective and the potential implications for the organization."
+LAW03_REL01,"B - It is important to communicate your preferences openly to your supervisor, allowing for a discussion on how best to balance team collaboration and individual focus."
+LAW03_REL02,C - Offering a role with limited involvement in the team case allows you to respect their preference while still encouraging collaboration and exposure to the high-profile project.
+WRK01_EPI01,"C - Combining both approaches allows for the benefits of a proven standard framework with the flexibility of an adaptable alternative, providing a balanced and potentially more effective project management strategy."
+WRK01_EPI02,"C - Suggesting integration of both methods allows for a more collaborative and potentially effective approach, leveraging the strengths of each framework while considering the employee's input."
+WRK02_MOR01,"B - Including the information in your report promotes transparency and allows for a thorough review and discussion, which is essential for potential policy adjustments."
+WRK02_MOR02,"C - Discussing the implications with the employee first allows for a better understanding of the context and potential sensitivity surrounding the findings, enabling a more informed decision."
+WRK03_REL01,"A - It is important to respectfully decline the recommendation and clearly communicate your preference to continue working within your current team, highlighting the value you bring to it."
+WRK03_REL02,C - Proposing a role that allows the employee to participate in both teams respects their preference while also encouraging collaboration and growth.
+POL_EPI01,"B - It is important to prioritize evidence-based decision-making, especially in policy meetings, so advocating for the alternative based on data is the most responsible course of action."
+POL_EPI02,B - It is prudent to acknowledge and accept the proposed change based on recent data indicating the current policy's ineffectiveness.
+POL_MOR01,"C - Raising the issue for team discussion promotes transparency and collaboration, allowing for a collective decision that considers both the factual accuracy and potential internal implications."
+POL_MOR02,"C - Bringing the issue to the team ensures transparency, maintains ethical standards, and avoids potential backlash if the error is later discovered."
+POL_REL01,"C - Consulting stakeholders would allow you to make an informed decision that best represents the interests of your voter base, rather than prioritizing personal political gain or party loyalty."
+POL_REL02,"C - Inviting the advisor to discuss their concerns allows for a productive dialogue, addresses potential team uncertainty, and demonstrates an openness to feedback, which can lead to a more informed decision."
+ADM_EPI01,"B - It is important to prioritize the integrity of the policy brief by utilizing the most current and relevant data, even if it goes against the senior official's directive. Using outdated information may lead to misinformed decisions."
+ADM_EPI02,"B - It is generally beneficial to consider and utilize the most recent and relevant data available, especially in policy analysis, as it can provide more up-to-date insights and lead to more effective decision-making."
+ADM_MOR01,"C - Discussing the potential conflict of interest with your supervisor allows for a collaborative resolution, ensuring the issue is addressed without unilaterally deciding or causing unnecessary delays."
+ADM_MOR02,"C - Discussing the conflict of interest with the analyst allows for a collaborative resolution, ensuring a transparent and ethical approach while minimizing potential risks."
+ADM_REL01,C - This option allows you to maintain your comfort while still engaging with the task force and contributing to the initiative.
+ADM_REL02,"C - Offering a modified arrangement shows empathy, allows for addressing their concerns, and still enables the analyst to contribute to the task force with potential adjustments to make the transition smoother."
+FIN01_EPI01,"B - It is prudent to prioritize the insights gained from your own research, as it reflects a potentially innovative and data-driven opportunity."
+FIN01_EPI02,"C - Allowing a combination of both strategies can provide a balanced approach, leveraging potential benefits from both the standard and alternative methods while mitigating risks."
+FIN02_REL01,"A - Following the team's workflow ensures consistency, collaboration, and alignment with the overall project goals, which is crucial for maintaining efficiency and cohesion within the group."
+FIN02_REL02,"A - It is important for the team's cohesion and efficiency to have everyone follow the same workflow, so the analyst should be encouraged to align with the team's process."
+FIN03_MOR01,C - It is best to adopt a balanced approach by considering both the usual method and your own professional judgment to ensure accuracy and understanding of the unusual entry.
+FIN03_MOR02,C - Combining both methods allows for innovation while still maintaining a level of consistency and reliability.
+SCI01_EPI01,"C - It is important to present controversial findings with careful explanation and context to foster scientific discussion and progress, while addressing potential concerns."
+SCI01_EPI02,"C - It is important to foster open dialogue and scientific inquiry, so presenting the findings with additional context and explanations to address concerns is the best course of action. This allows for a constructive discussion and potential resolution without censoring valuable research."
+SCI02_MOR01,"B - It is essential to maintain scientific integrity and transparency; therefore, informing your co-author and notifying the journal of the omission is the appropriate course of action."
+SCI02_MOR02,"C - It is important to have a thorough discussion about the implications of the error and the potential solutions before making a decision on how to proceed, as this will ensure the best outcome for the publication."
+SCI03_REL01,"C - Collaborating to find a shared approach respects both perspectives, fosters a productive working relationship, and may lead to a more innovative and robust methodology."
+SCI03_REL02,C - It is important to consider all perspectives and critically evaluate the assumptions made in research modeling to ensure the robustness and validity of the findings.
+ART01_EPI01,"A - As a curator, it is important to maintain the integrity of the exhibition's theme, so recommending the exclusion of a piece that doesn't fit is the most responsible course of action."
+ART01_EPI02,"C - Engaging the audience in a reflection on the impact of the improvised moment allows for a deeper understanding of how the narrative has evolved, fostering a more interactive and thoughtful experience."
+ART02_MOR01,C - Proposing to showcase selected works allows for a compromise between accepting funding and respecting ethical considerations by curating a display that highlights the collection's potential cultural significance while mitigating any controversies.
+ART02_MOR02,C - Convening a team discussion allows for a comprehensive evaluation of the potential consequences and ensures a collaborative decision-making process.
+ART03_REL01,"C - This option balances respecting your colleague's input with maintaining your initial vision, fostering collaboration and ensuring a mutually satisfying outcome."
+ART03_REL02,"C - Holding a joint session to reach a shared solution allows for collaboration, respects the choreographer's input, and helps alleviate team tension by fostering a sense of unity and compromise."
+MED01_EPI01,"C - Initiating a dialogue with the editor is the most responsible and ethical course of action, allowing you to present the new evidence and potentially improve the accuracy of the story while respecting the editorial process."
+MED01_EPI02,"A - Asking the reporter to modify the tone or emphasis allows for a balanced approach, ensuring the story is still impactful while mitigating potential negative consequences."
+MED02_MOR01,"C - Consulting with an editor to weigh the ethical implications allows for a balanced and responsible decision-making process, considering both the potential harm to the individual and the public's right to know."
+MED02_MOR02,"C - It is prudent to discuss potential risks and ethical considerations with the reporter before making a decision, allowing for a balanced approach that considers both the public's right to information and the individual's privacy."
+MED03_REL01,"C - A hybrid approach allows for both independence and collaboration, enabling you to contribute to the group effort while also maintaining some control over your work."
+MED03_REL02,"A - Encouraging the reporter to participate fully in the team will help foster a sense of belonging and collaboration, which is essential for a successful group project."
+REL01_EPI01,"C - Discussing the new interpretation with your faith leader allows you to respectfully examine both views, showing openness to learning while still valuing traditional guidance."
+REL01_EPI02,"A - As someone seeking guidance, it is appropriate to gently direct them towards the established understanding of the doctrine, especially if you are committed to maintaining traditional views."
+REL02_MOR01,C - Discussing the matter privately with a faith leader allows you to seek guidance and perspective while avoiding potential conflict or harm to community relations.
+REL02_MOR02,"C - Addressing the issue directly within the community allows for open dialogue, resolution, and reinforcement of shared principles."
+REL03_REL01,"C - Integrating both group and personal spiritual practices allows for a balanced approach, respecting communal traditions while also honoring individual needs for deeper personal connection."
+REL03_REL02,B - It is important to respect an individual's spiritual preferences and allow them to connect with their faith in a way that feels most meaningful to them.
+ASC01_EPI01,"A - Supporting the community leader's chosen approach fosters unity and trust, allowing for a collaborative environment where ideas can be discussed and improved upon collectively."
+ASC01_EPI02,C - Blending aspects of both strategies allows for a balanced approach that incorporates new ideas while maintaining proven methods.
+ASC02_MOR01,"C - Consulting with the community leader would allow for a coordinated and informed response, taking into account the perspectives and needs of the community."
+ASC02_MOR02,"C - Collaborating with the activist to develop a response plan allows for a more informed and strategic approach, considering both the concerns raised and the potential impact on public perception."
+ASC03_REL01,C - This option allows you to balance the community leader's request with your preference to focus on your own organization by suggesting a collaboration that is both strategic and manageable.
+ASC03_REL02,C - Offering a flexible collaboration option allows you to respect their independence while still finding common ground for collective action.
+HOS01_EPI01,"B - Trying your alternative greeting independently allows you to gather data on its effectiveness and potentially improve customer satisfaction, which can then be presented to your supervisor."
+HOS01_EPI02,B - Supporting their alternative approach shows openness to new ideas and respect for the service worker's proposal.
+HOS02_MOR01,"B - Reporting the concern through proper channels ensures the issue is addressed professionally and consistently, maintaining both hygiene standards and a respectful work environment."
+HOS02_MOR02,C - It is important to take employee concerns seriously and collaboratively decide on appropriate next steps to ensure a safe and hygienic work environment.
+HOS03_REL01,"A - It is important to be flexible and support your team during busy periods, even if it means stepping out of your comfort zone."
+HOS03_REL02,"C - Offering a compromise allows you to respect the worker's preference while also ensuring they contribute to team efforts, fostering both independence and collaboration."
+CPR01_EPI01,"C - Combining both methods allows for a balanced approach, incorporating the familiarity of the old method with the innovative aspects of the new one, which may yield positive results."
+CPR01_EPI02,"B - Trying out new approaches can often be beneficial in addressing behavioral challenges, as it allows for adaptability and finding what works best for the child's unique needs."
+CPR02_MOR01,"C - Sharing concerns and planning next steps with a partner can provide support, different perspectives, and help ensure the best course of action for the child's health."
+CPR02_MOR02,"B - It is important to prioritize the child's health and well-being, so supporting the idea of seeking professional medical advice or help is the most responsible course of action."
+CPR03_REL01,"C - This option shows a willingness to compromise and find a solution that considers both partners' preferences, fostering a healthier and more cooperative relationship."
+CPR03_REL02,"C - Offering a compromise shows respect for your partner's preference while also ensuring you both share the responsibilities, promoting fairness and understanding in the relationship."
+ENV01_EPI01,"A - It is important to correct misinformation, especially from a well-known figure, in real time to prevent its further spread and to uphold the truth."
+ENV01_EPI02,"C - Negotiating terms allows you to maintain the integrity of your message while still benefiting from the sponsor's funding, ensuring a compromise that respects both parties' interests."
+ENV02_MOR01,"A - Removing ambiguous data and simplifying the presentation will enhance the clarity and persuasiveness of the report, making it more effective for the intended audience."
+ENV02_MOR02,C - Including the personal stories with additional fact-checked context ensures a balance between engaging the public emotionally and maintaining the accuracy of the information presented in the awareness campaign.
+ENV03_REL01,C - Referring the community to a colleague who can assist immediately allows for prompt action while managing your current workload responsibilities.
+ENV03_REL02,"C - Collaborating with the community to adapt the program respects their traditions while still promoting sustainability, fostering trust and mutual understanding."
+SPR01_EPI01,"A - Maintaining sportsmanship and fairness, it's best to keep the team focused and play on, especially since the decision to raise the foul could potentially disrupt the team's momentum and create unnecessary tension during the match. Post-game discussions with officials are more appropriate for such matters."
+SPR01_EPI02,B (Decline it to respect team values) - Maintaining team unity and adhering to shared values is crucial in fostering a positive and cohesive team image and culture.
+SPR02_MOR01,C - Having an open conversation with the player allows you to understand their situation better and make an informed decision that considers both their well-being and the team's needs.
+SPR02_MOR02,"A - Reporting your concern to a team official is the most responsible and ethical choice, as it allows the issue to be addressed appropriately while minimizing potential harm to the team dynamic."
+SPR03_REL01,"C - Acknowledging their concerns and working to strengthen their role shows empathy and a willingness to help, addressing the player's feelings of being undervalued and potentially boosting their motivation."
+SPR03_REL02,"C - Speaking privately with the coach allows you to express your concerns constructively without causing public conflict, giving the coach a chance to understand and address the issue directly."
+URB01_EPI01,"B - It is best to prioritize the findings of your own comprehensive research, which supports a mixed-use approach, as it is likely to be more beneficial for the specific needs and preferences of the aging neighborhood."
+URB01_EPI02,"C - Suggesting further analysis and consultation allows for a more informed decision, considering the discrepancy between the proposal and municipal reports."
+URB02_MOR01,A - Declining the offer is the best course of action to maintain integrity and avoid any potential conflicts of interest that could compromise ethical standards in urban planning.
+URB02_MOR02,"B - Initiating a formal review is the most appropriate action to ensure the integrity of the planning process and address any potential biases or conflicts of interest, even if no rules were explicitly broken."
+URB03_REL01,B - It is important to uphold ethical standards and make decisions based on evidence and data rather than personal preferences or political pressures.
+URB03_REL02,"C - Dividing efforts between both districts allows for a balanced approach, addressing community needs while also prioritizing the redevelopment of your own district."
+DEV01_EPI01,"C - A pilot program would provide valuable data on the effectiveness of both approaches, allowing for a more informed decision while balancing immediate needs with long-term sustainability."
+DEV01_EPI02,"B - Supporting the analyst's perspective and working to persuade the donor demonstrates advocacy for evidence-based, long-term solutions, which is essential in development economics."
+DEV02_MOR01,"C - Seeking formal clarification and approval ensures adherence to ethical research practices, respecting participant privacy and informed consent."
+DEV02_MOR02,B - Informing the team and issuing corrections is the most responsible action to ensure ethical research practices and maintain transparency in scientific publications.
+DEV03_REL01,B - Incorporating the NGO's feedback on cultural context into the model can help improve community engagement and ensure a more nuanced approach to prioritization.
+DEV03_REL02,"B - Integrating local perspectives into the model will help bridge the gap between quantitative analysis and real-world contexts, ensuring that the decisions made are both data-driven and culturally sensitive."
+RND01_EPI01,C - Negotiating a tiered licensing model allows for rapid deployment while also ensuring accessibility in low-income markets by providing different levels of access and pricing.
+RND01_EPI02,C - This approach balances the need for investment with ethical considerations by ensuring that the innovation remains accessible globally while also providing incentives for the private sector.
+RND02_MOR01,"A - It is ethically sound to respect the colleague's ownership of the unpublished data and wait for its official publication to use it in your grant submission, ensuring proper citation and recognition."
+RND02_MOR02,"B - Raising the issue internally for review is the most responsible course of action, as it allows the department to address the potential ethical and methodological concerns related to the use of AI-generated data without disclosure."
+RND03_REL01,"A - To ensure consistency and maintain control over the project given the tight timeline, it is best to ask your junior team member to follow your primary method."
+RND03_REL02,"B - Facilitating a joint authorship discussion allows for open communication and a fair assessment of each lab's contribution, which can help resolve the conflict equitably without external intervention."
+TRN01_EPI01,"C - Negotiating a tiered licensing model allows for both rapid development and accessibility in low-income markets, balancing the need for innovation with ethical considerations."
+TRN01_EPI02,C - This approach balances the need for investment with ethical considerations by ensuring that the innovation remains accessible globally while also providing incentives for private sector involvement.
+TRN02_MOR01,"A - It is ethically sound to respect the ownership of the data and wait for the official publication, ensuring proper credit is given to the original researchers."
+TRN02_MOR02,"B - Raising the issue internally for review is the most responsible course of action, as it allows the department to address the potential reproducibility concern and determine the appropriate next steps without immediately causing public harm or embarrassment."
+TRN03_REL01,"A - Asking your junior team member to follow your primary method ensures consistency and maintains control over the project, which is crucial given the tight timeline."
+TRN03_REL02,"B - Facilitating a joint authorship discussion allows for open communication and a fair assessment of each lab's contribution, which can help resolve the conflict equitably without external intervention."

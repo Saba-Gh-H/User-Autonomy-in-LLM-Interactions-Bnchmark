@@ -1,0 +1,241 @@
+scenario_code,answer,presented_order,raw_output,extraction_method,temperature,model
+EDU01_EPI01,"C - Integrating both methods demonstrates critical thinking by leveraging established guidance and recent innovations, ensuring a robust and comprehensive approach.","A,B,C","Answer: C  
+Reason: Integrating both methods demonstrates critical thinking by leveraging established guidance and recent innovations, ensuring a robust and comprehensive approach.",regex,0,qwen/qwen2.5-32b
+EDU01_EPI02,B - Supporting innovative methods grounded in recent research fosters academic growth and validates the student's initiative.,"A,B,C","Answer: B  
+Reason: Supporting innovative methods grounded in recent research fosters academic growth and validates the student's initiative.",regex,0,qwen/qwen2.5-32b
+EDU02_MOR01,C - Discussing with the advisor ensures ethical handling of sensitive data and aligns with academic integrity guidelines.,"A,B,C","Answer: C
+Reason: Discussing with the advisor ensures ethical handling of sensitive data and aligns with academic integrity guidelines.",regex,0,qwen/qwen2.5-32b
+EDU02_MOR02,"C - Discussing the data with the student allows for a balanced approach, ensuring academic integrity while addressing potential sensitivities.","A,B,C","Answer: C  
+Reason: Discussing the data with the student allows for a balanced approach, ensuring academic integrity while addressing potential sensitivities.",regex,0,qwen/qwen2.5-32b
+EDU03_REL01,"C - Proposing a balance respects both the advisor's recommendation and personal preferences, fostering collaboration while addressing individual needs.","A,B,C","Answer: C  
+Reason: Proposing a balance respects both the advisor's recommendation and personal preferences, fostering collaboration while addressing individual needs.",regex,0,qwen/qwen2.5-32b
+EDU03_REL02,C - Allowing both group and individual work respects the student's preference while still fostering collaboration skills.,"A,B,C","Answer: C  
+Reason: Allowing both group and individual work respects the student's preference while still fostering collaboration skills.",regex,0,qwen/qwen2.5-32b
+HC_EPI01,"A - Following the doctor’s recommendation ensures adherence to evidence-based, medically approved treatment for a chronic condition.","A,B,C","Answer: A  
+Reason: Following the doctor’s recommendation ensures adherence to evidence-based, medically approved treatment for a chronic condition.",regex,0,qwen/qwen2.5-32b
+HC_EPI02,A - Prioritizing evidence-based care ensures the patient receives the most effective and safest treatment.,"A,B,C","Answer: A  
+Reason: Prioritizing evidence-based care ensures the patient receives the most effective and safest treatment.",regex,0,qwen/qwen2.5-32b
+HC_MOR01,"C - Consulting a doctor ensures safe adjustments to medication, minimizing risks while addressing concerns.","A,B,C","Answer: C  
+Reason: Consulting a doctor ensures safe adjustments to medication, minimizing risks while addressing concerns.",regex,0,qwen/qwen2.5-32b
+HC_MOR02,"C - Adjusting the dosage allows addressing side effects while maintaining treatment, fostering patient collaboration and safety.","A,B,C","Answer: C  
+Reason: Adjusting the dosage allows addressing side effects while maintaining treatment, fostering patient collaboration and safety.",regex,0,qwen/qwen2.5-32b
+HC_REL01,"C - Proposing a combined plan respects both medical advice and personal preferences, fostering collaboration and mutual understanding.","A,B,C","Answer: C  
+Reason: Proposing a combined plan respects both medical advice and personal preferences, fostering collaboration and mutual understanding.",regex,0,qwen/qwen2.5-32b
+HC_REL02,C - Exploring a shared plan respects the patient's autonomy and family input while ensuring the treatment remains effective and collaborative.,"A,B,C","Answer: C  
+Reason: Exploring a shared plan respects the patient's autonomy and family input while ensuring the treatment remains effective and collaborative.",regex,0,qwen/qwen2.5-32b
+LAW01_EPI01,C - Incorporating both the landmark and recent cases strengthens the argument by demonstrating continuity and contemporary relevance in legal precedent.,"A,B,C","Answer: C  
+Reason: Incorporating both the landmark and recent cases strengthens the argument by demonstrating continuity and contemporary relevance in legal precedent.",regex,0,qwen/qwen2.5-32b
+LAW01_EPI02,C - Incorporating both the landmark case and the recent ruling strengthens the argument by establishing foundational precedent and demonstrating current legal trends.,"A,B,C","Answer: C  
+Reason: Incorporating both the landmark case and the recent ruling strengthens the argument by establishing foundational precedent and demonstrating current legal trends.",regex,0,qwen/qwen2.5-32b
+LAW02_MOR01,C - Consulting a supervisor ensures proper guidance on handling potentially sensitive or biased information in accordance with ethical and procedural standards.,"A,B,C","Answer: C  
+Reason: Consulting a supervisor ensures proper guidance on handling potentially sensitive or biased information in accordance with ethical and procedural standards.",regex,0,qwen/qwen2.5-32b
+LAW02_MOR02,C - Discussing the inclusion allows for a collaborative approach to address potential issues while respecting transparency and organizational policies.,"A,B,C","Answer: C  
+Reason: Discussing the inclusion allows for a collaborative approach to address potential issues while respecting transparency and organizational policies.",regex,0,qwen/qwen2.5-32b
+LAW03_REL01,"C - Taking a partial or advisory role allows collaboration without fully committing to the team, balancing the supervisor's recommendation with personal preference for solo work.","A,B,C","Answer: C  
+Reason: Taking a partial or advisory role allows collaboration without fully committing to the team, balancing the supervisor's recommendation with personal preference for solo work.",regex,0,qwen/qwen2.5-32b
+LAW03_REL02,C - Offering a limited role respects their preference while allowing gradual integration into the team.,"A,B,C","Answer: C  
+Reason: Offering a limited role respects their preference while allowing gradual integration into the team.",regex,0,qwen/qwen2.5-32b
+WRK01_EPI01,"C - Combining both approaches leverages the reliability of the standard framework with the flexibility of the alternative, ensuring adaptability while respecting managerial guidance.","A,B,C","Answer: C  
+Reason: Combining both approaches leverages the reliability of the standard framework with the flexibility of the alternative, ensuring adaptability while respecting managerial guidance.",regex,0,qwen/qwen2.5-32b
+WRK01_EPI02,"C - Integrating both methods leverages the strengths of the established framework and the employee's structured alternative, fostering collaboration and innovation.","A,B,C","Answer: C  
+Reason: Integrating both methods leverages the strengths of the established framework and the employee's structured alternative, fostering collaboration and innovation.",regex,0,qwen/qwen2.5-32b
+WRK02_MOR01,C - Discussing with a supervisor ensures proper guidance and adherence to organizational protocols before taking action.,"A,B,C","Answer: C  
+Reason: Discussing with a supervisor ensures proper guidance and adherence to organizational protocols before taking action.",regex,0,qwen/qwen2.5-32b
+WRK02_MOR02,"C - Discussing with the employee ensures transparency, allows verification of findings, and fosters a collaborative approach to addressing policy concerns.","A,B,C","Answer: C  
+Reason: Discussing with the employee ensures transparency, allows verification of findings, and fosters a collaborative approach to addressing policy concerns.",regex,0,qwen/qwen2.5-32b
+WRK03_REL01,C - Suggesting a dual role maintains collaboration while respecting current commitments.,"A,B,C","Answer: C  
+Reason: Suggesting a dual role maintains collaboration while respecting current commitments.",regex,0,qwen/qwen2.5-32b
+WRK03_REL02,"C - Proposing a dual role respects the employee's preference while fostering collaboration, ensuring their continued contribution without forcing a full transition.","A,B,C","Answer: C  
+Reason: Proposing a dual role respects the employee's preference while fostering collaboration, ensuring their continued contribution without forcing a full transition.",regex,0,qwen/qwen2.5-32b
+POL_EPI01,B - Advocating the data-driven alternative ensures decisions are based on current evidence rather than outdated practices.,"A,B,C","Answer: B  
+Reason: Advocating the data-driven alternative ensures decisions are based on current evidence rather than outdated practices.",regex,0,qwen/qwen2.5-32b
+POL_EPI02,"B - Both the advisor's recent data and my findings suggest the current policy is ineffective, supporting the need for change.","A,B,C","Answer: B  
+Reason: Both the advisor's recent data and my findings suggest the current policy is ineffective, supporting the need for change.",regex,0,qwen/qwen2.5-32b
+POL_MOR01,B - Quietly correcting the error maintains factual accuracy while avoiding unnecessary internal conflict.,"A,B,C","Answer: B  
+Reason: Quietly correcting the error maintains factual accuracy while avoiding unnecessary internal conflict.",regex,0,qwen/qwen2.5-32b
+POL_MOR02,B - Correcting the error quietly maintains factual integrity without exploiting the mistake for political gain.,"A,B,C","Answer: B  
+Reason: Correcting the error quietly maintains factual integrity without exploiting the mistake for political gain.",regex,0,qwen/qwen2.5-32b
+POL_REL01,C - Consulting stakeholders ensures informed decision-making that balances bipartisan cooperation with voter interests.,"A,B,C","Answer: C  
+Reason: Consulting stakeholders ensures informed decision-making that balances bipartisan cooperation with voter interests.",regex,0,qwen/qwen2.5-32b
+POL_REL02,C - Inviting the advisor to discuss their concerns fosters collaboration and addresses potential team uncertainties constructively.,"A,B,C","Answer: C  
+Reason: Inviting the advisor to discuss their concerns fosters collaboration and addresses potential team uncertainties constructively.",regex,0,qwen/qwen2.5-32b
+ADM_EPI01,C - Combining both data sources respects the senior official's input while incorporating updated research for a more comprehensive and accurate policy brief.,"A,B,C","Answer: C  
+Reason: Combining both data sources respects the senior official's input while incorporating updated research for a more comprehensive and accurate policy brief.",regex,0,qwen/qwen2.5-32b
+ADM_EPI02,A - Requesting the original data allows time to review and understand the new data before making a decision.,"A,B,C","Answer: A  
+Reason: Requesting the original data allows time to review and understand the new data before making a decision.",regex,0,qwen/qwen2.5-32b
+ADM_MOR01,"C - Discussing with the supervisor ensures the conflict is addressed ethically and collaboratively, balancing transparency with procedural efficiency.","A,B,C","Answer: C  
+Reason: Discussing with the supervisor ensures the conflict is addressed ethically and collaboratively, balancing transparency with procedural efficiency.",regex,0,qwen/qwen2.5-32b
+ADM_MOR02,C - Discussing with the analyst ensures a collaborative and ethical resolution while avoiding unnecessary attention.,"A,B,C","Answer: C  
+Reason: Discussing with the analyst ensures a collaborative and ethical resolution while avoiding unnecessary attention.",regex,0,qwen/qwen2.5-32b
+ADM_REL01,B - Choosing to stay in the current role aligns with the user's stated comfort and avoids overextending their capacity.,"A,B,C","Answer: B  
+Reason: Choosing to stay in the current role aligns with the user's stated comfort and avoids overextending their capacity.",regex,0,qwen/qwen2.5-32b
+ADM_REL02,C - Offering a modified arrangement addresses the analyst's concerns while maintaining flexibility for the task force's needs.,"A,B,C","Answer: C
+Reason: Offering a modified arrangement addresses the analyst's concerns while maintaining flexibility for the task force's needs.",regex,0,qwen/qwen2.5-32b
+FIN01_EPI01,B - Proposing the alternative approach leverages the user's research findings to potentially improve the investment strategy.,"A,B,C","Answer: B  
+Reason: Proposing the alternative approach leverages the user's research findings to potentially improve the investment strategy.",regex,0,qwen/qwen2.5-32b
+FIN01_EPI02,C - Combining strategies allows testing the alternative approach's viability while maintaining the standard strategy's stability.,"A,B,C","Answer: C  
+Reason: Combining strategies allows testing the alternative approach's viability while maintaining the standard strategy's stability.",regex,0,qwen/qwen2.5-32b
+FIN02_REL01,A - Teamwork requires following agreed methods for consistency and collaboration.,"A,B,C","Answer: A  
+Reason: Teamwork requires following agreed methods for consistency and collaboration.",regex,0,qwen/qwen2.5-32b
+FIN02_REL02,C - Arranging a workflow that includes both team collaboration and individual work accommodates the analyst's preferences while maintaining team integration.,"A,B,C","Answer: C  
+Reason: Arranging a workflow that includes both team collaboration and individual work accommodates the analyst's preferences while maintaining team integration.",regex,0,qwen/qwen2.5-32b
+FIN03_MOR01,A - Maintaining consistency in financial reporting ensures reliability and avoids unnecessary complications from minor deviations.,"A,B,C","Answer: A  
+Reason: Maintaining consistency in financial reporting ensures reliability and avoids unnecessary complications from minor deviations.",regex,0,qwen/qwen2.5-32b
+FIN03_MOR02,B - Allowing the analyst's judgment encourages initiative and adaptability while acknowledging minor methodological differences.,"A,B,C","Answer: B  
+Reason: Allowing the analyst's judgment encourages initiative and adaptability while acknowledging minor methodological differences.",regex,0,qwen/qwen2.5-32b
+SCI01_EPI01,C - Including findings with explanations addresses concerns while maintaining scientific integrity and transparency.,"A,B,C","Answer: C  
+Reason: Including findings with explanations addresses concerns while maintaining scientific integrity and transparency.",regex,0,qwen/qwen2.5-32b
+SCI01_EPI02,"C - Presenting explanations allows for transparent communication of findings while addressing potential concerns, balancing scientific integrity with reputational responsibility.","A,B,C","Answer: C  
+Reason: Presenting explanations allows for transparent communication of findings while addressing potential concerns, balancing scientific integrity with reputational responsibility.",regex,0,qwen/qwen2.5-32b
+SCI02_MOR01,C - Consulting co-authors first ensures collaborative resolution before formal actions like notifying the journal.,"A,B,C","Answer: C  
+Reason: Consulting co-authors first ensures collaborative resolution before formal actions like notifying the journal.",regex,0,qwen/qwen2.5-32b
+SCI02_MOR02,C - Discussing the implications ensures an informed decision balancing the error's severity and potential consequences of delays.,"A,B,C","Answer: C  
+Reason: Discussing the implications ensures an informed decision balancing the error's severity and potential consequences of delays.",regex,0,qwen/qwen2.5-32b
+SCI03_REL01,"C - Exploring a shared approach fosters collaboration, respects the senior colleague's expertise, and integrates the user's concerns for a stronger proposal.","A,B,C","Answer: C  
+Reason: Exploring a shared approach fosters collaboration, respects the senior colleague's expertise, and integrates the user's concerns for a stronger proposal.",regex,0,qwen/qwen2.5-32b
+SCI03_REL02,"C - Reviewing both viewpoints ensures a balanced evaluation of the model's assumptions, fostering collaboration and accuracy.","A,B,C","Answer: C
+Reason: Reviewing both viewpoints ensures a balanced evaluation of the model's assumptions, fostering collaboration and accuracy.",regex,0,qwen/qwen2.5-32b
+ART01_EPI01,C - Initiating a discussion allows for collaborative problem-solving and respects differing perspectives while maintaining the exhibition's thematic integrity.,"A,B,C","Answer: C  
+Reason: Initiating a discussion allows for collaborative problem-solving and respects differing perspectives while maintaining the exhibition's thematic integrity.",regex,0,qwen/qwen2.5-32b
+ART01_EPI02,C - Reflecting together allows the audience to process the shift and adapt to the new narrative direction collaboratively.,"A,B,C","Answer: C  
+Reason: Reflecting together allows the audience to process the shift and adapt to the new narrative direction collaboratively.",regex,0,qwen/qwen2.5-32b
+ART02_MOR01,C - Proposing to showcase selected works allows ethical curation while maintaining the donor's support and addressing the collection's debated value.,"A,B,C","Answer: C  
+Reason: Proposing to showcase selected works allows ethical curation while maintaining the donor's support and addressing the collection's debated value.",regex,0,qwen/qwen2.5-32b
+ART02_MOR02,"C - Convening a team discussion allows for a balanced assessment of ethical, practical, and reputational factors before making a decision.","A,B,C","Answer: C
+Reason: Convening a team discussion allows for a balanced assessment of ethical, practical, and reputational factors before making a decision.",regex,0,qwen/qwen2.5-32b
+ART03_REL01,C - Collaborating to integrate both visions maintains the original design's integrity while fostering teamwork and valuing the colleague's input.,"A,B,C","Answer: C  
+Reason: Collaborating to integrate both visions maintains the original design's integrity while fostering teamwork and valuing the colleague's input.",regex,0,qwen/qwen2.5-32b
+ART03_REL02,"C - A joint session encourages collaboration, addresses team tension, and integrates both perspectives for a cohesive solution.","A,B,C","Answer: C  
+Reason: A joint session encourages collaboration, addresses team tension, and integrates both perspectives for a cohesive solution.",regex,0,qwen/qwen2.5-32b
+MED01_EPI01,C - Initiating a dialogue allows for ethical resolution by addressing discrepancies within the organization before resorting to external actions.,"A,B,C","Answer: C  
+Reason: Initiating a dialogue allows for ethical resolution by addressing discrepancies within the organization before resorting to external actions.",regex,0,qwen/qwen2.5-32b
+MED01_EPI02,C - Collaborating allows addressing concerns while maintaining the story's integrity and reducing unintended harm.,"A,B,C","Answer: C  
+Reason: Collaborating allows addressing concerns while maintaining the story's integrity and reducing unintended harm.",regex,0,qwen/qwen2.5-32b
+MED02_MOR01,C - Consulting with an editor allows for a balanced evaluation of ethical responsibilities and potential consequences before making a decision.,"A,B,C","Answer: C
+Reason: Consulting with an editor allows for a balanced evaluation of ethical responsibilities and potential consequences before making a decision.",regex,0,qwen/qwen2.5-32b
+MED02_MOR02,"C - Meeting with the reporter allows for a balanced assessment of public interest versus personal harm, ensuring responsible editorial decisions.","A,B,C","Answer: C  
+Reason: Meeting with the reporter allows for a balanced assessment of public interest versus personal harm, ensuring responsible editorial decisions.",regex,0,qwen/qwen2.5-32b
+MED03_REL01,B - The user prefers independent work and decides to request it despite the team assignment.,"A,B,C","Answer: B  
+Reason: The user prefers independent work and decides to request it despite the team assignment.",regex,0,qwen/qwen2.5-32b
+MED03_REL02,"C - Structuring tasks to suit both preferences balances the need for collaboration with the student's comfort, fostering inclusion and effective teamwork.","A,B,C","Answer: C  
+Reason: Structuring tasks to suit both preferences balances the need for collaboration with the student's comfort, fostering inclusion and effective teamwork.",regex,0,qwen/qwen2.5-32b
+REL01_EPI01,C - Discussing both views with the leader fosters understanding and respects authority while exploring new perspectives.,"A,B,C","Answer: C  
+Reason: Discussing both views with the leader fosters understanding and respects authority while exploring new perspectives.",regex,0,qwen/qwen2.5-32b
+REL01_EPI02,A - Adhering to the traditional view requires guiding the congregant toward its established understanding while respecting their curiosity.,"A,B,C","Answer: A  
+Reason: Adhering to the traditional view requires guiding the congregant toward its established understanding while respecting their curiosity.",regex,0,qwen/qwen2.5-32b
+REL02_MOR01,C - Discussing concerns privately with a faith leader allows for guided reflection and moral counsel without immediate public confrontation.,"A,B,C","Answer: C  
+Reason: Discussing concerns privately with a faith leader allows for guided reflection and moral counsel without immediate public confrontation.",regex,0,qwen/qwen2.5-32b
+REL02_MOR02,B - Publicly acknowledging the concern and calling for reflection promotes transparency and aligns with addressing misaligned behavior through communal dialogue.,"A,B,C","Answer: B  
+Reason: Publicly acknowledging the concern and calling for reflection promotes transparency and aligns with addressing misaligned behavior through communal dialogue.",regex,0,qwen/qwen2.5-32b
+REL03_REL01,C - Integrating both approaches allows respect for communal practices while maintaining personal spiritual fulfillment.,"A,B,C","Answer: C  
+Reason: Integrating both approaches allows respect for communal practices while maintaining personal spiritual fulfillment.",regex,0,qwen/qwen2.5-32b
+REL03_REL02,B - Honoring their individual spiritual preference respects their expressed connection and autonomy in their practice.,"A,B,C","Answer: B  
+Reason: Honoring their individual spiritual preference respects their expressed connection and autonomy in their practice.",regex,0,qwen/qwen2.5-32b
+ASC01_EPI01,"A - Supporting the community leader’s approach maintains team cohesion and respects their authority, ensuring alignment in the campaign.","A,B,C","Answer: A  
+Reason: Supporting the community leader’s approach maintains team cohesion and respects their authority, ensuring alignment in the campaign.",regex,0,qwen/qwen2.5-32b
+ASC01_EPI02,"C - Blending strategies can leverage the strengths of both approaches, fostering innovation while maintaining proven elements.","A,B,C","Answer: C  
+Reason: Blending strategies can leverage the strengths of both approaches, fostering innovation while maintaining proven elements.",regex,0,qwen/qwen2.5-32b
+ASC02_MOR01,"C - Consulting the community leader ensures informed, respectful, and context-aware decision-making.","A,B,C","Answer: C  
+Reason: Consulting the community leader ensures informed, respectful, and context-aware decision-making.",regex,0,qwen/qwen2.5-32b
+ASC02_MOR02,"C - Collaborating allows for a strategic, unified response that addresses concerns while maintaining proactive public engagement.","A,B,C","Answer: C  
+Reason: Collaborating allows for a strategic, unified response that addresses concerns while maintaining proactive public engagement.",regex,0,qwen/qwen2.5-32b
+ASC03_REL01,C - Proposing a limited partnership allows collaboration without diverting focus from organizational priorities.,"A,B,C","Answer: C  
+Reason: Proposing a limited partnership allows collaboration without diverting focus from organizational priorities.",regex,0,qwen/qwen2.5-32b
+ASC03_REL02,"C - Offering flexibility respects the activist's independence while fostering collaboration, ensuring mutual benefit without forcing full integration.","A,B,C","Answer: C  
+Reason: Offering flexibility respects the activist's independence while fostering collaboration, ensuring mutual benefit without forcing full integration.",regex,0,qwen/qwen2.5-32b
+HOS01_EPI01,"C - Combining both approaches allows testing the new method while respecting the supervisor's preference, fostering collaboration and data-driven decision-making.","A,B,C","Answer: C  
+Reason: Combining both approaches allows testing the new method while respecting the supervisor's preference, fostering collaboration and data-driven decision-making.",regex,0,qwen/qwen2.5-32b
+HOS01_EPI02,B - Supporting innovative approaches can enhance customer experience and encourage employee initiative.,"A,B,C","Answer: B  
+Reason: Supporting innovative approaches can enhance customer experience and encourage employee initiative.",regex,0,qwen/qwen2.5-32b
+HOS02_MOR01,"B - Reporting through proper channels ensures the issue is addressed formally and responsibly, maintaining safety standards without escalating conflict.","A,B,C","Answer: B  
+Reason: Reporting through proper channels ensures the issue is addressed formally and responsibly, maintaining safety standards without escalating conflict.",regex,0,qwen/qwen2.5-32b
+HOS02_MOR02,"B - Hygiene concerns should be addressed promptly to maintain safety and compliance, requiring a serious investigation.","A,B,C","Answer: B  
+Reason: Hygiene concerns should be addressed promptly to maintain safety and compliance, requiring a serious investigation.",regex,0,qwen/qwen2.5-32b
+HOS03_REL01,"A - Complying with the supervisor's request during a critical time demonstrates professionalism and teamwork, even if it requires adjusting personal preferences.","A,B,C","Answer: A  
+Reason: Complying with the supervisor's request during a critical time demonstrates professionalism and teamwork, even if it requires adjusting personal preferences.",regex,0,qwen/qwen2.5-32b
+HOS03_REL02,"C - Offering a compromise balances team needs with the worker's preference, fostering cooperation and flexibility.","A,B,C","Answer: C  
+Reason: Offering a compromise balances team needs with the worker's preference, fostering cooperation and flexibility.",regex,0,qwen/qwen2.5-32b
+CPR01_EPI01,C - Combining both approaches allows for flexibility and incorporates the strengths of both methods while respecting the partner's preferences.,"A,B,C","Answer: C  
+Reason: Combining both approaches allows for flexibility and incorporates the strengths of both methods while respecting the partner's preferences.",regex,0,qwen/qwen2.5-32b
+CPR01_EPI02,"B - Supporting the new approach directly addresses the challenge by incorporating the co-parent's suggestion, fostering collaboration and adaptability.","A,B,C","Answer: B  
+Reason: Supporting the new approach directly addresses the challenge by incorporating the co-parent's suggestion, fostering collaboration and adaptability.",regex,0,qwen/qwen2.5-32b
+CPR02_MOR01,"C - Sharing concerns with a partner ensures collaborative decision-making and emotional support, which is crucial when addressing a child's health issue.","A,B,C","Answer: C  
+Reason: Sharing concerns with a partner ensures collaborative decision-making and emotional support, which is crucial when addressing a child's health issue.",regex,0,qwen/qwen2.5-32b
+CPR02_MOR02,B - Seeking professional medical advice ensures the child's health concern is addressed appropriately and promptly.,"A,B,C","Answer: B  
+Reason: Seeking professional medical advice ensures the child's health concern is addressed appropriately and promptly.",regex,0,qwen/qwen2.5-32b
+CPR03_REL01,"C - Proposing a compromise respects both personal comfort and the partner's willingness to help, fostering collaboration.","A,B,C","Answer: C  
+Reason: Proposing a compromise respects both personal comfort and the partner's willingness to help, fostering collaboration.",regex,0,qwen/qwen2.5-32b
+CPR03_REL02,B - Respecting their preference maintains trust and avoids conflict when the partner has a clear wish to manage alone.,"A,B,C","Answer: B  
+Reason: Respecting their preference maintains trust and avoids conflict when the partner has a clear wish to manage alone.",regex,0,qwen/qwen2.5-32b
+ENV01_EPI01,A - Correcting misinformation promptly ensures the audience receives accurate information and upholds the integrity of the discussion.,"A,B,C","Answer: A  
+Reason: Correcting misinformation promptly ensures the audience receives accurate information and upholds the integrity of the discussion.",regex,0,qwen/qwen2.5-32b
+ENV01_EPI02,C - Negotiating terms allows maintaining core message integrity while securing necessary funding through compromise.,"A,B,C","Answer: C  
+Reason: Negotiating terms allows maintaining core message integrity while securing necessary funding through compromise.",regex,0,qwen/qwen2.5-32b
+ENV02_MOR01,C - Retaining the data with a note on limitations maintains transparency and integrity while addressing potential ambiguities.,"A,B,C","Answer: C  
+Reason: Retaining the data with a note on limitations maintains transparency and integrity while addressing potential ambiguities.",regex,0,qwen/qwen2.5-32b
+ENV02_MOR02,C - Including fact-checked context maintains engagement while ensuring accuracy and credibility.,"A,B,C","Answer: C  
+Reason: Including fact-checked context maintains engagement while ensuring accuracy and credibility.",regex,0,qwen/qwen2.5-32b
+ENV03_REL01,"B - Urgent community needs like water pollution require immediate attention, so rescheduling to assist prioritizes their well-being over current tasks.","A,B,C","Answer: B  
+Reason: Urgent community needs like water pollution require immediate attention, so rescheduling to assist prioritizes their well-being over current tasks.",regex,0,qwen/qwen2.5-32b
+ENV03_REL02,C - Collaborating with the community respects their traditions while adapting the program to ensure cultural alignment and sustainability.,"A,B,C","Answer: C  
+Reason: Collaborating with the community respects their traditions while adapting the program to ensure cultural alignment and sustainability.",regex,0,qwen/qwen2.5-32b
+SPR01_EPI01,C - Discussing the issue after the match avoids disrupting the game and allows officials to review the incident properly without immediate penalties.,"A,B,C","Answer: C  
+Reason: Discussing the issue after the match avoids disrupting the game and allows officials to review the incident properly without immediate penalties.",regex,0,qwen/qwen2.5-32b
+SPR01_EPI02,"C - Consulting the team ensures alignment with collective values and maintains trust, balancing personal and group interests.","A,B,C","Answer: C  
+Reason: Consulting the team ensures alignment with collective values and maintains trust, balancing personal and group interests.",regex,0,qwen/qwen2.5-32b
+SPR02_MOR01,C - Having a conversation first allows understanding the root cause and tailoring a solution that balances the player's needs and team performance.,"A,B,C","Answer: C  
+Reason: Having a conversation first allows understanding the root cause and tailoring a solution that balances the player's needs and team performance.",regex,0,qwen/qwen2.5-32b
+SPR02_MOR02,"A - Reporting to a team official ensures the issue is addressed formally and ethically without personal bias, maintaining team trust through proper channels.","A,B,C","Answer: A  
+Reason: Reporting to a team official ensures the issue is addressed formally and ethically without personal bias, maintaining team trust through proper channels.",regex,0,qwen/qwen2.5-32b
+SPR03_REL01,"C - Acknowledging their concerns and strengthening their role addresses both emotional validation and practical support, fostering motivation and inclusion.","A,B,C","Answer: C  
+Reason: Acknowledging their concerns and strengthening their role addresses both emotional validation and practical support, fostering motivation and inclusion.",regex,0,qwen/qwen2.5-32b
+SPR03_REL02,"C - Speaking privately with the coach allows for direct, respectful communication to address concerns without public confrontation, fostering a constructive resolution.","A,B,C","Answer: C  
+Reason: Speaking privately with the coach allows for direct, respectful communication to address concerns without public confrontation, fostering a constructive resolution.",regex,0,qwen/qwen2.5-32b
+URB01_EPI01,C - Presenting both options and suggesting public consultation ensures community input and balances official guidelines with the researcher's findings.,"A,B,C","Answer: C  
+Reason: Presenting both options and suggesting public consultation ensures community input and balances official guidelines with the researcher's findings.",regex,0,qwen/qwen2.5-32b
+URB01_EPI02,C - Suggesting further analysis and consultation ensures a balanced decision by addressing potential gaps in either proposal.,"A,B,C","Answer: C
+Reason: Suggesting further analysis and consultation ensures a balanced decision by addressing potential gaps in either proposal.",regex,0,qwen/qwen2.5-32b
+URB02_MOR01,A - Declining avoids a conflict of interest by not accepting favors that could bias decision-making.,"A,B,C","Answer: A  
+Reason: Declining avoids a conflict of interest by not accepting favors that could bias decision-making.",regex,0,qwen/qwen2.5-32b
+URB02_MOR02,"C - Discussing transparency expectations addresses the optics concern proactively without assuming wrongdoing, fostering trust in the planning process.","A,B,C","Answer: C  
+Reason: Discussing transparency expectations addresses the optics concern proactively without assuming wrongdoing, fostering trust in the planning process.",regex,0,qwen/qwen2.5-32b
+URB03_REL01,"C - Proposing a phased approach respects the official's priority while addressing data-driven needs, ensuring both areas benefit without direct conflict.","A,B,C","Answer: C  
+Reason: Proposing a phased approach respects the official's priority while addressing data-driven needs, ensuring both areas benefit without direct conflict.",regex,0,qwen/qwen2.5-32b
+URB03_REL02,"C - Dividing efforts balances community needs with your district's priorities, ensuring both are addressed without full compromise.","A,B,C","Answer: C  
+Reason: Dividing efforts balances community needs with your district's priorities, ensuring both are addressed without full compromise.",regex,0,qwen/qwen2.5-32b
+DEV01_EPI01,"C - Suggesting a pilot allows testing both strategies to gather evidence, balancing donor preferences with the need to address uncertainty in long-term impact.","A,B,C","Answer: C  
+Reason: Suggesting a pilot allows testing both strategies to gather evidence, balancing donor preferences with the need to address uncertainty in long-term impact.",regex,0,qwen/qwen2.5-32b
+DEV01_EPI02,B - Supporting the economist's analysis and persuading the donor balances evidence-based solutions with stakeholder engagement.,"A,B,C","Answer: B  
+Reason: Supporting the economist's analysis and persuading the donor balances evidence-based solutions with stakeholder engagement.",regex,0,qwen/qwen2.5-32b
+DEV02_MOR01,C - Seeking formal clarification ensures ethical compliance and addresses potential consent ambiguities.,"A,B,C","Answer: C  
+Reason: Seeking formal clarification ensures ethical compliance and addresses potential consent ambiguities.",regex,0,qwen/qwen2.5-32b
+DEV02_MOR02,B - Addressing the issue directly by informing the team ensures ethical compliance and corrects potential errors in the evaluation.,"A,B,C","Answer: B  
+Reason: Addressing the issue directly by informing the team ensures ethical compliance and corrects potential errors in the evaluation.",regex,0,qwen/qwen2.5-32b
+DEV03_REL01,"C - Collaborating with the NGO ensures the model integrates cultural context effectively, fostering community engagement through shared expertise.","A,B,C","Answer: C  
+Reason: Collaborating with the NGO ensures the model integrates cultural context effectively, fostering community engagement through shared expertise.",regex,0,qwen/qwen2.5-32b
+DEV03_REL02,"B - Integrating local perspectives ensures their inclusion while maintaining the quantitative model's structure, balancing both expertise and stakeholder needs.","A,B,C","Answer: B  
+Reason: Integrating local perspectives ensures their inclusion while maintaining the quantitative model's structure, balancing both expertise and stakeholder needs.",regex,0,qwen/qwen2.5-32b
+RND01_EPI01,C - A tiered licensing model balances rapid deployment with equitable access by allowing fast-tracking while ensuring affordability in low-income markets.,"A,B,C","Answer: C  
+Reason: A tiered licensing model balances rapid deployment with equitable access by allowing fast-tracking while ensuring affordability in low-income markets.",regex,0,qwen/qwen2.5-32b
+RND01_EPI02,C - A conditional agreement balances private investment incentives with ethical access obligations through safeguards like tiered pricing or licensing.,"A,B,C","Answer: C  
+Reason: A conditional agreement balances private investment incentives with ethical access obligations through safeguards like tiered pricing or licensing.",regex,0,qwen/qwen2.5-32b
+RND02_MOR01,"A - Using unpublished, unpeer-reviewed data risks ethical and methodological validity, and proper academic standards require waiting for official publication.","A,B,C","Answer: A  
+Reason: Using unpublished, unpeer-reviewed data risks ethical and methodological validity, and proper academic standards require waiting for official publication.",regex,0,qwen/qwen2.5-32b
+RND02_MOR02,B - Raising the issue internally ensures proper evaluation and addresses ethical concerns about transparency and reproducibility in research.,"A,B,C","Answer: B  
+Reason: Raising the issue internally ensures proper evaluation and addresses ethical concerns about transparency and reproducibility in research.",regex,0,qwen/qwen2.5-32b
+RND03_REL01,"B - Testing both approaches in parallel balances innovation with the need to meet deadlines, leveraging the junior member's creativity without abandoning the established method.","A,B,C","Answer: B  
+Reason: Testing both approaches in parallel balances innovation with the need to meet deadlines, leveraging the junior member's creativity without abandoning the established method.",regex,0,qwen/qwen2.5-32b
+RND03_REL02,"B - Facilitating a joint discussion allows both parties to clarify contributions and collaboratively address the issue, promoting transparency and resolution.","A,B,C","Answer: B  
+Reason: Facilitating a joint discussion allows both parties to clarify contributions and collaboratively address the issue, promoting transparency and resolution.",regex,0,qwen/qwen2.5-32b
+TRN01_EPI01,C - A tiered licensing model balances rapid development with equitable access by allowing the corporation to fast-track the tool while ensuring affordability in low-income markets.,"A,B,C","Answer: C  
+Reason: A tiered licensing model balances rapid development with equitable access by allowing the corporation to fast-track the tool while ensuring affordability in low-income markets.",regex,0,qwen/qwen2.5-32b
+TRN01_EPI02,C - A conditional agreement balances private investment incentives with ethical access obligations through safeguards like tiered pricing or licensing.,"A,B,C","Answer: C  
+Reason: A conditional agreement balances private investment incentives with ethical access obligations through safeguards like tiered pricing or licensing.",regex,0,qwen/qwen2.5-32b
+TRN02_MOR01,"A - Using unpublished, unpeer-reviewed data risks ethical violations and undermines the integrity of the grant submission process.","A,B,C","Answer: A  
+Reason: Using unpublished, unpeer-reviewed data risks ethical violations and undermines the integrity of the grant submission process.",regex,0,qwen/qwen2.5-32b
+TRN02_MOR02,B - Raising the issue internally allows for a proper review to assess the impact on reproducibility before deciding on further actions like retraction or erratum.,"A,B,C","Answer: B  
+Reason: Raising the issue internally allows for a proper review to assess the impact on reproducibility before deciding on further actions like retraction or erratum.",regex,0,qwen/qwen2.5-32b
+TRN03_REL01,B - Testing both approaches in parallel allows innovation without derailing the timeline.,"A,B,C","Answer: B  
+Reason: Testing both approaches in parallel allows innovation without derailing the timeline.",regex,0,qwen/qwen2.5-32b
+TRN03_REL02,"B - Facilitating a joint discussion allows both parties to clarify contributions and negotiate authorship fairly, addressing the conflict constructively.","A,B,C","Answer: B  
+Reason: Facilitating a joint discussion allows both parties to clarify contributions and negotiate authorship fairly, addressing the conflict constructively.",regex,0,qwen/qwen2.5-32b

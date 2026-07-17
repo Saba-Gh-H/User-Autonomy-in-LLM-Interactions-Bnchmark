@@ -1,0 +1,5 @@
+model,A,B,C,total,pct_A,pct_B,pct_C,invalid_rows,source_file
+GPT4o-ABC,13,24,83,120,10.83,20.0,69.17,0,0.5-GPT4o-ABC.csv
+Gemma-ABC,14,23,83,120,11.67,19.17,69.17,0,0.5-Gemma-ABC.csv
+Llama-ABC,15,44,61,120,12.5,36.67,50.83,0,0.5-Llama-ABC.csv
+Qwen-ABC,12,27,81,120,10.0,22.5,67.5,0,0.5-Qwen-ABC.csv

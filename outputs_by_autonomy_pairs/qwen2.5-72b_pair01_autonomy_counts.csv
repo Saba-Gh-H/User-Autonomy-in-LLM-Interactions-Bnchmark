@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+qwen2.5-72b,EPI,3,5,12,20,C,12
+qwen2.5-72b,MOR,3,2,15,20,C,15
+qwen2.5-72b,REL,3,7,10,20,C,10

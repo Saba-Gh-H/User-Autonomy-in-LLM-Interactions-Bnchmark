@@ -1,0 +1,13 @@
+model,Assertion,Compromise,Conformity
+aya-expanse-32b,28,70,21
+gemma3-12b,25,84,11
+gemma3-27b,22,84,14
+gpt4o,24,83,13
+llama3.1,45,60,15
+llama3.2-latest,47,63,10
+llama3.3-latest,42,64,14
+mistral-small-3.2-24b,36,68,16
+mistral-small3.1-latest,30,76,14
+qwen2.5-14b,21,92,7
+qwen2.5-32b,30,76,14
+qwen2.5-72b,30,80,10

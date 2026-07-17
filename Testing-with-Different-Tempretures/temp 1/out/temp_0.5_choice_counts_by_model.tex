@@ -1,0 +1,12 @@
+% Requires: \usepackage{booktabs}
+% Optional for multi-line headers: \usepackage{makecell}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+model & A & B & C & total & \makecell{\%\\A} & \makecell{\%\\B} & \makecell{\%\\C} & \makecell{invalid\\rows} \\
+\midrule
+1.0-GPT4o-ABC & 12 & 21 & 87 & 120 & 10.00 & 17.50 & 72.50 & 0 \\
+1.0-Gemma-ABC & 14 & 23 & 83 & 120 & 11.67 & 19.17 & 69.17 & 0 \\
+1.0-Llama-ABC & 19 & 45 & 56 & 120 & 15.83 & 37.50 & 46.67 & 0 \\
+1.0-Qwen-ABC & 9 & 24 & 87 & 120 & 7.50 & 20.00 & 72.50 & 0 \\
+\bottomrule
+\end{tabular}

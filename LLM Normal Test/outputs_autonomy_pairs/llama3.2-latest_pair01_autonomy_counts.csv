@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+llama3.2-latest,EPI,1,9,10,20,C,10
+llama3.2-latest,MOR,3,4,13,20,C,13
+llama3.2-latest,REL,0,10,10,20,B,10

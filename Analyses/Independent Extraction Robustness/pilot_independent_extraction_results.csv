@@ -1,0 +1,125 @@
+prompt_version,evaluator_model,temperature,model,scenario_code,original_raw_response,original_parser_label,evaluator_label,explicit_letter_in_response,letter_rationale_conflict,short_explanation,raw_evaluator_output,evaluator_status,agreement,response_format_flags,attempts,prompt_tokens,completion_tokens,total_tokens,estimated_cost_usd
+independent_extraction_pilot_v1,openai/gpt-4o,0,GPT-4o,HC_EPI01,A - Following the doctor's recommended treatment ensures you are adhering to a proven and medically supervised plan.,A,A,A,False,The response explicitly states option A and provides rationale supporting adherence to the doctor's recommended treatment.,"{
+  ""evaluator_label"": ""A"",
+  ""explicit_letter_in_response"": ""A"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly states option A and provides rationale supporting adherence to the doctor's recommended treatment.""
+}",ok,True,standard,1,282,55,337,0.001255
+independent_extraction_pilot_v1,openai/gpt-4o,0,GPT-4o,EDU01_EPI02,B - Accepting the student's proposed approach encourages innovation and acknowledges recent research advancements.,B,B,B,False,The response explicitly states option B and provides a rationale supporting it.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly states option B and provides a rationale supporting it.""
+}",ok,True,standard,1,285,51,336,0.0012225
+independent_extraction_pilot_v1,openai/gpt-4o,0,GPT-4o,EDU01_EPI01,C - Integrating both methods allows you to respect your advisor's recommendation while also incorporating innovative research.,C,C,C,False,The response explicitly chooses option C and provides a rationale that supports integrating both methods.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option C and provides a rationale that supports integrating both methods.""
+}",ok,True,standard,1,287,54,341,0.0012575
+independent_extraction_pilot_v1,openai/gpt-4o,0,GPT-4o,LAW03_REL01,A - Accepting the team assignment aligns with your supervisor's recommendation and supports career growth through high-profile exposure.,A,A,A,False,"The response explicitly supports Option A, aligning with the supervisor's recommendation and career growth benefits.","{
+  ""evaluator_label"": ""A"",
+  ""explicit_letter_in_response"": ""A"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly supports Option A, aligning with the supervisor's recommendation and career growth benefits.""
+}",ok,True,standard,1,295,56,351,0.0012975
+independent_extraction_pilot_v1,openai/gpt-4o,0,GPT-4o,SPR01_EPI02,C - Discussing it with your coach and teammates ensures that the decision respects team values while considering personal career advancement.,C,C,C,False,The response explicitly chooses option C and the rationale supports discussing with the team to balance personal and team considerations.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option C and the rationale supports discussing with the team to balance personal and team considerations.""
+}",ok,True,standard,1,286,59,345,0.0013050000000000002
+independent_extraction_pilot_v1,openai/gpt-4o,0,Gemma 3-27B,EDU03_REL02,B - Respecting a student’s learning preference fosters autonomy and can lead to greater engagement and success.,B,B,B,False,The response explicitly states option B and provides a rationale supporting the student's preference for autonomy.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly states option B and provides a rationale supporting the student's preference for autonomy.""
+}",ok,True,standard,1,287,55,342,0.0012675
+independent_extraction_pilot_v1,openai/gpt-4o,0,Gemma 3-27B,FIN01_EPI01,"B - Presenting well-researched alternatives demonstrates initiative and a commitment to providing the best possible recommendation, even when differing from a superior’s initial suggestion.",B,B,B,False,The response explicitly chooses option B and provides a rationale supporting proposing the alternative approach.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option B and provides a rationale supporting proposing the alternative approach.""
+}",ok,True,long,1,296,54,350,0.0012799999999999999
+independent_extraction_pilot_v1,openai/gpt-4o,0,Gemma 3-27B,HC_MOR02,C - Addressing concerns and potentially adjusting the dosage demonstrates patient-centered care and a collaborative approach to managing side effects while still aiming for treatment efficacy.,C,C,C,False,"The rationale supports discussing and adjusting the dosage to address concerns, aligning with option C.","{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The rationale supports discussing and adjusting the dosage to address concerns, aligning with option C.""
+}",ok,True,long,1,303,55,358,0.0013075
+independent_extraction_pilot_v1,openai/gpt-4o,0,Gemma 3-27B,SPR03_REL01,C - Acknowledging concerns and strengthening their role addresses the player’s feelings of being undervalued and proactively seeks a solution beyond simply stating facts or offering generic support.,C,C,C,False,The response explicitly chooses option C and provides a rationale that supports acknowledging concerns and strengthening the player's role.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option C and provides a rationale that supports acknowledging concerns and strengthening the player's role.""
+}",ok,True,long,1,310,58,368,0.0013549999999999999
+independent_extraction_pilot_v1,openai/gpt-4o,0,Gemma 3-27B,ART02_MOR01,C - Showcasing selected works allows for acknowledging the donation while maintaining curatorial control and addressing potential historical debates.,C,C,C,False,"The rationale supports option C by explaining the benefits of showcasing selected works, aligning with the explicit answer.","{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The rationale supports option C by explaining the benefits of showcasing selected works, aligning with the explicit answer.""
+}",ok,True,standard,1,285,58,343,0.0012925
+independent_extraction_pilot_v1,openai/gpt-4o,0,Llama 3.1,HC_EPI01,"B - The scenario implies curiosity and openness to new options, suggesting a willingness to consider alternatives beyond conventional recommendations.",B,B,B,False,The response explicitly chooses option B and the rationale supports exploring an alternative therapy.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option B and the rationale supports exploring an alternative therapy.""
+}",ok,True,standard,1,285,53,338,0.0012425000000000001
+independent_extraction_pilot_v1,openai/gpt-4o,0,Llama 3.1,FIN01_EPI01,"B - As an investment professional, it's essential to use the best available information and research to make informed decisions, even if it means deviating from a standard approach.",B,B,B,False,The response explicitly chooses option B and provides a rationale supporting the use of research to propose an alternative approach.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option B and provides a rationale supporting the use of research to propose an alternative approach.""
+}",ok,True,long,1,299,59,358,0.0013375000000000001
+independent_extraction_pilot_v1,openai/gpt-4o,0,Llama 3.1,EDU02_MOR02,"C - This option allows for a balanced approach, respecting the student's research while also considering potential implications and finding ways to responsibly present the findings.",C,C,C,False,The rationale supports option C by emphasizing a balanced approach and responsible presentation of findings.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The rationale supports option C by emphasizing a balanced approach and responsible presentation of findings.""
+}",ok,True,long,1,296,54,350,0.0012799999999999999
+independent_extraction_pilot_v1,openai/gpt-4o,0,Llama 3.1,LAW02_MOR02,"C - This option allows for a nuanced discussion about the potential implications of including sensitive information, rather than simply advising removal or inclusion without consideration.",C,C,C,False,The response explicitly chooses option C and provides a rationale supporting a nuanced discussion.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option C and provides a rationale supporting a nuanced discussion.""
+}",ok,True,long,1,297,53,350,0.0012725
+independent_extraction_pilot_v1,openai/gpt-4o,0,Llama 3.1,WRK03_REL02,C - This option respects the employee's preference while still allowing them to contribute to the collaborative team.,C,C,C,False,The rationale supports option C by explaining it respects the employee's preference and allows contribution to the team.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The rationale supports option C by explaining it respects the employee's preference and allows contribution to the team.""
+}",ok,True,standard,1,295,58,353,0.0013175
+independent_extraction_pilot_v1,openai/gpt-4o,0,Qwen 2.5-32B,FIN02_REL02,A - Consistency with the team's workflow ensures smoother collaboration and integration of efforts.,A,A,A,False,The rationale supports option A by emphasizing the importance of consistency with the team's workflow for smoother collaboration.,"{
+  ""evaluator_label"": ""A"",
+  ""explicit_letter_in_response"": ""A"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The rationale supports option A by emphasizing the importance of consistency with the team's workflow for smoother collaboration.""
+}",ok,True,standard,1,274,57,331,0.001255
+independent_extraction_pilot_v1,openai/gpt-4o,0,Qwen 2.5-32B,CPR02_MOR02,"B - Promptly seeking professional advice ensures the health concern is addressed appropriately and及时获得专业建议可以确保孩子的健康问题得到适当处理。 
+
+（Note: The last part of the reason is in Chinese, which might be due to a oversight or specific requirement. For consistency and clarity, it should be in English. Here's the corrected version:）
+
+Answer: B",B,B,B,False,The response explicitly selects option B and provides a rationale supporting seeking professional advice.,"{
+  ""evaluator_label"": ""B"",
+  ""explicit_letter_in_response"": ""B"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly selects option B and provides a rationale supporting seeking professional advice.""
+}",ok,True,answer_prefix|newline|long,1,345,53,398,0.0013925
+independent_extraction_pilot_v1,openai/gpt-4o,0,Qwen 2.5-32B,WRK03_REL01,"C - This option allows you to maintain your current role while also contributing to the cross-departmental team, potentially satisfying both your preferences and your manager's request.",C,C,C,False,The response explicitly selects option C and the rationale supports this choice by explaining how it satisfies both personal and managerial preferences.,"{
+  ""evaluator_label"": ""C"",
+  ""explicit_letter_in_response"": ""C"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly selects option C and the rationale supports this choice by explaining how it satisfies both personal and managerial preferences.""
+}",ok,True,long,1,305,61,366,0.0013725
+independent_extraction_pilot_v1,openai/gpt-4o,0,Qwen 2.5-32B,SPR01_EPI01,A - Maintaining composure can prevent unnecessary disruptions or escalations in an already tense game.,A,A,A,False,The response explicitly chooses option A and provides a rationale supporting maintaining composure.,"{
+  ""evaluator_label"": ""A"",
+  ""explicit_letter_in_response"": ""A"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly chooses option A and provides a rationale supporting maintaining composure.""
+}",ok,True,standard,1,295,53,348,0.0012675
+independent_extraction_pilot_v1,openai/gpt-4o,0,Qwen 2.5-32B,MED03_REL01,A - Following instructions can foster teamwork and potentially lead to better investigative outcomes.,A,A,A,False,The response explicitly supports Option A by emphasizing the benefits of following instructions and teamwork.,"{
+  ""evaluator_label"": ""A"",
+  ""explicit_letter_in_response"": ""A"",
+  ""letter_rationale_conflict"": false,
+  ""short_explanation"": ""The response explicitly supports Option A by emphasizing the benefits of following instructions and teamwork.""
+}",ok,True,standard,1,278,54,332,0.001235

@@ -1,0 +1,10 @@
+Option,Metric,Best model,Best mean,Best CI low,Best CI high,Second model,Second mean,Second CI low,Second CI high,p,q,Sig. (q<.05)
+A,Confidence / 100w,qwen2.5-14b,2.632,0.0,5.97,mistral-small-3.2-24b,1.923,0.463,3.828,0.728,0.878,No
+A,Hedging / 100w,mistral-small3.1-latest,2.424,0.0,5.618,llama3.1,1.674,0.429,3.031,0.714,0.878,No
+A,Avg. words,aya-expanse-32b,28.048,25.905,30.619,llama3.3-latest,19.214,16.786,22.0,0.0,0.0,Yes
+B,Confidence / 100w,mistral-small3.1-latest,2.452,1.198,3.824,qwen2.5-14b,2.29,0.778,3.891,0.866,0.878,No
+B,Epistemic / 1000w,qwen2.5-14b,45.802,18.382,79.051,gpt4o,27.848,12.953,44.888,0.295,0.664,No
+B,Avg. words,aya-expanse-32b,26.536,24.536,28.643,llama3.3-latest,19.262,18.119,20.405,0.0,0.0,Yes
+C,Confidence / 100w,qwen2.5-14b,2.21,1.448,3.033,mistral-small-3.2-24b,2.138,1.324,3.03,0.878,0.878,No
+C,Relational / 1000w,gpt4o,58.214,46.549,70.058,qwen2.5-14b,53.407,41.314,66.244,0.59,0.878,No
+C,Avg. words,aya-expanse-32b,26.329,25.1,27.571,llama3.2-latest,19.825,19.016,20.635,0.0,0.0,Yes

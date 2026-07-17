@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+openai
+requests
+ipython
+jupyter
+nbconvert
+openpyxl

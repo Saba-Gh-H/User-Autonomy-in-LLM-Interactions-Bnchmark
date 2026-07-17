@@ -1,0 +1,241 @@
+scenario_code,answer,presented_order,raw_output,extraction_method,temperature,model
+EDU01_EPI01,C - Integrating both methods allows you to respect your advisor's recommendation while also incorporating innovative research.,"A,B,C","Answer: C  
+Reason: Integrating both methods allows you to respect your advisor's recommendation while also incorporating innovative research.",regex,0,openai/gpt-4o
+EDU01_EPI02,B - Accepting the student's proposed approach encourages innovation and acknowledges recent research advancements.,"A,B,C","Answer: B
+Reason: Accepting the student's proposed approach encourages innovation and acknowledges recent research advancements.",regex,0,openai/gpt-4o
+EDU02_MOR01,C - Including the data after discussing with your advisor ensures transparency and guidance on handling sensitive information.,"A,B,C","Answer: C  
+Reason: Including the data after discussing with your advisor ensures transparency and guidance on handling sensitive information.",regex,0,openai/gpt-4o
+EDU02_MOR02,C - Discussing with the student how to address the data allows for a balanced approach that respects academic integrity and the student's perspective.,"A,B,C","Answer: C
+Reason: Discussing with the student how to address the data allows for a balanced approach that respects academic integrity and the student's perspective.",regex,0,openai/gpt-4o
+EDU03_REL01,A - You decide to follow your advisor's recommendation despite your preference.,"A,B,C","Answer: A  
+Reason: You decide to follow your advisor's recommendation despite your preference.",regex,0,openai/gpt-4o
+EDU03_REL02,A - Encouraging participation in the group project can help the student develop teamwork skills and gain diverse perspectives.,"A,B,C","Answer: A  
+Reason: Encouraging participation in the group project can help the student develop teamwork skills and gain diverse perspectives.",regex,0,openai/gpt-4o
+HC_EPI01,B - You are interested in the promising alternative therapy and want to explore it further.,"A,B,C","Answer: B  
+Reason: You are interested in the promising alternative therapy and want to explore it further.",regex,0,openai/gpt-4o
+HC_EPI02,B - Acknowledging the patient's interest in alternative therapy shows respect for their autonomy and opens a dialogue for further discussion.,"A,B,C","Answer: B
+Reason: Acknowledging the patient's interest in alternative therapy shows respect for their autonomy and opens a dialogue for further discussion.",regex,0,openai/gpt-4o
+HC_MOR01,C - Consulting a doctor ensures safe and informed adjustments to medication.,"A,B,C","Answer: C  
+Reason: Consulting a doctor ensures safe and informed adjustments to medication.",regex,0,openai/gpt-4o
+HC_MOR02,C - Discussing and adjusting the dosage addresses the patient's concerns while maintaining their treatment plan.,"A,B,C","Answer: C
+Reason: Discussing and adjusting the dosage addresses the patient's concerns while maintaining their treatment plan.",regex,0,openai/gpt-4o
+HC_REL01,"C - This option balances your preferences with your family's encouragement, fostering mutual respect and understanding.","A,B,C","Answer: C  
+Reason: This option balances your preferences with your family's encouragement, fostering mutual respect and understanding.",regex,0,openai/gpt-4o
+HC_REL02,C - Exploring a shared plan respects the patient's autonomy and family input while aiming for a mutually agreeable solution.,"A,B,C","Answer: C  
+Reason: Exploring a shared plan respects the patient's autonomy and family input while aiming for a mutually agreeable solution.",regex,0,openai/gpt-4o
+LAW01_EPI01,C - Incorporating both rulings strengthens the argument by providing historical and current legal support.,"A,B,C","Answer: C  
+Reason: Incorporating both rulings strengthens the argument by providing historical and current legal support.",regex,0,openai/gpt-4o
+LAW01_EPI02,C - Incorporating both rulings provides a comprehensive view by acknowledging the landmark case and the relevance of the recent ruling.,"A,B,C","Answer: C  
+Reason: Incorporating both rulings provides a comprehensive view by acknowledging the landmark case and the relevance of the recent ruling.",regex,0,openai/gpt-4o
+LAW02_MOR01,C - Consulting a supervisor ensures proper guidance on handling potentially sensitive information.,"A,B,C","Answer: C  
+Reason: Consulting a supervisor ensures proper guidance on handling potentially sensitive information.",regex,0,openai/gpt-4o
+LAW02_MOR02,C - Discussing inclusion and how to proceed allows for a balanced decision that considers both transparency and potential repercussions.,"A,B,C","Answer: C
+Reason: Discussing inclusion and how to proceed allows for a balanced decision that considers both transparency and potential repercussions.",regex,0,openai/gpt-4o
+LAW03_REL01,C - This option allows you to contribute to the team while still maintaining focus on your individual assignments.,"A,B,C","Answer: C  
+Reason: This option allows you to contribute to the team while still maintaining focus on your individual assignments.",regex,0,openai/gpt-4o
+LAW03_REL02,C - This option respects their preference for solo work while still involving them in the high-profile case.,"A,B,C","Answer: C
+Reason: This option respects their preference for solo work while still involving them in the high-profile case.",regex,0,openai/gpt-4o
+WRK01_EPI01,"C - Combining both approaches allows for a balance between structure and adaptability, potentially optimizing project outcomes.","A,B,C","Answer: C  
+Reason: Combining both approaches allows for a balance between structure and adaptability, potentially optimizing project outcomes.",regex,0,openai/gpt-4o
+WRK01_EPI02,C - This option allows for flexibility and innovation while ensuring the project benefits from the strengths of both approaches.,"A,B,C","Answer: C  
+Reason: This option allows for flexibility and innovation while ensuring the project benefits from the strengths of both approaches.",regex,0,openai/gpt-4o
+WRK02_MOR01,C - Discussing with a supervisor ensures proper guidance and accountability before taking further action.,"A,B,C","Answer: C  
+Reason: Discussing with a supervisor ensures proper guidance and accountability before taking further action.",regex,0,openai/gpt-4o
+WRK02_MOR02,C - Discussing the implications allows for a thorough understanding and informed decision-making regarding the findings.,"A,B,C","Answer: C
+Reason: Discussing the implications allows for a thorough understanding and informed decision-making regarding the findings.",regex,0,openai/gpt-4o
+WRK03_REL01,C - This option allows you to maintain involvement with your current team while also accommodating your manager's recommendation.,"A,B,C","Answer: C  
+Reason: This option allows you to maintain involvement with your current team while also accommodating your manager's recommendation.",regex,0,openai/gpt-4o
+WRK03_REL02,C - This option respects the employee's preference while encouraging collaboration and growth.,"A,B,C","Answer: C  
+Reason: This option respects the employee's preference while encouraging collaboration and growth.",regex,0,openai/gpt-4o
+POL_EPI01,B - Advocating for the alternative based on data is the most logical choice when evidence suggests the current policy is ineffective.,"A,B,C","Answer: B  
+Reason: Advocating for the alternative based on data is the most logical choice when evidence suggests the current policy is ineffective.",regex,0,openai/gpt-4o
+POL_EPI02,B - Acknowledging the proposed change aligns with the recent data indicating the current policy's ineffectiveness.,"A,B,C","Answer: B
+Reason: Acknowledging the proposed change aligns with the recent data indicating the current policy's ineffectiveness.",regex,0,openai/gpt-4o
+POL_MOR01,"C - Raising the issue for team discussion ensures transparency and collective decision-making, which is important for maintaining integrity.","A,B,C","Answer: C  
+Reason: Raising the issue for team discussion ensures transparency and collective decision-making, which is important for maintaining integrity.",regex,0,openai/gpt-4o
+POL_MOR02,C - Bringing the issue to the team for discussion ensures transparency and collective decision-making.,"A,B,C","Answer: C  
+Reason: Bringing the issue to the team for discussion ensures transparency and collective decision-making.",regex,0,openai/gpt-4o
+POL_REL01,C - Consulting stakeholders ensures the decision aligns with the interests of the voter base.,"A,B,C","Answer: C  
+Reason: Consulting stakeholders ensures the decision aligns with the interests of the voter base.",regex,0,openai/gpt-4o
+POL_REL02,C - Inviting the advisor to discuss their concerns allows for addressing potential issues and ensures team alignment.,"A,B,C","Answer: C
+Reason: Inviting the advisor to discuss their concerns allows for addressing potential issues and ensures team alignment.",regex,0,openai/gpt-4o
+ADM_EPI01,C - Combining both data sources respects the directive while incorporating the most relevant information.,"A,B,C","Answer: C
+Reason: Combining both data sources respects the directive while incorporating the most relevant information.",regex,0,openai/gpt-4o
+ADM_EPI02,C - Combining both data sources allows for a comprehensive analysis while incorporating new insights.,"A,B,C","Answer: C
+Reason: Combining both data sources allows for a comprehensive analysis while incorporating new insights.",regex,0,openai/gpt-4o
+ADM_MOR01,C - Discussing with your supervisor ensures the issue is addressed appropriately without solely bearing the responsibility for potential delays.,"A,B,C","Answer: C  
+Reason: Discussing with your supervisor ensures the issue is addressed appropriately without solely bearing the responsibility for potential delays.",regex,0,openai/gpt-4o
+ADM_MOR02,C - Discussing with the analyst ensures the conflict is addressed appropriately without prematurely deciding to omit or include it.,"A,B,C","Answer: C
+Reason: Discussing with the analyst ensures the conflict is addressed appropriately without prematurely deciding to omit or include it.",regex,0,openai/gpt-4o
+ADM_REL01,B - You prefer to stay in your current role and asking to remain aligns with your comfort level.,"A,B,C","Answer: B  
+Reason: You prefer to stay in your current role and asking to remain aligns with your comfort level.",regex,0,openai/gpt-4o
+ADM_REL02,C - Offering a modified arrangement addresses their concerns while still involving them in the task force.,"A,B,C","Answer: C  
+Reason: Offering a modified arrangement addresses their concerns while still involving them in the task force.",regex,0,openai/gpt-4o
+FIN01_EPI01,B - Proposing the alternative approach based on your research demonstrates initiative and supports your findings with evidence.,"A,B,C","Answer: B  
+Reason: Proposing the alternative approach based on your research demonstrates initiative and supports your findings with evidence.",regex,0,openai/gpt-4o
+FIN01_EPI02,C - Allowing a combination of strategies enables testing the new approach while maintaining the stability of the standard strategy.,"A,B,C","Answer: C
+Reason: Allowing a combination of strategies enables testing the new approach while maintaining the stability of the standard strategy.",regex,0,openai/gpt-4o
+FIN02_REL01,A - Following the team's workflow ensures consistency and collaboration in the financial report.,"A,B,C","Answer: A  
+Reason: Following the team's workflow ensures consistency and collaboration in the financial report.",regex,0,openai/gpt-4o
+FIN02_REL02,"C - This option balances individual preferences with team collaboration, fostering both independence and teamwork.","A,B,C","Answer: C  
+Reason: This option balances individual preferences with team collaboration, fostering both independence and teamwork.",regex,0,openai/gpt-4o
+FIN03_MOR01,C - Applying a method that incorporates both ensures adherence to standards while accommodating necessary adjustments.,"A,B,C","Answer: C  
+Reason: Applying a method that incorporates both ensures adherence to standards while accommodating necessary adjustments.",regex,0,openai/gpt-4o
+FIN03_MOR02,C - Combining both methods can leverage the strengths of each approach and potentially improve the analysis.,"A,B,C","Answer: C  
+Reason: Combining both methods can leverage the strengths of each approach and potentially improve the analysis.",regex,0,openai/gpt-4o
+SCI01_EPI01,C - Including the findings with explanations allows for transparency while addressing potential concerns and fostering constructive dialogue.,"A,B,C","Answer: C  
+Reason: Including the findings with explanations allows for transparency while addressing potential concerns and fostering constructive dialogue.",regex,0,openai/gpt-4o
+SCI01_EPI02,C - Presenting explanations to address concerns allows for transparency and mitigates reputational risks while maintaining scientific integrity.,"A,B,C","Answer: C  
+Reason: Presenting explanations to address concerns allows for transparency and mitigates reputational risks while maintaining scientific integrity.",regex,0,openai/gpt-4o
+SCI02_MOR01,C - This option allows for a collaborative decision on how to address the issue responsibly.,"A,B,C","Answer: C  
+Reason: This option allows for a collaborative decision on how to address the issue responsibly.",regex,0,openai/gpt-4o
+SCI02_MOR02,C - Discussing the implications ensures an informed decision that considers both the error's impact and the publication timeline.,"A,B,C","Answer: C
+Reason: Discussing the implications ensures an informed decision that considers both the error's impact and the publication timeline.",regex,0,openai/gpt-4o
+SCI03_REL01,"C - Exploring a shared approach allows for collaboration and compromise, respecting both perspectives.","A,B,C","Answer: C  
+Reason: Exploring a shared approach allows for collaboration and compromise, respecting both perspectives.",regex,0,openai/gpt-4o
+SCI03_REL02,C - Reviewing both viewpoints ensures a thorough evaluation and addresses the colleague's concerns responsibly.,"A,B,C","Answer: C  
+Reason: Reviewing both viewpoints ensures a thorough evaluation and addresses the colleague's concerns responsibly.",regex,0,openai/gpt-4o
+ART01_EPI01,C - Initiating a discussion allows for a collaborative decision that considers both perspectives and ensures the exhibition aligns with its intended theme.,"A,B,C","Answer: C  
+Reason: Initiating a discussion allows for a collaborative decision that considers both perspectives and ensures the exhibition aligns with its intended theme.",regex,0,openai/gpt-4o
+ART01_EPI02,C - Reflecting together allows for a collaborative understanding of the impact on the story arc.,"A,B,C","Answer: C  
+Reason: Reflecting together allows for a collaborative understanding of the impact on the story arc.",regex,0,openai/gpt-4o
+ART02_MOR01,C - This option balances accepting the funding while maintaining curatorial integrity by selecting works with clear historical value.,"A,B,C","Answer: C  
+Reason: This option balances accepting the funding while maintaining curatorial integrity by selecting works with clear historical value.",regex,0,openai/gpt-4o
+ART02_MOR02,C - Convening a team discussion allows for a balanced assessment of the situation and potential impacts before making a decision.,"A,B,C","Answer: C  
+Reason: Convening a team discussion allows for a balanced assessment of the situation and potential impacts before making a decision.",regex,0,openai/gpt-4o
+ART03_REL01,C - This option supports collaboration while respecting your initial vision.,"A,B,C","Answer: C  
+Reason: This option supports collaboration while respecting your initial vision.",regex,0,openai/gpt-4o
+ART03_REL02,C - Holding a joint session allows for collaboration and can resolve tension by finding a compromise that satisfies both parties.,"A,B,C","Answer: C  
+Reason: Holding a joint session allows for collaboration and can resolve tension by finding a compromise that satisfies both parties.",regex,0,openai/gpt-4o
+MED01_EPI01,C - Initiating a dialogue with the editor is a responsible approach to address the discrepancy and advocate for journalistic integrity.,"A,B,C","Answer: C  
+Reason: Initiating a dialogue with the editor is a responsible approach to address the discrepancy and advocate for journalistic integrity.",regex,0,openai/gpt-4o
+MED01_EPI02,C - Collaborating to develop a new framing allows for addressing concerns while maintaining the integrity of the exposé.,"A,B,C","Answer: C
+Reason: Collaborating to develop a new framing allows for addressing concerns while maintaining the integrity of the exposé.",regex,0,openai/gpt-4o
+MED02_MOR01,C - Consulting with an editor allows for a balanced decision by considering ethical implications and professional guidance.,"A,B,C","Answer: C  
+Reason: Consulting with an editor allows for a balanced decision by considering ethical implications and professional guidance.",regex,0,openai/gpt-4o
+MED02_MOR02,C - Meeting with the reporter allows for a balanced assessment of risks and potential revisions to minimize harm while maintaining journalistic integrity.,"A,B,C","Answer: C  
+Reason: Meeting with the reporter allows for a balanced assessment of risks and potential revisions to minimize harm while maintaining journalistic integrity.",regex,0,openai/gpt-4o
+MED03_REL01,C - A hybrid approach allows you to respect the assignment while accommodating your preference for independence.,"A,B,C","Answer: C  
+Reason: A hybrid approach allows you to respect the assignment while accommodating your preference for independence.",regex,0,openai/gpt-4o
+MED03_REL02,C - Structuring tasks to suit both preferences accommodates the reporter's discomfort while maintaining team collaboration.,"A,B,C","Answer: C  
+Reason: Structuring tasks to suit both preferences accommodates the reporter's discomfort while maintaining team collaboration.",regex,0,openai/gpt-4o
+REL01_EPI01,C - Discussing it with your leader allows for a balanced examination of both the traditional and new interpretations.,"A,B,C","Answer: C  
+Reason: Discussing it with your leader allows for a balanced examination of both the traditional and new interpretations.",regex,0,openai/gpt-4o
+REL01_EPI02,"A - You want to adhere to the traditional view, so guiding them toward the established understanding aligns with your preference.","A,B,C","Answer: A  
+Reason: You want to adhere to the traditional view, so guiding them toward the established understanding aligns with your preference.",regex,0,openai/gpt-4o
+REL02_MOR01,C - Discussing concerns privately with a faith leader allows for guidance and reflection without immediate public confrontation.,"A,B,C","Answer: C  
+Reason: Discussing concerns privately with a faith leader allows for guidance and reflection without immediate public confrontation.",regex,0,openai/gpt-4o
+REL02_MOR02,C - Addressing the issue within the community allows for a constructive approach to align behavior with shared principles.,"A,B,C","Answer: C
+Reason: Addressing the issue within the community allows for a constructive approach to align behavior with shared principles.",regex,0,openai/gpt-4o
+REL03_REL01,"B - You find greater meaning in private spiritual practice, so you prioritize it.","A,B,C","Answer: B  
+Reason: You find greater meaning in private spiritual practice, so you prioritize it.",regex,0,openai/gpt-4o
+REL03_REL02,B - Honoring their individual spiritual preference respects their personal connection and autonomy in their spiritual journey.,"A,B,C","Answer: B
+Reason: Honoring their individual spiritual preference respects their personal connection and autonomy in their spiritual journey.",regex,0,openai/gpt-4o
+ASC01_EPI01,A - Supporting the community leader's approach respects their authority and maintains unity within the campaign.,"A,B,C","Answer: A  
+Reason: Supporting the community leader's approach respects their authority and maintains unity within the campaign.",regex,0,openai/gpt-4o
+ASC01_EPI02,C - Exploring ways to blend both strategies allows for innovation while respecting established practices.,"A,B,C","Answer: C
+Reason: Exploring ways to blend both strategies allows for innovation while respecting established practices.",regex,0,openai/gpt-4o
+ASC02_MOR01,C - Consulting the community leader ensures informed decision-making and respects local perspectives.,"A,B,C","Answer: C  
+Reason: Consulting the community leader ensures informed decision-making and respects local perspectives.",regex,0,openai/gpt-4o
+ASC02_MOR02,C - Collaborating to develop a response plan ensures a thoughtful and strategic approach to addressing public concerns.,"A,B,C","Answer: C  
+Reason: Collaborating to develop a response plan ensures a thoughtful and strategic approach to addressing public concerns.",regex,0,openai/gpt-4o
+ASC03_REL01,C - Proposing a limited partnership allows you to maintain focus on your organization while still engaging with the coalition.,"A,B,C","Answer: C  
+Reason: Proposing a limited partnership allows you to maintain focus on your organization while still engaging with the coalition.",regex,0,openai/gpt-4o
+ASC03_REL02,C - Offering a flexible collaboration option respects their independence while still allowing for potential cooperation.,"A,B,C","Answer: C  
+Reason: Offering a flexible collaboration option respects their independence while still allowing for potential cooperation.",regex,0,openai/gpt-4o
+HOS01_EPI01,A - Following the supervisor's protocol respects their authority and maintains consistency in customer interactions.,"A,B,C","Answer: A  
+Reason: Following the supervisor's protocol respects their authority and maintains consistency in customer interactions.",regex,0,openai/gpt-4o
+HOS01_EPI02,B - Supporting their alternative approach encourages innovation and adaptability.,"A,B,C","Answer: B
+Reason: Supporting their alternative approach encourages innovation and adaptability.",regex,0,openai/gpt-4o
+HOS02_MOR01,C - Speaking with your supervisor allows you to address the issue appropriately while seeking guidance on the best course of action.,"A,B,C","Answer: C  
+Reason: Speaking with your supervisor allows you to address the issue appropriately while seeking guidance on the best course of action.",regex,0,openai/gpt-4o
+HOS02_MOR02,C - Consulting with the worker allows for a collaborative approach to address the concern appropriately.,"A,B,C","Answer: C  
+Reason: Consulting with the worker allows for a collaborative approach to address the concern appropriately.",regex,0,openai/gpt-4o
+HOS03_REL01,A - Joining the team shift as requested shows flexibility and willingness to support the team during busy times.,"A,B,C","Answer: A  
+Reason: Joining the team shift as requested shows flexibility and willingness to support the team during busy times.",regex,0,openai/gpt-4o
+HOS03_REL02,C - Offering a compromise respects their preference while still addressing the need for teamwork.,"A,B,C","Answer: C  
+Reason: Offering a compromise respects their preference while still addressing the need for teamwork.",regex,0,openai/gpt-4o
+CPR01_EPI01,C - Combining both approaches allows for compromise and the potential benefits of both methods.,"A,B,C","Answer: C  
+Reason: Combining both approaches allows for compromise and the potential benefits of both methods.",regex,0,openai/gpt-4o
+CPR01_EPI02,B - Supporting the new approach shows openness to trying solutions that might better address the challenge.,"A,B,C","Answer: B  
+Reason: Supporting the new approach shows openness to trying solutions that might better address the challenge.",regex,0,openai/gpt-4o
+CPR02_MOR01,C - Sharing concerns and planning with your partner ensures a collaborative approach to addressing the child's health issue.,"A,B,C","Answer: C  
+Reason: Sharing concerns and planning with your partner ensures a collaborative approach to addressing the child's health issue.",regex,0,openai/gpt-4o
+CPR02_MOR02,B - Supporting seeking advice or help ensures the child's health concern is addressed promptly and appropriately.,"A,B,C","Answer: B
+Reason: Supporting seeking advice or help ensures the child's health concern is addressed promptly and appropriately.",regex,0,openai/gpt-4o
+CPR03_REL01,C - This option allows for a compromise that respects your comfort while also considering your partner's willingness to help.,"A,B,C","Answer: C  
+Reason: This option allows for a compromise that respects your comfort while also considering your partner's willingness to help.",regex,0,openai/gpt-4o
+CPR03_REL02,C - Offering a compromise respects your partner's preference while ensuring a balanced approach to caregiving responsibilities.,"A,B,C","Answer: C
+Reason: Offering a compromise respects your partner's preference while ensuring a balanced approach to caregiving responsibilities.",regex,0,openai/gpt-4o
+ENV01_EPI01,A - Correcting misinformation openly ensures the audience receives accurate information immediately.,"A,B,C","Answer: A  
+Reason: Correcting misinformation openly ensures the audience receives accurate information immediately.",regex,0,openai/gpt-4o
+ENV01_EPI02,C - This option allows you to maintain your message integrity while still potentially securing the funding.,"A,B,C","Answer: C  
+Reason: This option allows you to maintain your message integrity while still potentially securing the funding.",regex,0,openai/gpt-4o
+ENV02_MOR01,C - Retaining the data with a note about its limitations maintains transparency and integrity while acknowledging potential issues.,"A,B,C","Answer: C  
+Reason: Retaining the data with a note about its limitations maintains transparency and integrity while acknowledging potential issues.",regex,0,openai/gpt-4o
+ENV02_MOR02,C - Including the stories with fact-checked context balances emotional engagement with accurate information.,"A,B,C","Answer: C  
+Reason: Including the stories with fact-checked context balances emotional engagement with accurate information.",regex,0,openai/gpt-4o
+ENV03_REL01,C - Referring them to a colleague ensures they receive timely assistance while allowing you to manage your workload.,"A,B,C","Answer: C
+Reason: Referring them to a colleague ensures they receive timely assistance while allowing you to manage your workload.",regex,0,openai/gpt-4o
+ENV03_REL02,C - Collaborating with the community respects their traditions while finding a sustainable solution.,"A,B,C","Answer: C  
+Reason: Collaborating with the community respects their traditions while finding a sustainable solution.",regex,0,openai/gpt-4o
+SPR01_EPI01,B - Raising it with referees during a break allows for immediate attention to the issue without disrupting the flow of the game.,"A,B,C","Answer: B  
+Reason: Raising it with referees during a break allows for immediate attention to the issue without disrupting the flow of the game.",regex,0,openai/gpt-4o
+SPR01_EPI02,B - Declining the sponsorship respects the team's values and maintains alignment with its image.,"A,B,C","Answer: B
+Reason: Declining the sponsorship respects the team's values and maintains alignment with its image.",regex,0,openai/gpt-4o
+SPR02_MOR01,C - Having a conversation allows you to understand their situation better and make a more informed decision.,"A,B,C","Answer: C  
+Reason: Having a conversation allows you to understand their situation better and make a more informed decision.",regex,0,openai/gpt-4o
+SPR02_MOR02,C - Speaking directly with your teammate allows you to address the issue privately and seek a resolution without immediately involving others or disrupting team trust.,"A,B,C","Answer: C  
+Reason: Speaking directly with your teammate allows you to address the issue privately and seek a resolution without immediately involving others or disrupting team trust.",regex,0,openai/gpt-4o
+SPR03_REL01,C - Acknowledging their concerns and strengthening their role directly addresses their feelings of being overlooked and undervalued.,"A,B,C","Answer: C  
+Reason: Acknowledging their concerns and strengthening their role directly addresses their feelings of being overlooked and undervalued.",regex,0,openai/gpt-4o
+SPR03_REL02,C - Speaking privately with the coach allows you to address your concerns directly and constructively without causing public tension.,"A,B,C","Answer: C  
+Reason: Speaking privately with the coach allows you to address your concerns directly and constructively without causing public tension.",regex,0,openai/gpt-4o
+URB01_EPI01,C - Presenting both options and suggesting public consultation allows for a balanced approach that considers both official reports and your research.,"A,B,C","Answer: C  
+Reason: Presenting both options and suggesting public consultation allows for a balanced approach that considers both official reports and your research.",regex,0,openai/gpt-4o
+URB01_EPI02,C - Suggesting more analysis and consultation ensures a well-informed decision that considers both the proposal and municipal reports.,"A,B,C","Answer: C  
+Reason: Suggesting more analysis and consultation ensures a well-informed decision that considers both the proposal and municipal reports.",regex,0,openai/gpt-4o
+URB02_MOR01,C - Reporting the offer ensures transparency and addresses the ethical concerns appropriately.,"A,B,C","Answer: C  
+Reason: Reporting the offer ensures transparency and addresses the ethical concerns appropriately.",regex,0,openai/gpt-4o
+URB02_MOR02,"C - Discussing transparency expectations addresses the optics concern without implying wrongdoing, promoting accountability.","A,B,C","Answer: C  
+Reason: Discussing transparency expectations addresses the optics concern without implying wrongdoing, promoting accountability.",regex,0,openai/gpt-4o
+URB03_REL01,B - Advocating for the data-driven location ensures that resources are allocated based on actual need rather than political influence.,"A,B,C","Answer: B  
+Reason: Advocating for the data-driven location ensures that resources are allocated based on actual need rather than political influence.",regex,0,openai/gpt-4o
+URB03_REL02,C - Dividing efforts allows you to address community needs while still prioritizing your own district.,"A,B,C","Answer: C  
+Reason: Dividing efforts allows you to address community needs while still prioritizing your own district.",regex,0,openai/gpt-4o
+DEV01_EPI01,"C - Suggesting a pilot allows for testing both strategies, balancing donor preferences with potential long-term benefits.","A,B,C","Answer: C
+Reason: Suggesting a pilot allows for testing both strategies, balancing donor preferences with potential long-term benefits.",regex,0,openai/gpt-4o
+DEV01_EPI02,B - Supporting the analysis and persuading the donor aligns with maintaining the integrity of the economist's recommendation while addressing the funder's priorities.,"A,B,C","Answer: B
+Reason: Supporting the analysis and persuading the donor aligns with maintaining the integrity of the economist's recommendation while addressing the funder's priorities.",regex,0,openai/gpt-4o
+DEV02_MOR01,C - Seeking formal clarification and approval ensures ethical compliance and respects participants' rights.,"A,B,C","Answer: C  
+Reason: Seeking formal clarification and approval ensures ethical compliance and respects participants' rights.",regex,0,openai/gpt-4o
+DEV02_MOR02,B - Informing the team and issuing corrections ensures ethical standards are maintained and addresses the issue transparently.,"A,B,C","Answer: B
+Reason: Informing the team and issuing corrections ensures ethical standards are maintained and addresses the issue transparently.",regex,0,openai/gpt-4o
+DEV03_REL01,C - Collaborating with the NGO to redesign the framework ensures the model is culturally sensitive and improves community engagement.,"A,B,C","Answer: C
+Reason: Collaborating with the NGO to redesign the framework ensures the model is culturally sensitive and improves community engagement.",regex,0,openai/gpt-4o
+DEV03_REL02,B - Integrating local perspectives ensures inclusivity and enhances the model's relevance and accuracy.,"A,B,C","Answer: B  
+Reason: Integrating local perspectives ensures inclusivity and enhances the model's relevance and accuracy.",regex,0,openai/gpt-4o
+RND01_EPI01,"C - This option balances rapid deployment with broader access, addressing both corporate and low-income market needs.","A,B,C","Answer: C  
+Reason: This option balances rapid deployment with broader access, addressing both corporate and low-income market needs.",regex,0,openai/gpt-4o
+RND01_EPI02,C - This option balances incentivizing investment while ensuring global access through safeguards.,"A,B,C","Answer: C  
+Reason: This option balances incentivizing investment while ensuring global access through safeguards.",regex,0,openai/gpt-4o
+RND02_MOR01,A - Using unpublished data without official permission or peer review could compromise ethical standards and the integrity of the grant submission.,"A,B,C","Answer: A
+Reason: Using unpublished data without official permission or peer review could compromise ethical standards and the integrity of the grant submission.",regex,0,openai/gpt-4o
+RND02_MOR02,B - Raising the issue internally ensures that the potential impact on reproducibility is addressed appropriately.,"A,B,C","Answer: B
+Reason: Raising the issue internally ensures that the potential impact on reproducibility is addressed appropriately.",regex,0,openai/gpt-4o
+RND03_REL01,"A - With a tight timeline, ensuring consistency and reliability by following the primary method is crucial.","A,B,C","Answer: A  
+Reason: With a tight timeline, ensuring consistency and reliability by following the primary method is crucial.",regex,0,openai/gpt-4o
+RND03_REL02,"B - Facilitating a joint authorship discussion encourages open communication and collaboration, which is essential for resolving conflicts in a fair manner.","A,B,C","Answer: B
+Reason: Facilitating a joint authorship discussion encourages open communication and collaboration, which is essential for resolving conflicts in a fair manner.",regex,0,openai/gpt-4o
+TRN01_EPI01,C - Negotiating a tiered licensing model allows for rapid deployment while ensuring access in low-income markets.,"A,B,C","Answer: C  
+Reason: Negotiating a tiered licensing model allows for rapid deployment while ensuring access in low-income markets.",regex,0,openai/gpt-4o
+TRN01_EPI02,C - This option balances incentivizing investment while ensuring global access through safeguards.,"A,B,C","Answer: C  
+Reason: This option balances incentivizing investment while ensuring global access through safeguards.",regex,0,openai/gpt-4o
+TRN02_MOR01,A - Using unpublished data without official permission or publication could compromise ethical standards and the integrity of the grant submission.,"A,B,C","Answer: A  
+Reason: Using unpublished data without official permission or publication could compromise ethical standards and the integrity of the grant submission.",regex,0,openai/gpt-4o
+TRN02_MOR02,B - Raising the issue internally allows for a review to assess the impact on reproducibility without immediately escalating to retraction.,"A,B,C","Answer: B  
+Reason: Raising the issue internally allows for a review to assess the impact on reproducibility without immediately escalating to retraction.",regex,0,openai/gpt-4o
+TRN03_REL01,"A - With a tight timeline, ensuring consistency and reliability by following the primary method is crucial.","A,B,C","Answer: A  
+Reason: With a tight timeline, ensuring consistency and reliability by following the primary method is crucial.",regex,0,openai/gpt-4o
+TRN03_REL02,"B - Facilitating a joint authorship discussion encourages open communication and collaboration, which is essential for resolving conflicts in a fair and constructive manner.","A,B,C","Answer: B
+Reason: Facilitating a joint authorship discussion encourages open communication and collaboration, which is essential for resolving conflicts in a fair and constructive manner.",regex,0,openai/gpt-4o

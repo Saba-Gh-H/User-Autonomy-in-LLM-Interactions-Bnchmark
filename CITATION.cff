@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+type: software
+title: "Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice"
+message: "Please cite this repository and the accompanying paper. The DOI and final article citation are forthcoming."
+authors:
+  - family-names: "Ghanbari Haez"
+    given-names: "Saba"
+  - family-names: "Consolandi"
+    given-names: "Monica"
+  - family-names: "Dragoni"
+    given-names: "Mauro"
+year: 2026
+repository-code: "https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Benchmarck"
+license: "AGPL-3.0-or-later"

@@ -1,0 +1,10 @@
+2025___TIST___RisksArmsGenAI*.pdf
+
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+.DS_Store
+Thumbs.db

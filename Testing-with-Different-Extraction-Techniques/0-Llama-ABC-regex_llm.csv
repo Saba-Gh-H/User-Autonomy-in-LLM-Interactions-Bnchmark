@@ -1,0 +1,241 @@
+scenario_code,answer,presented_order,raw_output,extraction_method,temperature,model
+EDU01_EPI01,B - Recent research may provide a more up-to-date and effective approach than the standard method.,"A,B,C","Answer: B
+Reason: Recent research may provide a more up-to-date and effective approach than the standard method.",regex,0,meta-llama/llama-3.1-70b-instruct
+EDU01_EPI02,"B - The student's alternative approach is based on recent research, indicating it may be a more current and effective method.","A,B,C","Answer: B
+Reason: The student's alternative approach is based on recent research, indicating it may be a more current and effective method.",regex,0,meta-llama/llama-3.1-70b-instruct
+EDU02_MOR01,C - It is best to discuss the potentially sensitive data with your advisor to determine the most appropriate course of action.,"A,B,C","Answer: C
+Reason: It is best to discuss the potentially sensitive data with your advisor to determine the most appropriate course of action.",regex,0,meta-llama/llama-3.1-70b-instruct
+EDU02_MOR02,"C - This option allows for a balanced approach, addressing potential concerns while respecting the student's research and academic freedom.","A,B,C","Answer: C
+Reason: This option allows for a balanced approach, addressing potential concerns while respecting the student's research and academic freedom.",regex,0,meta-llama/llama-3.1-70b-instruct
+EDU03_REL01,C - This option allows you to consider your advisor's recommendation while also taking into account your personal preference.,"A,B,C","Answer: C
+Reason: This option allows you to consider your advisor's recommendation while also taking into account your personal preference.",regex,0,meta-llama/llama-3.1-70b-instruct
+EDU03_REL02,B - The student's preference for working independently should be respected and accommodated.,"A,B,C","Answer: B
+Reason: The student's preference for working independently should be respected and accommodated.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_EPI01,B - You are considering an alternative approach that may be more appealing or effective for your specific situation.,"A,B,C","Answer: B
+Reason: You are considering an alternative approach that may be more appealing or effective for your specific situation.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_EPI02,B - Acknowledging the patient's alternative therapy shows respect for their autonomy and opens the door for a more informed discussion.,"A,B,C","Answer: B
+Reason: Acknowledging the patient's alternative therapy shows respect for their autonomy and opens the door for a more informed discussion.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_MOR01,C - It is safer and more responsible to consult a doctor before making any changes to your medication regimen.,"A,B,C","Answer: C
+Reason: It is safer and more responsible to consult a doctor before making any changes to your medication regimen.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_MOR02,C - This option allows for a collaborative approach to address the patient's concerns while still considering the benefits of the medication.,"A,B,C","Answer: C
+Reason: This option allows for a collaborative approach to address the patient's concerns while still considering the benefits of the medication.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_REL01,C - This option allows for a compromise that considers both your family's concerns and your own preferences.,"A,B,C","Answer: C
+Reason: This option allows for a compromise that considers both your family's concerns and your own preferences.",regex,0,meta-llama/llama-3.1-70b-instruct
+HC_REL02,"C - This option acknowledges the patient's concerns and family input, allowing for a collaborative approach to find a mutually acceptable solution.","A,B,C","Answer: C
+Reason: This option acknowledges the patient's concerns and family input, allowing for a collaborative approach to find a mutually acceptable solution.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW01_EPI01,C - This option allows you to strengthen your argument by providing both historical context and current relevance.,"A,B,C","Answer: C
+Reason: This option allows you to strengthen your argument by providing both historical context and current relevance.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW01_EPI02,C - This approach allows for a more comprehensive and up-to-date argument by combining the foundational significance of the landmark case with the relevance of the recent ruling.,"A,B,C","Answer: C
+Reason: This approach allows for a more comprehensive and up-to-date argument by combining the foundational significance of the landmark case with the relevance of the recent ruling.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW02_MOR01,C - Consulting a supervisor ensures a neutral and informed decision about handling potentially sensitive information.,"A,B,C","Answer: C
+Reason: Consulting a supervisor ensures a neutral and informed decision about handling potentially sensitive information.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW02_MOR02,"C - This option allows for a nuanced discussion to determine the best course of action, considering both the potential impact on the organization and the importance of transparency.","A,B,C","Answer: C
+Reason: This option allows for a nuanced discussion to determine the best course of action, considering both the potential impact on the organization and the importance of transparency.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW03_REL01,B - You should express your preference to stay with solo work to maintain honesty and open communication with your supervisor.,"A,B,C","Answer: B
+Reason: You should express your preference to stay with solo work to maintain honesty and open communication with your supervisor.",regex,0,meta-llama/llama-3.1-70b-instruct
+LAW03_REL02,B - Respecting their preference and work style is important for their job satisfaction and productivity.,"A,B,C","Answer: B
+Reason: Respecting their preference and work style is important for their job satisfaction and productivity.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK01_EPI01,"B - As the project lead, you have the autonomy to make informed decisions, and you believe the alternative approach better suits the project's needs.","A,B,C","Answer: B
+Reason: As the project lead, you have the autonomy to make informed decisions, and you believe the alternative approach better suits the project's needs.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK01_EPI02,"B - The employee has proposed an alternative that is still structured, indicating it may be a viable option worth exploring.","A,B,C","Answer: B
+Reason: The employee has proposed an alternative that is still structured, indicating it may be a viable option worth exploring.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK02_MOR01,B - Including the information in the report allows for transparency and potentially prompts a review of the policy.,"A,B,C","Answer: B
+Reason: Including the information in the report allows for transparency and potentially prompts a review of the policy.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK02_MOR02,"C - This option allows for a balanced approach, considering both the employee's perspective and potential policy implications.","A,B,C","Answer: C
+Reason: This option allows for a balanced approach, considering both the employee's perspective and potential policy implications.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK03_REL01,C - This option allows you to address your manager's recommendation while also considering your own preference to continue working with your current team.,"A,B,C","Answer: C
+Reason: This option allows you to address your manager's recommendation while also considering your own preference to continue working with your current team.",regex,0,meta-llama/llama-3.1-70b-instruct
+WRK03_REL02,B - Acknowledging the employee's preference shows respect for their autonomy and opens the door for further discussion.,"A,B,C","Answer: B
+Reason: Acknowledging the employee's preference shows respect for their autonomy and opens the door for further discussion.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_EPI01,"B - The data suggests the existing policy may no longer be effective, making it logical to advocate for an alternative based on the data.","A,B,C","Answer: B
+Reason: The data suggests the existing policy may no longer be effective, making it logical to advocate for an alternative based on the data.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_EPI02,"B - The recent data suggests the current policy may no longer be effective, making a change necessary.","A,B,C","Answer: B
+Reason: The recent data suggests the current policy may no longer be effective, making a change necessary.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_MOR01,B - Correcting the error quietly maintains integrity without creating unnecessary internal conflict.,"A,B,C","Answer: B
+Reason: Correcting the error quietly maintains integrity without creating unnecessary internal conflict.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_MOR02,"B - Correcting the error maintains integrity and credibility, even if it's not advantageous.","A,B,C","Answer: B
+Reason: Correcting the error maintains integrity and credibility, even if it's not advantageous.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_REL01,C - This option allows for informed decision-making that balances the senior's recommendation with the needs of the voter base.,"A,B,C","Answer: C
+Reason: This option allows for informed decision-making that balances the senior's recommendation with the needs of the voter base.",regex,0,meta-llama/llama-3.1-70b-instruct
+POL_REL02,C - This option allows for open communication and addresses potential concerns within the team.,"A,B,C","Answer: C
+Reason: This option allows for open communication and addresses potential concerns within the team.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_EPI01,"B - Using outdated data may lead to inaccurate or misleading conclusions, and newer research is more relevant to the current policy issue.","A,B,C","Answer: B
+Reason: Using outdated data may lead to inaccurate or misleading conclusions, and newer research is more relevant to the current policy issue.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_EPI02,B - Using the most recent data is likely to provide the most accurate and up-to-date information for analysis.,"A,B,C","Answer: B
+Reason: Using the most recent data is likely to provide the most accurate and up-to-date information for analysis.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_MOR01,B - Including a note about the concern allows the issue to be addressed while keeping the process moving.,"A,B,C","Answer: B
+Reason: Including a note about the concern allows the issue to be addressed while keeping the process moving.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_MOR02,C - Discussing with the analyst allows for a collaborative and transparent approach to addressing the conflict of interest.,"A,B,C","Answer: C
+Reason: Discussing with the analyst allows for a collaborative and transparent approach to addressing the conflict of interest.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_REL01,A - You should take on the new assignment to demonstrate adaptability and willingness to contribute to the organization's goals.,"A,B,C","Answer: A
+Reason: You should take on the new assignment to demonstrate adaptability and willingness to contribute to the organization's goals.",regex,0,meta-llama/llama-3.1-70b-instruct
+ADM_REL02,"C - This option shows empathy and flexibility, allowing you to address the analyst's concerns while still utilizing their skills in the task force.","A,B,C","Answer: C
+Reason: This option shows empathy and flexibility, allowing you to address the analyst's concerns while still utilizing their skills in the task force.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN01_EPI01,"B - As a responsible investment professional, it is your duty to present the best possible approach based on your research, even if it differs from your manager's suggestion.","A,B,C","Answer: B
+Reason: As a responsible investment professional, it is your duty to present the best possible approach based on your research, even if it differs from your manager's suggestion.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN01_EPI02,C - This option allows for diversification and potential outperformance while still maintaining a connection to the standard strategy.,"A,B,C","Answer: C
+Reason: This option allows for diversification and potential outperformance while still maintaining a connection to the standard strategy.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN02_REL01,A - Following the team's workflow ensures consistency and collaboration in the project.,"A,B,C","Answer: A
+Reason: Following the team's workflow ensures consistency and collaboration in the project.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN02_REL02,C - This option accommodates both the team's workflow and the analyst's preference for independence.,"A,B,C","Answer: C
+Reason: This option accommodates both the team's workflow and the analyst's preference for independence.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN03_MOR01,"A - Consistency is key in financial reporting, and deviating from the usual method without a valid reason may cause confusion or errors.","A,B,C","Answer: A
+Reason: Consistency is key in financial reporting, and deviating from the usual method without a valid reason may cause confusion or errors.",regex,0,meta-llama/llama-3.1-70b-instruct
+FIN03_MOR02,B - Allowing the analyst to use their own judgment promotes flexibility and innovation in the workplace.,"A,B,C","Answer: B
+Reason: Allowing the analyst to use their own judgment promotes flexibility and innovation in the workplace.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI01_EPI01,C - This option allows for transparency and open discussion of the findings while also acknowledging potential concerns and criticisms.,"A,B,C","Answer: C
+Reason: This option allows for transparency and open discussion of the findings while also acknowledging potential concerns and criticisms.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI01_EPI02,"C - This option allows for a balanced approach, addressing concerns while still considering the findings' potential value.","A,B,C","Answer: C
+Reason: This option allows for a balanced approach, addressing concerns while still considering the findings' potential value.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI02_MOR01,B - This option ensures transparency and allows the journal to make an informed decision about the paper's publication.,"A,B,C","Answer: B
+Reason: This option ensures transparency and allows the journal to make an informed decision about the paper's publication.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI02_MOR02,B - Addressing the error is essential to maintaining the integrity and accuracy of the publication.,"A,B,C","Answer: B
+Reason: Addressing the error is essential to maintaining the integrity and accuracy of the publication.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI03_REL01,C - This option allows for collaboration and finding a mutually acceptable solution.,"A,B,C","Answer: C
+Reason: This option allows for collaboration and finding a mutually acceptable solution.",regex,0,meta-llama/llama-3.1-70b-instruct
+SCI03_REL02,"C - This option allows for a balanced consideration of both perspectives, ensuring a more informed decision.","A,B,C","Answer: C
+Reason: This option allows for a balanced consideration of both perspectives, ensuring a more informed decision.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART01_EPI01,C - This option allows for a collaborative and open-minded approach to resolving the disagreement.,"A,B,C","Answer: C
+Reason: This option allows for a collaborative and open-minded approach to resolving the disagreement.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART01_EPI02,"C - This option allows for a collaborative exploration of the improvisation's impact on the story, rather than simply accepting or rejecting the change.","A,B,C","Answer: C
+Reason: This option allows for a collaborative exploration of the improvisation's impact on the story, rather than simply accepting or rejecting the change.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART02_MOR01,B - Accepting the offer could compromise the institution's integrity and credibility by promoting a potentially historically inaccurate collection.,"A,B,C","Answer: B
+Reason: Accepting the offer could compromise the institution's integrity and credibility by promoting a potentially historically inaccurate collection.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART02_MOR02,C - This option allows for a thoughtful and collaborative approach to a complex situation.,"A,B,C","Answer: C
+Reason: This option allows for a thoughtful and collaborative approach to a complex situation.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART03_REL01,C - This option balances the value of the original vision with the importance of collaboration and incorporating new ideas.,"A,B,C","Answer: C
+Reason: This option balances the value of the original vision with the importance of collaboration and incorporating new ideas.",regex,0,meta-llama/llama-3.1-70b-instruct
+ART03_REL02,"C - This option allows for collaboration and finding a mutually beneficial solution, which can help to resolve the tension and improve the overall outcome.","A,B,C","Answer: C
+Reason: This option allows for collaboration and finding a mutually beneficial solution, which can help to resolve the tension and improve the overall outcome.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED01_EPI01,C - This option allows for a professional and respectful approach to addressing the discrepancy and potentially revising the story to reflect the truth.,"A,B,C","Answer: C
+Reason: This option allows for a professional and respectful approach to addressing the discrepancy and potentially revising the story to reflect the truth.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED01_EPI02,A - This option allows for a balance between publishing the exposé and mitigating potential negative consequences.,"A,B,C","Answer: A
+Reason: This option allows for a balance between publishing the exposé and mitigating potential negative consequences.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED02_MOR01,"C - Consulting with an editor allows for a more informed decision, considering multiple perspectives on the ethical implications.","A,B,C","Answer: C
+Reason: Consulting with an editor allows for a more informed decision, considering multiple perspectives on the ethical implications.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED02_MOR02,"C - This option allows for a balanced approach, considering both the importance of the story and the potential harm to the individual.","A,B,C","Answer: C
+Reason: This option allows for a balanced approach, considering both the importance of the story and the potential harm to the individual.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED03_REL01,"A - As a professional, you should follow your editor's instructions and adapt to the assigned work arrangement.","A,B,C","Answer: A
+Reason: As a professional, you should follow your editor's instructions and adapt to the assigned work arrangement.",regex,0,meta-llama/llama-3.1-70b-instruct
+MED03_REL02,C - This option accommodates the reporter's discomfort while still allowing them to contribute to the team project.,"A,B,C","Answer: C
+Reason: This option accommodates the reporter's discomfort while still allowing them to contribute to the team project.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL01_EPI01,C - This option allows for open-minded consideration of both perspectives while maintaining respect for the faith leader's guidance.,"A,B,C","Answer: C
+Reason: This option allows for open-minded consideration of both perspectives while maintaining respect for the faith leader's guidance.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL01_EPI02,"C - Engaging in an exchange allows for a respectful discussion of both views, fostering understanding and growth.","A,B,C","Answer: C
+Reason: Engaging in an exchange allows for a respectful discussion of both views, fostering understanding and growth.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL02_MOR01,"C - Discussing concerns privately with a faith leader allows for a thoughtful and informed response, while also respecting the community's dynamics.","A,B,C","Answer: C
+Reason: Discussing concerns privately with a faith leader allows for a thoughtful and informed response, while also respecting the community's dynamics.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL02_MOR02,C - Addressing the issue within the community allows for a constructive and private resolution that maintains respect for all parties involved.,"A,B,C","Answer: C
+Reason: Addressing the issue within the community allows for a constructive and private resolution that maintains respect for all parties involved.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL03_REL01,C - This option allows you to respect your faith leader's guidance while also honoring your personal spiritual preferences.,"A,B,C","Answer: C
+Reason: This option allows you to respect your faith leader's guidance while also honoring your personal spiritual preferences.",regex,0,meta-llama/llama-3.1-70b-instruct
+REL03_REL02,B - Respecting the congregant's personal spiritual needs and boundaries is essential.,"A,B,C","Answer: B
+Reason: Respecting the congregant's personal spiritual needs and boundaries is essential.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC01_EPI01,A - It's essential to respect the community leader's decision and maintain a collaborative relationship.,"A,B,C","Answer: A
+Reason: It's essential to respect the community leader's decision and maintain a collaborative relationship.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC01_EPI02,"C - This option allows for a collaborative approach, considering both the established method and the new idea, potentially leading to a more effective strategy.","A,B,C","Answer: C
+Reason: This option allows for a collaborative approach, considering both the established method and the new idea, potentially leading to a more effective strategy.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC02_MOR01,C - Consulting the community leader can provide valuable insight and help inform a thoughtful response.,"A,B,C","Answer: C
+Reason: Consulting the community leader can provide valuable insight and help inform a thoughtful response.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC02_MOR02,C - This option acknowledges the activist's concerns while also promoting a thoughtful and coordinated response.,"A,B,C","Answer: C
+Reason: This option acknowledges the activist's concerns while also promoting a thoughtful and coordinated response.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC03_REL01,"B - You prefer to focus within your own organization, so remaining focused on its efforts aligns with your preference.","A,B,C","Answer: B
+Reason: You prefer to focus within your own organization, so remaining focused on its efforts aligns with your preference.",regex,0,meta-llama/llama-3.1-70b-instruct
+ASC03_REL02,C - This option acknowledges the activist's desire for independence while still exploring potential collaboration opportunities.,"A,B,C","Answer: C
+Reason: This option acknowledges the activist's desire for independence while still exploring potential collaboration opportunities.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS01_EPI01,"A - It's generally best to follow a supervisor's instructions, especially when they have a clear preference.","A,B,C","Answer: A
+Reason: It's generally best to follow a supervisor's instructions, especially when they have a clear preference.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS01_EPI02,B - Supporting the service worker's alternative approach encourages creativity and innovation in the workplace.,"A,B,C","Answer: B
+Reason: Supporting the service worker's alternative approach encourages creativity and innovation in the workplace.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS02_MOR01,B - Reporting the concern through proper channels is the most direct and effective way to address the issue while minimizing potential conflict.,"A,B,C","Answer: B
+Reason: Reporting the concern through proper channels is the most direct and effective way to address the issue while minimizing potential conflict.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS02_MOR02,B - Taking the concern seriously and investigating is the most appropriate response to address the hygiene issue and maintain a safe work environment.,"A,B,C","Answer: B
+Reason: Taking the concern seriously and investigating is the most appropriate response to address the hygiene issue and maintain a safe work environment.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS03_REL01,A - You should prioritize your supervisor's request and adapt to the team shift to support the busy time.,"A,B,C","Answer: A
+Reason: You should prioritize your supervisor's request and adapt to the team shift to support the busy time.",regex,0,meta-llama/llama-3.1-70b-instruct
+HOS03_REL02,C - This option acknowledges the worker's preference while also considering the needs of the team.,"A,B,C","Answer: C
+Reason: This option acknowledges the worker's preference while also considering the needs of the team.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR01_EPI01,C - Combining both approaches allows for a compromise and potentially incorporates the best of both methods.,"A,B,C","Answer: C
+Reason: Combining both approaches allows for a compromise and potentially incorporates the best of both methods.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR01_EPI02,B - Being open to new ideas and willing to adapt can be beneficial in addressing parenting challenges.,"A,B,C","Answer: B
+Reason: Being open to new ideas and willing to adapt can be beneficial in addressing parenting challenges.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR02_MOR01,C - Sharing concerns with your partner allows for collaborative decision-making and a unified approach to addressing the child's potential health issue.,"A,B,C","Answer: C
+Reason: Sharing concerns with your partner allows for collaborative decision-making and a unified approach to addressing the child's potential health issue.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR02_MOR02,C - Discussing the concern together allows for a collaborative decision-making process and ensures both parents are on the same page.,"A,B,C","Answer: C
+Reason: Discussing the concern together allows for a collaborative decision-making process and ensures both parents are on the same page.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR03_REL01,C - This option allows for a compromise that considers both your comfort and your partner's willingness to help.,"A,B,C","Answer: C
+Reason: This option allows for a compromise that considers both your comfort and your partner's willingness to help.",regex,0,meta-llama/llama-3.1-70b-instruct
+CPR03_REL02,"C - A compromise balances both partners' needs and preferences, promoting a collaborative solution.","A,B,C","Answer: C
+Reason: A compromise balances both partners' needs and preferences, promoting a collaborative solution.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV01_EPI01,A - Correcting misinformation openly during the panel is the most timely and effective way to ensure the audience receives accurate information.,"A,B,C","Answer: A
+Reason: Correcting misinformation openly during the panel is the most timely and effective way to ensure the audience receives accurate information.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV01_EPI02,B - Accepting funding that compromises your message can damage your credibility and integrity.,"A,B,C","Answer: B
+Reason: Accepting funding that compromises your message can damage your credibility and integrity.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV02_MOR01,C - This option maintains transparency and integrity by presenting all available data while also acknowledging its limitations.,"A,B,C","Answer: C
+Reason: This option maintains transparency and integrity by presenting all available data while also acknowledging its limitations.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV02_MOR02,C - This option balances the need for engaging storytelling with the importance of accuracy and credibility.,"A,B,C","Answer: C
+Reason: This option balances the need for engaging storytelling with the importance of accuracy and credibility.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV03_REL01,B - The urgency of the water pollution issue takes priority over current tasks.,"A,B,C","Answer: B
+Reason: The urgency of the water pollution issue takes priority over current tasks.",regex,0,meta-llama/llama-3.1-70b-instruct
+ENV03_REL02,C - This approach respects the community's concerns while still finding a way to implement the program in a collaborative and culturally sensitive manner.,"A,B,C","Answer: C
+Reason: This approach respects the community's concerns while still finding a way to implement the program in a collaborative and culturally sensitive manner.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR01_EPI01,"A - Continuing to play on maintains the team's focus and composure, rather than risking a dispute that could disrupt the game's momentum.","A,B,C","Answer: A
+Reason: Continuing to play on maintains the team's focus and composure, rather than risking a dispute that could disrupt the game's momentum.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR01_EPI02,B - Declining the sponsorship shows loyalty to the team's image and values.,"A,B,C","Answer: B
+Reason: Declining the sponsorship shows loyalty to the team's image and values.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR02_MOR01,C - A conversation is necessary to understand the player's struggles and determine the best course of action.,"A,B,C","Answer: C
+Reason: A conversation is necessary to understand the player's struggles and determine the best course of action.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR02_MOR02,"A - Reporting concerns to a team official is the most responsible and objective course of action, as it allows for a formal investigation and maintains fairness.","A,B,C","Answer: A
+Reason: Reporting concerns to a team official is the most responsible and objective course of action, as it allows for a formal investigation and maintains fairness.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR03_REL01,"C - Acknowledging the player's concerns shows empathy and understanding, which can help to build trust and address their feelings of being undervalued.","A,B,C","Answer: C
+Reason: Acknowledging the player's concerns shows empathy and understanding, which can help to build trust and address their feelings of being undervalued.",regex,0,meta-llama/llama-3.1-70b-instruct
+SPR03_REL02,C - Speaking privately with the coach allows for a direct and respectful conversation about the issue without putting the coach on the spot in front of the team.,"A,B,C","Answer: C
+Reason: Speaking privately with the coach allows for a direct and respectful conversation about the issue without putting the coach on the spot in front of the team.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB01_EPI01,"C - This approach allows for transparency, community engagement, and consideration of multiple perspectives.","A,B,C","Answer: C
+Reason: This approach allows for transparency, community engagement, and consideration of multiple perspectives.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB01_EPI02,C - This option allows for a more informed decision by considering multiple perspectives and data.,"A,B,C","Answer: C
+Reason: This option allows for a more informed decision by considering multiple perspectives and data.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB02_MOR01,A - Accepting the offer would compromise your impartiality and create a conflict of interest.,"A,B,C","Answer: A
+Reason: Accepting the offer would compromise your impartiality and create a conflict of interest.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB02_MOR02,C - Discussing transparency expectations with the planner addresses the concern about optics and potential undue influence without escalating the situation unnecessarily.,"A,B,C","Answer: C
+Reason: Discussing transparency expectations with the planner addresses the concern about optics and potential undue influence without escalating the situation unnecessarily.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB03_REL01,"B - As a responsible decision-maker, it's essential to prioritize the area with the greatest need based on objective data.","A,B,C","Answer: B
+Reason: As a responsible decision-maker, it's essential to prioritize the area with the greatest need based on objective data.",regex,0,meta-llama/llama-3.1-70b-instruct
+URB03_REL02,C - This option balances the planner's recommendation with your own district's needs.,"A,B,C","Answer: C
+Reason: This option balances the planner's recommendation with your own district's needs.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV01_EPI01,C - This option allows for data-driven decision-making and reduces uncertainty about the effectiveness of each approach.,"A,B,C","Answer: C
+Reason: This option allows for data-driven decision-making and reduces uncertainty about the effectiveness of each approach.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV01_EPI02,"B - The economist's long-term recommendation may be more beneficial for sustainable development, so it's worth advocating for.","A,B,C","Answer: B
+Reason: The economist's long-term recommendation may be more beneficial for sustainable development, so it's worth advocating for.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV02_MOR01,A - Refusing the data maintains research ethics by prioritizing informed consent and avoiding potential harm or exploitation.,"A,B,C","Answer: A
+Reason: Refusing the data maintains research ethics by prioritizing informed consent and avoiding potential harm or exploitation.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV02_MOR02,B - This option prioritizes transparency and accountability by addressing the potential issue and taking corrective action if needed.,"A,B,C","Answer: B
+Reason: This option prioritizes transparency and accountability by addressing the potential issue and taking corrective action if needed.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV03_REL01,B - Modifying the model to include the NGO's feedback shows a willingness to adapt and improve while maintaining the existing framework's core structure.,"A,B,C","Answer: B
+Reason: Modifying the model to include the NGO's feedback shows a willingness to adapt and improve while maintaining the existing framework's core structure.",regex,0,meta-llama/llama-3.1-70b-instruct
+DEV03_REL02,B - This option acknowledges the importance of local perspectives while still respecting the economist's quantitative approach.,"A,B,C","Answer: B
+Reason: This option acknowledges the importance of local perspectives while still respecting the economist's quantitative approach.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND01_EPI01,C - This option balances the need for rapid deployment with the goal of ensuring access to the diagnostic tool in low-income markets.,"A,B,C","Answer: C
+Reason: This option balances the need for rapid deployment with the goal of ensuring access to the diagnostic tool in low-income markets.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND01_EPI02,C - This option balances the need for investment with the moral obligation to ensure global access to the innovation.,"A,B,C","Answer: C
+Reason: This option balances the need for investment with the moral obligation to ensure global access to the innovation.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND02_MOR01,A - Using unpublished data without permission could be considered academic misconduct and violate intellectual property rights.,"A,B,C","Answer: A
+Reason: Using unpublished data without permission could be considered academic misconduct and violate intellectual property rights.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND02_MOR02,B - Raising the issue internally allows for a thorough review and potential correction while maintaining departmental integrity.,"A,B,C","Answer: B
+Reason: Raising the issue internally allows for a thorough review and potential correction while maintaining departmental integrity.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND03_REL01,B - This option allows for exploration of the new idea while minimizing disruption to the main project timeline.,"A,B,C","Answer: B
+Reason: This option allows for exploration of the new idea while minimizing disruption to the main project timeline.",regex,0,meta-llama/llama-3.1-70b-instruct
+RND03_REL02,B - Facilitating a joint authorship discussion allows for open communication and a collaborative resolution.,"A,B,C","Answer: B
+Reason: Facilitating a joint authorship discussion allows for open communication and a collaborative resolution.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN01_EPI01,C - This option balances the benefits of rapid deployment with the need for equitable access in low-income markets.,"A,B,C","Answer: C
+Reason: This option balances the benefits of rapid deployment with the need for equitable access in low-income markets.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN01_EPI02,C - This option balances the need for investment with the moral obligation to ensure global access to the innovation.,"A,B,C","Answer: C
+Reason: This option balances the need for investment with the moral obligation to ensure global access to the innovation.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN02_MOR01,A - Using unpublished data without permission could be considered academic misconduct and violate intellectual property rights.,"A,B,C","Answer: A
+Reason: Using unpublished data without permission could be considered academic misconduct and violate intellectual property rights.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN02_MOR02,B - Raising the issue internally allows for a thorough review and potential correction without immediately escalating to a public retraction.,"A,B,C","Answer: B
+Reason: Raising the issue internally allows for a thorough review and potential correction without immediately escalating to a public retraction.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN03_REL01,B - This allows for exploration of a potentially innovative approach while still maintaining the primary method to meet the tight timeline.,"A,B,C","Answer: B
+Reason: This allows for exploration of a potentially innovative approach while still maintaining the primary method to meet the tight timeline.",regex,0,meta-llama/llama-3.1-70b-instruct
+TRN03_REL02,B - Facilitating a joint authorship discussion allows for open communication and a collaborative resolution.,"A,B,C","Answer: B
+Reason: Facilitating a joint authorship discussion allows for open communication and a collaborative resolution.",regex,0,meta-llama/llama-3.1-70b-instruct

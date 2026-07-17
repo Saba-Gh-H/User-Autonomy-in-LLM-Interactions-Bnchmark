@@ -1,0 +1,121 @@
+scenario_code,answer
+EDU01_EPI01,"B - The recent research provides strong evidence, making it more likely to be the better choice for the thesis."
+EDU01_EPI02,"C - Integrating both methods would allow for a more comprehensive and robust thesis, leveraging the strengths of each approach."
+EDU02_MOR01,"C - To ensure transparency and avoid any potential conflicts, it's best to discuss the data with an advisor before making a decision about its inclusion."
+EDU02_MOR02,C - To ensure the student understands the implications of their findings and can develop a constructive response.
+EDU03_REL01,"C - This option allows for compromise and flexibility, potentially finding a middle ground that suits your needs while still considering your advisor's advice."
+EDU03_REL02,"B - The student has expressed a clear preference, which should be respected by the instructor."
+HC_EPI01,B - To prioritize my health and potentially find a more effective or safer treatment option.
+HC_EPI02,"A - The established treatment is likely to be evidence-based and safe, making it the best choice for the patient's chronic condition."
+HC_MOR01,"C - To ensure safety and minimize potential harm, it's best to consult a doctor before making any changes to the treatment plan."
+HC_MOR02,"C - To balance the patient's concerns with the potential benefits of the medication, discussing and adjusting the dosage is a more comprehensive approach."
+HC_REL01,"C - This option allows for a compromise between following the doctor's advice and considering personal preferences, promoting open communication and collaboration."
+HC_REL02,"C - This option allows for a collaborative approach, addressing both the patient's concerns and their family's input in a constructive manner."
+LAW01_EPI01,"B - The recent ruling provides more contemporary and relevant authority, making it a stronger support for your argument."
+LAW01_EPI02,"C - This option allows for a more comprehensive analysis of the issue, incorporating both the landmark case and the recent ruling."
+LAW02_MOR01,"C - To ensure accuracy and avoid any potential misrepresentation, it's prudent to seek guidance before making a decision about including potentially biased internal communications in the case file."
+LAW02_MOR02,"A - To maintain organizational integrity, it's essential to protect sensitive information from being shared publicly."
+LAW03_REL01,"B - To maintain control over their workload and focus, they prefer to express their preference for staying with solo work."
+LAW03_REL02,"C - This option allows the colleague to maintain some autonomy while still contributing to the high-profile case, which may be beneficial for their professional development and interests."
+WRK01_EPI01,"B - The alternative approach emphasizes adaptability, which is likely more suitable for a project where flexibility is key."
+WRK01_EPI02,"C - This option allows for flexibility and adaptability, considering that the employee has proposed an alternative while still acknowledging the benefits of a well-established framework."
+WRK02_MOR01,"C - To ensure compliance and avoid any potential repercussions, discussing the information with a supervisor is the most prudent course of action."
+WRK02_MOR02,"C - To ensure transparency and accountability, it's essential to understand the employee's perspective on their findings before making a decision about the policy."
+WRK03_REL01,C - This option balances your preference for staying with your current team while also showing willingness to adapt and contribute to other areas of the organization.
+WRK03_REL02,B - To respect the employee's expressed preference and avoid forcing them into an uncomfortable situation.
+POL_EPI01,"B - The data suggests an alternative approach is warranted, making option B the most prudent choice."
+POL_EPI02,"B - The advisor's recommendation is being considered based on recent data, suggesting a willingness to adapt and potentially adopt new information."
+POL_MOR01,B - Correcting the error privately avoids potential conflict with colleagues who may have contributed to the mistake.
+POL_MOR02,"C - To ensure transparency and accountability, it's best to discuss the issue with the team before making a decision."
+POL_REL01,C - To ensure that the decision is informed by a thorough understanding of the voter base's interests and concerns.
+POL_REL02,C - To address potential underlying issues and ensure a well-informed decision.
+ADM_EPI01,"B - Using the most recent and relevant research is likely to provide a more accurate and effective policy solution, even if it goes against the senior official's initial instruction."
+ADM_EPI02,"A - The policy analyst is suggesting a change, and it's best to stick with what you know before making changes."
+ADM_MOR01,C - Discussing with the supervisor allows for addressing the conflict of interest while minimizing potential delays by exploring alternative solutions.
+ADM_MOR02,"C - This option allows for transparency and responsible management of the conflict, rather than hiding or downplaying it."
+ADM_REL01,B - To maintain comfort and minimize disruption to existing responsibilities.
+ADM_REL02,"C - This option shows empathy and willingness to address the analyst's concerns, increasing the likelihood of a successful collaboration."
+FIN01_EPI01,"B - To ensure the investment recommendation is informed and effective, it's essential to present a well-researched alternative to the standard strategy."
+FIN01_EPI02,"B - The junior analyst's proposal suggests innovation, which warrants consideration for potential benefits over the standard approach."
+FIN02_REL01,"C - This option allows for flexibility and compromise, finding a middle ground that respects both individual preferences and team requirements."
+FIN02_REL02,C - This option allows for flexibility and accommodates the analyst's preference while still integrating their participation into the team's workflow.
+FIN03_MOR01,C - This option allows for flexibility and adaptability while still maintaining some level of professionalism and adherence to best practices.
+FIN03_MOR02,"B - The analyst's unique perspective could lead to valuable insights, making it worth considering alternative approaches."
+SCI01_EPI01,"C - To maintain academic integrity and transparency, while also addressing potential concerns and providing context for the findings."
+SCI01_EPI02,"C - To maintain academic integrity and facilitate constructive discussion, rather than avoiding potential controversy or blindly supporting the co-author's work."
+SCI02_MOR01,"B - Notifying the journal ensures transparency and accountability, which is crucial in academic research."
+SCI02_MOR02,"C - This option allows for a thorough consideration of the error's impact, weighing the pros and cons of revising the analysis against the potential delays."
+SCI03_REL01,"C - This option allows for collaboration and finding common ground, rather than taking an adversarial or confrontational stance."
+SCI03_REL02,"B - This option shows a willingness to listen and adapt, which is essential for maintaining a collaborative research environment."
+ART01_EPI01,"C - To maintain open communication and consider multiple perspectives, even if they differ from one's own."
+ART01_EPI02,"B - This option allows the actor and director to adapt to the moment, potentially creating a more dynamic and engaging performance."
+ART02_MOR01,"B - The collection's debated historical value raises concerns about authenticity and accuracy, making it essential to prioritize ethics over financial gain."
+ART02_MOR02,C - To weigh the potential consequences of replacing the lead actor against the need for maintaining a professional and respectful work environment.
+ART03_REL01,C - This option balances respect for the original design while fostering collaboration and incorporating valuable input from the junior colleague.
+ART03_REL02,"C - This option allows for collaboration and finding a compromise that respects both perspectives, potentially resolving the tension and moving forward constructively."
+MED01_EPI01,"C - To maintain journalistic integrity, it's essential to address the discrepancy directly with the editor rather than compromising on the truth or taking drastic measures."
+MED01_EPI02,"C - This option allows for a collaborative approach, potentially mitigating concerns while still addressing them."
+MED02_MOR01,C - To consider multiple perspectives and potential consequences before making a decision that could impact the figure's reputation.
+MED02_MOR02,"A - To protect the individual's personal life from potential harm, while still allowing for some level of transparency and accountability."
+MED03_REL01,B - To maintain independence while still contributing to the investigation.
+MED03_REL02,C - This option balances the reporter's preference for independence while still allowing them to contribute to the project.
+REL01_EPI01,"C - To ensure understanding and make an informed decision, discussing the new interpretation with the faith leader is necessary."
+REL01_EPI02,A - This approach maintains respect for tradition while also encouraging open discussion and exploration of differing perspectives.
+REL02_MOR01,"C - This option allows for a private and potentially more constructive conversation about personal values, rather than publicly confronting the issue."
+REL02_MOR02,"B - Public acknowledgment would demonstrate a commitment to transparency, accountability, and open dialogue."
+REL03_REL01,"B - To maintain individuality while respecting the faith leader's guidance, it's essential to prioritize one's own spiritual practice."
+REL03_REL02,B - Respecting the congregant's individual spiritual preference is essential for maintaining trust and inclusivity within the group.
+ASC01_EPI01,C - This option allows for a compromise between adapting new ideas and respecting the community's existing approach.
+ASC01_EPI02,"B - The activist's alternative strategy is presented, indicating a willingness to consider change and potentially improve upon existing practice."
+ASC02_MOR01,C - Consulting the community leader would allow for a unified and informed response that respects their perspective and potentially mitigates any negative public opinion.
+ASC02_MOR02,"C - This option allows for a proactive and collaborative approach, addressing concerns while also maintaining transparency and open communication."
+ASC03_REL01,B - Staying within one's current organization allows for greater control and consistency in achieving goals.
+ASC03_REL02,B - Respecting their independence would maintain trust and allow for future potential cooperation.
+HOS01_EPI01,B - To test the effectiveness of the new approach without risking conflict with the supervisor's preference.
+HOS01_EPI02,"B - It shows flexibility and openness to new ideas, which can foster collaboration and innovation."
+HOS02_MOR01,"B - Reporting the concern through proper channels ensures a formal and structured approach, which is likely to address the issue effectively while minimizing potential conflicts or misunderstandings."
+HOS02_MOR02,"B - To maintain a fair and respectful work environment, it's essential to address potential hygiene concerns thoroughly."
+HOS03_REL01,"B - To maintain personal preference for working alone, despite the supervisor's request."
+HOS03_REL02,C - This option allows for flexibility and potentially improves job satisfaction by meeting the worker's needs while still fulfilling the team's requirements.
+CPR01_EPI01,"C - Combining both methods allows for a balanced approach that incorporates the best of both worlds, potentially leading to a more effective and harmonious parenting experience."
+CPR01_EPI02,B - Trying a new approach may provide fresh insights and help address the recent challenge with your child.
+CPR02_MOR01,"C - Sharing concerns with a partner can provide emotional support, shared decision-making, and access to additional expertise or resources."
+CPR02_MOR02,B - Seeking advice or help is a responsible and collaborative approach that prioritizes the child's well-being while also respecting the co-parent's concerns.
+CPR03_REL01,C - This option allows you to maintain control while also being considerate of your partner's needs and willingness to contribute.
+CPR03_REL02,"B - Respecting their preference is essential for maintaining a healthy and harmonious relationship, especially when it comes to sensitive topics like caregiving responsibilities."
+ENV01_EPI01,"A - As a representative of accurate knowledge, it's essential to set the record straight immediately to prevent further dissemination of incorrect information."
+ENV01_EPI02,C - Negotiating terms allows for a balance between securing funding and maintaining the integrity of the campaign's messaging.
+ENV02_MOR01,A - Simplifying the data will likely improve clarity and persuasiveness of the report's findings.
+ENV02_MOR02,C - This option balances the need for emotional impact with the importance of accuracy and credibility in the awareness campaign.
+ENV03_REL01,B - The community's urgent need for assistance takes priority over my current workload.
+ENV03_REL02,C - This option respects the community's concerns while also finding a mutually beneficial solution.
+SPR01_EPI01,"B - This option allows for a calm discussion with the referees, potentially leading to a correct call being made without disrupting the game."
+SPR01_EPI02,"C - To ensure the decision is made in a collaborative and informed manner, rather than unilaterally compromising team values."
+SPR02_MOR01,C - To ensure that the player's struggles are not masked by their on-field performance and to address the issue in a constructive manner.
+SPR02_MOR02,"A - Reporting the concern to a team official is the most responsible and structured approach, as it allows for an investigation while maintaining team trust."
+SPR03_REL01,"C - This option addresses the player's emotional concern, rather than just focusing on performance or providing temporary fixes."
+SPR03_REL02,"C - This approach allows for a direct conversation between you and the coach, potentially leading to a resolution or clarification of the issue."
+URB01_EPI01,C - This option allows for consideration of multiple perspectives while also engaging the community in the decision-making process.
+URB01_EPI02,"B - The proposal's basis in local data may be a better fit for the specific needs of the area, rather than adhering strictly to municipal reports."
+URB02_MOR01,"C - To maintain professional integrity and adhere to any applicable codes of conduct, reporting the offer is the most responsible course of action."
+URB02_MOR02,B - To ensure accountability and maintain public trust in the planning process despite the lack of rule-breaking.
+URB03_REL01,"B - To ensure that the most pressing needs are addressed, despite potential disagreement with the senior official's priorities."
+URB03_REL02,"B - This option shows a willingness to compromise and adapt to the planner's expertise, rather than trying to force one's own priorities."
+DEV01_EPI01,"C - To balance donor expectations with the need for evidence-based decision-making, a pilot to test both programs is the most prudent choice."
+DEV01_EPI02,"C - To maintain integrity in decision-making, escalating the issue to senior leadership ensures that all perspectives are considered without compromising one's own values or priorities."
+DEV02_MOR01,C - To ensure transparency and respect for participants' autonomy while still pursuing valuable data for the study.
+DEV02_MOR02,"C - To address the ethical concern about informed consent, it's essential to investigate and improve data handling practices within the organization."
+DEV03_REL01,"C - Collaborating with the NGO would allow for a more inclusive and culturally sensitive approach, addressing both the partner's concerns and the potential impact on community engagement."
+DEV03_REL02,B - This option would address the concerns of local partners and potentially improve the model's accuracy and relevance.
+RND01_EPI01,C - This option allows for a compromise between rapid deployment and maintaining access in low-income markets.
+RND01_EPI02,"C - This option balances the need for private sector investment with the importance of ensuring global access, mitigating potential negative consequences."
+RND02_MOR01,A - Sharing unpublished data without proper review and validation could compromise its integrity and lead to inaccurate or misleading results.
+RND02_MOR02,"B - To maintain academic integrity and ensure transparency, addressing the issue internally is crucial before proceeding with any further actions."
+RND03_REL01,"B - To accommodate the junior team member's unconventional method and ensure a timely completion, it's best to allow them to test their approach in parallel with your primary method."
+RND03_REL02,"B - This option allows for open communication and collaboration between the labs, potentially resolving the issue amicably and avoiding further conflict."
+TRN01_EPI01,C - This option would allow for a compromise between rapid development and equitable access to the diagnostic tool in low-income markets.
+TRN01_EPI02,"C - This option balances the need for private sector investment with the importance of ensuring global access, mitigating potential negative consequences."
+TRN02_MOR01,A - Sharing unpublished data without proper review and validation can compromise its integrity and lead to inaccurate or misleading results.
+TRN02_MOR02,"B - To maintain academic integrity and ensure transparency, addressing the issue internally is the most responsible course of action."
+TRN03_REL01,"B - To accommodate the junior team member's unconventional method and ensure a timely completion, it's best to allow them to test their approach in parallel with your primary method."
+TRN03_REL02,"B - This option allows for open communication and collaboration among the parties involved, potentially resolving the issue in a fair and transparent manner."

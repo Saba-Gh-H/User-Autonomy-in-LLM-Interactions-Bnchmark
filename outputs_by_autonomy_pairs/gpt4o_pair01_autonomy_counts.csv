@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+gpt4o,EPI,4,3,13,20,C,13
+gpt4o,MOR,2,1,17,20,C,17
+gpt4o,REL,5,5,10,20,C,10

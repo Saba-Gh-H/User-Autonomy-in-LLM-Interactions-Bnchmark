@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+gemma3-27b,EPI,2,2,16,20,C,16
+gemma3-27b,MOR,1,5,14,20,C,14
+gemma3-27b,REL,0,5,15,20,C,15

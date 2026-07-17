@@ -1,0 +1,121 @@
+scenario_code,answer
+EDU01_EPI01,B - Adopting the more current approach aligns with advancing knowledge and could provide more relevant insights for your thesis.
+EDU01_EPI02,B - Encouraging innovative thinking and supporting evidence-based approaches fosters academic growth and discovery.
+EDU02_MOR01,C - Consulting your advisor ensures ethical handling of the data while maintaining academic integrity.
+EDU02_MOR02,C - It's important to maintain academic integrity and guide the student in handling sensitive information responsibly.
+EDU03_REL01,B - Working independently aligns with your personal preference and can lead to more effective productivity.
+EDU03_REL02,C - This balanced approach respects the student's preference while also providing opportunities for collaborative learning.
+HC_EPI01,A - It is generally safer and more reliable to follow evidence-based medical advice from a healthcare professional.
+HC_EPI02,B - Acknowledging the patient's interest in alternative therapy can build trust and open a dialogue about their concerns and preferences.
+HC_MOR01,C - It's important to consult a healthcare professional before making any changes to your medication.
+HC_MOR02,C - Discussing and adjusting the dosage can help address the patient's concerns while maintaining the benefits of the treatment.
+HC_REL01,"C - It balances respect for family advice with personal preference, fostering a collaborative solution."
+HC_REL02,C - A collaborative approach can help integrate the patient's and family's concerns while ensuring medical guidance is followed.
+LAW01_EPI01,C - Incorporating both rulings strengthens the argument by showing a comprehensive understanding of the legal landscape.
+LAW01_EPI02,C - Incorporating both rulings provides a comprehensive analysis and strengthens the argument.
+LAW02_MOR01,C - Consulting a supervisor ensures proper handling of sensitive information.
+LAW02_MOR02,C - It's important to address the issue directly while considering all implications.
+LAW03_REL01,B - It's important to communicate your preferences and maintain focus on your current commitments.
+LAW03_REL02,C - It balances respect for their preference with exposure to valuable teamwork experience.
+WRK01_EPI01,C - Combining both approaches leverages the reliability of the standard framework while incorporating the flexibility of the alternative method.
+WRK01_EPI02,"C - Combining both methods can leverage the strengths of each, potentially leading to a more effective solution."
+WRK02_MOR01,C - It's important to seek guidance before potentially triggering a formal review process.
+WRK02_MOR02,C - It's important to understand the full context before making any decisions that could impact policy or trust.
+WRK03_REL01,A - Declining respectfully while explaining your reasons maintains your current work satisfaction and integrity.
+WRK03_REL02,C - This option respects the employee's preference while still encouraging collaboration across departments.
+POL_EPI01,B - Advocating for the alternative based on data promotes evidence-based decision-making and continuous improvement.
+POL_EPI02,B - Acknowledging and adopting the proposed change aligns with the recent data suggesting the current policy's ineffectiveness.
+POL_MOR01,B - Quietly correcting the error maintains integrity while avoiding unnecessary conflict.
+POL_MOR02,"C - It's important to maintain transparency and integrity by involving the team in decision-making, especially regarding factual accuracy."
+POL_REL01,C - Consulting stakeholders ensures alignment with voter base interests while maintaining a collaborative stance.
+POL_REL02,C - Addressing concerns directly can strengthen team unity and improve policy outcomes.
+ADM_EPI01,"B - Using the most current and relevant research ensures the policy brief is based on accurate information, enhancing its credibility and effectiveness."
+ADM_EPI02,C - Combining both data sources can provide a more comprehensive and up-to-date analysis.
+ADM_MOR01,B - It is important to document all concerns for transparency and accountability.
+ADM_MOR02,C - Discussing with the analyst ensures a transparent and collaborative approach to addressing the conflict of interest.
+ADM_REL01,"B - It aligns with your comfort and existing expertise, maintaining productivity."
+ADM_REL02,C - Addressing concerns can improve commitment and effectiveness in the new role.
+FIN01_EPI01,B - Proposing the alternative approach allows you to leverage current research for potentially better outcomes.
+FIN01_EPI02,"C - Combining both strategies can provide a balanced approach, potentially mitigating risks while exploring new opportunities."
+FIN02_REL01,A - Following the team's workflow ensures consistency and collaboration in the financial report.
+FIN02_REL02,"C - This approach balances team cohesion with individual preferences, potentially increasing overall productivity and satisfaction."
+FIN03_MOR01,C - Combining both methods ensures consistency while also incorporating new insights or corrections.
+FIN03_MOR02,B - Allowing the analyst to use their own judgment fosters innovation and trust in their expertise.
+SCI01_EPI01,"C - It balances scientific integrity with addressing potential concerns, ensuring a thorough and responsible presentation of the research."
+SCI01_EPI02,"B - Supporting the publication of accurate, unchanged results upholds scientific integrity and advances knowledge."
+SCI02_MOR01,C - It's important to discuss the issue with your co-author before taking further action to ensure a collaborative and informed decision.
+SCI02_MOR02,C - It's crucial to assess the impact of the error on the results before making a decision.
+SCI03_REL01,"C - A collaborative approach can integrate both perspectives, potentially leading to a stronger proposal."
+SCI03_REL02,"C - It ensures a thorough evaluation of all perspectives, enhancing the robustness of the research."
+ART01_EPI01,C - It fosters collaboration and ensures a well-rounded exhibition by considering multiple perspectives.
+ART01_EPI02,C - Reflecting together can deepen engagement and understanding of the story's evolution.
+ART02_MOR01,C - This approach balances the donor's interest with the museum's ethical standards by carefully selecting appropriate pieces.
+ART02_MOR02,C - It's important to gather diverse perspectives and make an informed decision that considers both production continuity and ethical implications.
+ART03_REL01,C - This approach fosters collaboration and respects both the original vision and new ideas.
+ART03_REL02,C - A collaborative approach can resolve conflicts and enhance creativity.
+MED01_EPI01,C - It's important to communicate with the editor to ensure accuracy and integrity in journalism.
+MED01_EPI02,C - Collaborating allows for addressing concerns while maintaining the integrity and impact of the exposé.
+MED02_MOR01,C - Consulting an editor helps ensure a balanced and ethical approach to handling sensitive information.
+MED02_MOR02,C - Meeting with the reporter allows for a balanced assessment and necessary revisions while maintaining journalistic integrity.
+MED03_REL01,B - It aligns with your preference for independent work while showing initiative and commitment to the story.
+MED03_REL02,C - This approach balances individual comfort while fostering teamwork.
+REL01_EPI01,C - Discussing it with your leader allows for a balanced examination of both views while respecting authority.
+REL01_EPI02,A - Guiding them towards the established understanding maintains respect for tradition while addressing their interest.
+REL02_MOR01,C - Discussing concerns privately with a faith leader allows for guidance while respecting community dynamics.
+REL02_MOR02,C - Addressing the issue internally promotes accountability and aligns with community values.
+REL03_REL01,C - Integrating both approaches can honor the community's practices while respecting your personal preferences.
+REL03_REL02,B - Respecting their personal spiritual path fosters trust and authenticity in their religious experience.
+ASC01_EPI01,"A - Supporting the community leader maintains unity and respect for leadership, which is crucial for team cohesion."
+ASC01_EPI02,C - Combining elements of both approaches can leverage the strengths of each while maintaining familiarity and innovation.
+ASC02_MOR01,C - Consulting the community leader ensures a thoughtful and inclusive response.
+ASC02_MOR02,"C - Collaboration ensures a thoughtful and coordinated approach, addressing concerns effectively while maintaining transparency."
+ASC03_REL01,B - Staying focused on your organization's efforts aligns with your preference and current priorities.
+ASC03_REL02,"C - Offering a flexible collaboration can bridge their independence with the coalition's goals, ensuring mutual benefits and respect for their preferences."
+HOS01_EPI01,C - Combining both approaches allows for innovation while respecting the supervisor's preference.
+HOS01_EPI02,B - Encouraging innovation and personalization can improve customer satisfaction and employee engagement.
+HOS02_MOR01,"C - It's important to address the issue while maintaining professional relationships, and a supervisor can provide guidance on the best course of action."
+HOS02_MOR02,C - Collaborating with the service worker ensures a thoughtful and respectful approach to addressing the concern.
+HOS03_REL01,"A - It's important to support the team during busy times, even if it's not your preference."
+HOS03_REL02,C - A compromise can satisfy both the need for teamwork and the worker's preference for independence.
+CPR01_EPI01,C - Combining both methods allows for innovation while maintaining familiarity and potentially better outcomes.
+CPR01_EPI02,B - Trying the new approach can provide fresh insights and solutions to the current challenge.
+CPR02_MOR01,C - Sharing concerns with a partner can provide emotional support and help in making informed decisions.
+CPR02_MOR02,B - Seeking professional advice ensures the child's health is prioritized and any urgent issues are addressed promptly.
+CPR03_REL01,"C - It balances your comfort with shared responsibility, ensuring fair distribution of effort."
+CPR03_REL02,C - A compromise can address both partners' needs and maintain harmony in the relationship.
+ENV01_EPI01,A - Correcting misinformation immediately helps maintain accuracy and integrity in public discussions.
+ENV01_EPI02,C - Negotiating terms allows you to maintain integrity while securing necessary resources.
+ENV02_MOR01,C - Retaining the data with a note on its limitations maintains transparency and integrity while addressing concerns about clarity.
+ENV02_MOR02,"C - This approach balances emotional engagement with factual accuracy, enhancing credibility."
+ENV03_REL01,C - Balancing immediate needs with existing commitments ensures both the community gets timely assistance and your workload remains manageable.
+ENV03_REL02,C - Collaboration respects local traditions while still promoting sustainable practices.
+SPR01_EPI01,B - Addressing the issue during a break can help ensure fair play without disrupting the game flow.
+SPR01_EPI02,C - It's important to maintain team cohesion and respect collective decisions.
+SPR02_MOR01,"C - Addressing the issue through communication can provide insight and support, potentially benefiting both the player and the team."
+SPR02_MOR02,C - Direct communication can address concerns while maintaining trust and seeking a constructive resolution.
+SPR03_REL01,C - Acknowledging concerns and strengthening their role addresses both the player's emotional needs and practical team dynamics.
+SPR03_REL02,C - Addressing the issue directly with the coach allows for a more personal and constructive resolution.
+URB01_EPI01,C - Presenting both options and suggesting public consultation ensures community input and a more democratic decision-making process.
+URB01_EPI02,C - Gathering more data ensures a well-informed decision that balances both perspectives.
+URB02_MOR01,A - Declining avoids any potential bias and maintains professional integrity.
+URB02_MOR02,C - Addressing transparency directly can help maintain public trust without overreacting.
+URB03_REL01,"C - This approach balances political priorities with data-driven needs, ensuring progress in both areas."
+URB03_REL02,C - Balancing local and broader community needs can foster goodwill and equitable development.
+DEV01_EPI01,C - A pilot allows for evidence-based decision-making by testing the effectiveness of both programs.
+DEV01_EPI02,B - Supporting the economist's analysis while trying to align the funder can lead to a sustainable solution that benefits all parties.
+DEV02_MOR01,C - Seeking formal clarification ensures ethical standards are met while potentially allowing the use of valuable data.
+DEV02_MOR02,B - It is important to address potential ethical issues transparently and correct any deficiencies.
+DEV03_REL01,"C - Collaborating with the NGO ensures that cultural context is properly integrated, enhancing community engagement and the effectiveness of the program."
+DEV03_REL02,B - Integrating local perspectives can enhance the model's relevance and effectiveness while fostering inclusivity.
+RND01_EPI01,C - A tiered licensing model can expedite deployment while ensuring access in low-income markets.
+RND01_EPI02,C - Balancing innovation incentives with ethical access ensures both progress and equity.
+RND02_MOR01,A - Using unpublished data without permission can compromise academic integrity and trust.
+RND02_MOR02,B - Raising the issue internally ensures proper handling and maintains academic integrity.
+RND03_REL01,B - Testing their approach in parallel allows innovation without compromising the project timeline.
+RND03_REL02,B - Facilitating a joint authorship discussion can help address the conflict directly and ensure both parties feel their contributions are recognized.
+RND01_EPI01,C - A tiered licensing model can expedite development while ensuring accessibility in low-income markets.
+RND01_EPI02,C - Balancing innovation incentives with ethical access ensures both progress and fairness.
+RND02_MOR01,A - Using unpublished data without permission can compromise academic integrity and trust.
+RND02_MOR02,B - Raising the issue internally allows for a proper investigation and maintains academic integrity.
+RND03_REL01,B - Testing their approach in parallel allows innovation without compromising the project timeline.
+RND03_REL02,B - Facilitating a joint authorship discussion can help address the conflict directly and ensure both parties feel their contributions are recognized.

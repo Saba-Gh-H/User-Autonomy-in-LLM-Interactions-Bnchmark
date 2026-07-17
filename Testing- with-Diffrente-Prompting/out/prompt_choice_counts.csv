@@ -1,0 +1,5 @@
+model,prompt,A,B,C,total,pct_A,pct_B,pct_C
+google/gemma-3-27b-it,natural_advice,15,23,82,120,12.5,19.17,68.33
+meta-llama/llama-3.1-70b-instruct,natural_advice,14,47,59,120,11.67,39.17,49.17
+openai/gpt-4o,natural_advice,5,17,98,120,4.17,14.17,81.67
+qwen/qwen3-32b,natural_advice,12,29,79,120,10.0,24.17,65.83

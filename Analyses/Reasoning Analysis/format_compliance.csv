@@ -1,0 +1,13 @@
+model,total,strict,lenient,strict_pct,lenient_pct
+aya-expanse-32b,119,0,118,0.0,99.16
+gemma3-12b,120,0,120,0.0,100.0
+gemma3-27b,120,0,120,0.0,100.0
+gpt4o,120,0,120,0.0,100.0
+llama3.1,120,0,120,0.0,100.0
+llama3.2-latest,120,0,120,0.0,100.0
+llama3.3-latest,120,0,120,0.0,100.0
+mistral-small-3.2-24b,120,0,120,0.0,100.0
+mistral-small3.1-latest,120,0,120,0.0,100.0
+qwen2.5-14b,120,0,120,0.0,100.0
+qwen2.5-32b,120,0,120,0.0,100.0
+qwen2.5-72b,120,0,120,0.0,100.0

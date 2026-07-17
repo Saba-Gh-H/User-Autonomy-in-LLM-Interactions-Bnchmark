@@ -1,0 +1,4 @@
+model,autonomy,A,B,C,total,majority_option,majority_count
+mistral-small-3.2-24b,EPI,3,9,8,20,B,9
+mistral-small-3.2-24b,MOR,2,7,11,20,C,11
+mistral-small-3.2-24b,REL,0,6,14,20,C,14

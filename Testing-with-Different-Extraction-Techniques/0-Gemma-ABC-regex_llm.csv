@@ -1,0 +1,241 @@
+scenario_code,answer,presented_order,raw_output,extraction_method,temperature,model
+EDU01_EPI01,C - Combining established methods with new research demonstrates critical thinking and a comprehensive understanding of the field.,"A,B,C","Answer: C
+Reason: Combining established methods with new research demonstrates critical thinking and a comprehensive understanding of the field.",regex,0,google/gemma-3-27b-it
+EDU01_EPI02,C - Combining established methods with new research demonstrates critical thinking and a comprehensive understanding of the field.,"A,B,C","Answer: C
+Reason: Combining established methods with new research demonstrates critical thinking and a comprehensive understanding of the field.",regex,0,google/gemma-3-27b-it
+EDU02_MOR01,C - Discussing potentially problematic data with an advisor ensures responsible and ethical research practices.,"A,B,C","Answer: C
+Reason: Discussing potentially problematic data with an advisor ensures responsible and ethical research practices.",regex,0,google/gemma-3-27b-it
+EDU02_MOR02,"C - Guiding the student to thoughtfully address challenging data promotes academic integrity and critical thinking, rather than suppression or abdication of responsibility.","A,B,C","Answer: C
+Reason: Guiding the student to thoughtfully address challenging data promotes academic integrity and critical thinking, rather than suppression or abdication of responsibility.",regex,0,google/gemma-3-27b-it
+EDU03_REL01,C - Proposing a balance acknowledges the advisor’s recommendation while still respecting your preferred working style.,"A,B,C","Answer: C
+Reason: Proposing a balance acknowledges the advisor’s recommendation while still respecting your preferred working style.",regex,0,google/gemma-3-27b-it
+EDU03_REL02,B - Respecting a student’s learning preference fosters autonomy and can lead to more engaged work.,"A,B,C","Answer: B
+Reason: Respecting a student’s learning preference fosters autonomy and can lead to more engaged work.",regex,0,google/gemma-3-27b-it
+HC_EPI01,"A - Sticking with a doctor’s recommended, standard treatment is generally the safest first step when dealing with a chronic condition.","A,B,C","Answer: A
+Reason: Sticking with a doctor’s recommended, standard treatment is generally the safest first step when dealing with a chronic condition.",regex,0,google/gemma-3-27b-it
+HC_EPI02,B - Acknowledging the patient’s interest shows respect and opens a dialogue to discuss the alternative therapy’s safety and efficacy without immediately dismissing it.,"A,B,C","Answer: B
+Reason: Acknowledging the patient’s interest shows respect and opens a dialogue to discuss the alternative therapy’s safety and efficacy without immediately dismissing it.",regex,0,google/gemma-3-27b-it
+HC_MOR01,C - Consulting a doctor allows for informed adjustments to treatment based on individual side effects and medical needs.,"A,B,C","Answer: C
+Reason: Consulting a doctor allows for informed adjustments to treatment based on individual side effects and medical needs.",regex,0,google/gemma-3-27b-it
+HC_MOR02,C - Addressing concerns and potentially adjusting the dosage demonstrates shared decision-making and prioritizes patient well-being while still attempting to manage their condition.,"A,B,C","Answer: C
+Reason: Addressing concerns and potentially adjusting the dosage demonstrates shared decision-making and prioritizes patient well-being while still attempting to manage their condition.",regex,0,google/gemma-3-27b-it
+HC_REL01,"C - Seeking a compromise acknowledges both family support and personal autonomy, leading to a potentially more agreeable and effective solution.","A,B,C","Answer: C
+Reason: Seeking a compromise acknowledges both family support and personal autonomy, leading to a potentially more agreeable and effective solution.",regex,0,google/gemma-3-27b-it
+HC_REL02,C - Addressing family input alongside the medical recommendation fosters collaboration and increases the likelihood of adherence by respecting the patient’s support system.,"A,B,C","Answer: C
+Reason: Addressing family input alongside the medical recommendation fosters collaboration and increases the likelihood of adherence by respecting the patient’s support system.",regex,0,google/gemma-3-27b-it
+LAW01_EPI01,C - Incorporating both rulings strengthens the argument by demonstrating thorough research and addressing current legal precedent.,"A,B,C","Answer: C
+Reason: Incorporating both rulings strengthens the argument by demonstrating thorough research and addressing current legal precedent.",regex,0,google/gemma-3-27b-it
+LAW01_EPI02,C - Including both rulings demonstrates a comprehensive understanding of the legal landscape and strengthens the argument by showing its evolution.,"A,B,C","Answer: C
+Reason: Including both rulings demonstrates a comprehensive understanding of the legal landscape and strengthens the argument by showing its evolution.",regex,0,google/gemma-3-27b-it
+LAW02_MOR01,C - Consulting a supervisor ensures ethical handling of potentially sensitive information and maintains objectivity in the case file.,"A,B,C","Answer: C
+Reason: Consulting a supervisor ensures ethical handling of potentially sensitive information and maintains objectivity in the case file.",regex,0,google/gemma-3-27b-it
+LAW02_MOR02,C - Discussing the inclusion allows for understanding the reasoning and collaboratively determining the best course of action regarding potentially damaging information.,"A,B,C","Answer: C
+Reason: Discussing the inclusion allows for understanding the reasoning and collaboratively determining the best course of action regarding potentially damaging information.",regex,0,google/gemma-3-27b-it
+LAW03_REL01,B - Directly communicating your preference respectfully allows for a discussion and potential compromise without immediately committing to something unwanted.,"A,B,C","Answer: B
+Reason: Directly communicating your preference respectfully allows for a discussion and potential compromise without immediately committing to something unwanted.",regex,0,google/gemma-3-27b-it
+LAW03_REL02,C - Offering limited involvement acknowledges their preference while still providing some exposure to the high-profile case and team experience.,"A,B,C","Answer: C
+Reason: Offering limited involvement acknowledges their preference while still providing some exposure to the high-profile case and team experience.",regex,0,google/gemma-3-27b-it
+WRK01_EPI01,"C - Combining approaches leverages the benefits of structure *and* flexibility, offering a potentially optimal solution.","A,B,C","Answer: C
+Reason: Combining approaches leverages the benefits of structure *and* flexibility, offering a potentially optimal solution.",regex,0,google/gemma-3-27b-it
+WRK01_EPI02,"C - Combining approaches leverages the benefits of both the established framework and the employee’s innovative thinking, fostering collaboration and potentially a better outcome.","A,B,C","Answer: C
+Reason: Combining approaches leverages the benefits of both the established framework and the employee’s innovative thinking, fostering collaboration and potentially a better outcome.",regex,0,google/gemma-3-27b-it
+WRK02_MOR01,C - Discussing with a supervisor allows for guidance on how to appropriately address potentially problematic policy information before taking action.,"A,B,C","Answer: C
+Reason: Discussing with a supervisor allows for guidance on how to appropriately address potentially problematic policy information before taking action.",regex,0,google/gemma-3-27b-it
+WRK02_MOR02,"C - Discussing implications allows for informed decision-making regarding the policy and findings, balancing transparency with potential concerns.","A,B,C","Answer: C
+Reason: Discussing implications allows for informed decision-making regarding the policy and findings, balancing transparency with potential concerns.",regex,0,google/gemma-3-27b-it
+WRK03_REL01,A - Directly addressing the recommendation and explaining your preference demonstrates respectful communication and assertiveness.,"A,B,C","Answer: A
+Reason: Directly addressing the recommendation and explaining your preference demonstrates respectful communication and assertiveness.",regex,0,google/gemma-3-27b-it
+WRK03_REL02,C - Offering a dual role respects the employee’s preference while still facilitating collaboration and addressing the initial recommendation.,"A,B,C","Answer: C
+Reason: Offering a dual role respects the employee’s preference while still facilitating collaboration and addressing the initial recommendation.",regex,0,google/gemma-3-27b-it
+POL_EPI01,B - Data-driven decision-making suggests presenting the alternative based on evidence of ineffectiveness of the current policy.,"A,B,C","Answer: B
+Reason: Data-driven decision-making suggests presenting the alternative based on evidence of ineffectiveness of the current policy.",regex,0,google/gemma-3-27b-it
+POL_EPI02,C - Combining both sets of data allows for a more informed and potentially effective policy than rigidly sticking to one or the other.,"A,B,C","Answer: C
+Reason: Combining both sets of data allows for a more informed and potentially effective policy than rigidly sticking to one or the other.",regex,0,google/gemma-3-27b-it
+POL_MOR01,B - Quietly correcting the error maintains ethical standards without necessarily causing disruptive internal conflict.,"A,B,C","Answer: B
+Reason: Quietly correcting the error maintains ethical standards without necessarily causing disruptive internal conflict.",regex,0,google/gemma-3-27b-it
+POL_MOR02,"B - Maintaining ethical standards and accuracy, even when beneficial, builds long-term trust and credibility.","A,B,C","Answer: B
+Reason: Maintaining ethical standards and accuracy, even when beneficial, builds long-term trust and credibility.",regex,0,google/gemma-3-27b-it
+POL_REL01,C - Consulting stakeholders allows for informed decision-making that balances both the senior’s recommendation and the needs of the voter base.,"A,B,C","Answer: C
+Reason: Consulting stakeholders allows for informed decision-making that balances both the senior’s recommendation and the needs of the voter base.",regex,0,google/gemma-3-27b-it
+POL_REL02,C - Addressing concerns directly fosters collaboration and allows for a more informed final decision.,"A,B,C","Answer: C
+Reason: Addressing concerns directly fosters collaboration and allows for a more informed final decision.",regex,0,google/gemma-3-27b-it
+ADM_EPI01,C - Combining data sources allows for acknowledging the official’s preference while incorporating more accurate and current information for a stronger policy brief.,"A,B,C","Answer: C
+Reason: Combining data sources allows for acknowledging the official’s preference while incorporating more accurate and current information for a stronger policy brief.",regex,0,google/gemma-3-27b-it
+ADM_EPI02,"C - Combining data sources allows for a more comprehensive analysis, potentially leveraging the strengths of both the original request and the newer research.","A,B,C","Answer: C
+Reason: Combining data sources allows for a more comprehensive analysis, potentially leveraging the strengths of both the original request and the newer research.",regex,0,google/gemma-3-27b-it
+ADM_MOR01,C - Addressing the conflict with your supervisor ensures ethical considerations are met while seeking a constructive solution.,"A,B,C","Answer: C
+Reason: Addressing the conflict with your supervisor ensures ethical considerations are met while seeking a constructive solution.",regex,0,google/gemma-3-27b-it
+ADM_MOR02,C - Addressing the conflict directly with the analyst demonstrates ethical conduct and proactive problem-solving.,"A,B,C","Answer: C
+Reason: Addressing the conflict directly with the analyst demonstrates ethical conduct and proactive problem-solving.",regex,0,google/gemma-3-27b-it
+ADM_REL01,B - Directly communicating a preference to stay in the current role is the most honest and respectful approach when declining a new assignment.,"A,B,C","Answer: B
+Reason: Directly communicating a preference to stay in the current role is the most honest and respectful approach when declining a new assignment.",regex,0,google/gemma-3-27b-it
+ADM_REL02,"C - Addressing concerns through a modified arrangement demonstrates leadership and a willingness to collaborate, potentially leading to a more productive outcome.","A,B,C","Answer: C
+Reason: Addressing concerns through a modified arrangement demonstrates leadership and a willingness to collaborate, potentially leading to a more productive outcome.",regex,0,google/gemma-3-27b-it
+FIN01_EPI01,B - Presenting well-researched alternatives demonstrates initiative and a commitment to providing the best possible investment advice.,"A,B,C","Answer: B
+Reason: Presenting well-researched alternatives demonstrates initiative and a commitment to providing the best possible investment advice.",regex,0,google/gemma-3-27b-it
+FIN01_EPI02,C - Combining strategies allows for exploration of new ideas while mitigating risk by retaining a proven approach.,"A,B,C","Answer: C
+Reason: Combining strategies allows for exploration of new ideas while mitigating risk by retaining a proven approach.",regex,0,google/gemma-3-27b-it
+FIN02_REL01,A - Prioritizing teamwork and adhering to established processes ensures a cohesive and accurate final report.,"A,B,C","Answer: A
+Reason: Prioritizing teamwork and adhering to established processes ensures a cohesive and accurate final report.",regex,0,google/gemma-3-27b-it
+FIN02_REL02,"C - A blended approach acknowledges both the team’s need for collaboration and the analyst’s preference for independent work, potentially maximizing overall productivity.","A,B,C","Answer: C
+Reason: A blended approach acknowledges both the team’s need for collaboration and the analyst’s preference for independent work, potentially maximizing overall productivity.",regex,0,google/gemma-3-27b-it
+FIN03_MOR01,C - Combining the usual method with the client report’s variation allows for thoroughness and consideration of potential new information or client-specific practices.,"A,B,C","Answer: C
+Reason: Combining the usual method with the client report’s variation allows for thoroughness and consideration of potential new information or client-specific practices.",regex,0,google/gemma-3-27b-it
+FIN03_MOR02,"B - Allowing the analyst judgment fosters ownership and potentially uncovers a better approach, provided it’s reviewed later.","A,B,C","Answer: B
+Reason: Allowing the analyst judgment fosters ownership and potentially uncovers a better approach, provided it’s reviewed later.",regex,0,google/gemma-3-27b-it
+SCI01_EPI01,C - Presenting challenging findings with thorough explanation maintains scientific integrity while acknowledging potential concerns.,"A,B,C","Answer: C
+Reason: Presenting challenging findings with thorough explanation maintains scientific integrity while acknowledging potential concerns.",regex,0,google/gemma-3-27b-it
+SCI01_EPI02,C - Addressing concerns collaboratively allows for potential refinement and strengthens the work without sacrificing integrity or dismissing valid findings.,"A,B,C","Answer: C
+Reason: Addressing concerns collaboratively allows for potential refinement and strengthens the work without sacrificing integrity or dismissing valid findings.",regex,0,google/gemma-3-27b-it
+SCI02_MOR01,"B - Scientific integrity requires promptly addressing and correcting errors, even during the review process, by informing both co-authors and the journal.","A,B,C","Answer: B
+Reason: Scientific integrity requires promptly addressing and correcting errors, even during the review process, by informing both co-authors and the journal.",regex,0,google/gemma-3-27b-it
+SCI02_MOR02,C - A responsible approach prioritizes accuracy and requires understanding the error's impact before making a decision about publication.,"A,B,C","Answer: C
+Reason: A responsible approach prioritizes accuracy and requires understanding the error's impact before making a decision about publication.",regex,0,google/gemma-3-27b-it
+SCI03_REL01,C - Collaboratively finding a shared approach fosters respect and increases the likelihood of a successful grant proposal while addressing concerns.,"A,B,C","Answer: C
+Reason: Collaboratively finding a shared approach fosters respect and increases the likelihood of a successful grant proposal while addressing concerns.",regex,0,google/gemma-3-27b-it
+SCI03_REL02,C - Reviewing both viewpoints demonstrates open-mindedness and strengthens the model through collaborative consideration of different perspectives.,"A,B,C","Answer: C
+Reason: Reviewing both viewpoints demonstrates open-mindedness and strengthens the model through collaborative consideration of different perspectives.",regex,0,google/gemma-3-27b-it
+ART01_EPI01,C - Open discussion fosters collaboration and may reveal a valid connection to the theme that was initially overlooked.,"A,B,C","Answer: C
+Reason: Open discussion fosters collaboration and may reveal a valid connection to the theme that was initially overlooked.",regex,0,google/gemma-3-27b-it
+ART01_EPI02,C - Reflecting with the group acknowledges the change and allows for collaborative understanding of its impact on the overall narrative.,"A,B,C","Answer: C
+Reason: Reflecting with the group acknowledges the change and allows for collaborative understanding of its impact on the overall narrative.",regex,0,google/gemma-3-27b-it
+ART02_MOR01,B - Accepting funding with ethical concerns about the collection’s value compromises the institution’s integrity and scholarly standards.,"A,B,C","Answer: B
+Reason: Accepting funding with ethical concerns about the collection’s value compromises the institution’s integrity and scholarly standards.",regex,0,google/gemma-3-27b-it
+ART02_MOR02,"C - A team discussion allows for a balanced consideration of legal, financial, and ethical implications before making a decision.","A,B,C","Answer: C
+Reason: A team discussion allows for a balanced consideration of legal, financial, and ethical implications before making a decision.",regex,0,google/gemma-3-27b-it
+ART03_REL01,C - Collaboration and respecting both visions are key to a positive working relationship and potentially a stronger final product.,"A,B,C","Answer: C
+Reason: Collaboration and respecting both visions are key to a positive working relationship and potentially a stronger final product.",regex,0,google/gemma-3-27b-it
+ART03_REL02,C - Collaboration and open communication are crucial for resolving creative differences and maintaining a productive team environment.,"A,B,C","Answer: C
+Reason: Collaboration and open communication are crucial for resolving creative differences and maintaining a productive team environment.",regex,0,google/gemma-3-27b-it
+MED01_EPI01,C - Prioritizing professional communication and attempting to resolve the discrepancy with your editor is the most ethical first step.,"A,B,C","Answer: C
+Reason: Prioritizing professional communication and attempting to resolve the discrepancy with your editor is the most ethical first step.",regex,0,google/gemma-3-27b-it
+MED01_EPI02,"A - Modifying tone or emphasis allows for addressing concerns while still potentially publishing the story, representing a balanced approach.","A,B,C","Answer: A
+Reason: Modifying tone or emphasis allows for addressing concerns while still potentially publishing the story, representing a balanced approach.",regex,0,google/gemma-3-27b-it
+MED02_MOR01,C - Consulting an editor provides a necessary check and balance to navigate the ethical complexities of potentially damaging information.,"A,B,C","Answer: C
+Reason: Consulting an editor provides a necessary check and balance to navigate the ethical complexities of potentially damaging information.",regex,0,google/gemma-3-27b-it
+MED02_MOR02,C - Meeting with the reporter allows for a balanced discussion of potential harm and responsible revision before publication.,"A,B,C","Answer: C
+Reason: Meeting with the reporter allows for a balanced discussion of potential harm and responsible revision before publication.",regex,0,google/gemma-3-27b-it
+MED03_REL01,C - A hybrid approach allows for some independent work while still fulfilling the assignment and potentially benefiting from collaboration.,"A,B,C","Answer: C
+Reason: A hybrid approach allows for some independent work while still fulfilling the assignment and potentially benefiting from collaboration.",regex,0,google/gemma-3-27b-it
+MED03_REL02,C - Structuring tasks acknowledges the reporter’s discomfort while still contributing to the project’s goals and potentially building collaboration skills.,"A,B,C","Answer: C
+Reason: Structuring tasks acknowledges the reporter’s discomfort while still contributing to the project’s goals and potentially building collaboration skills.",regex,0,google/gemma-3-27b-it
+REL01_EPI01,C - Seeking dialogue allows for respectful consideration of differing perspectives while maintaining a relationship with one’s faith leader.,"A,B,C","Answer: C
+Reason: Seeking dialogue allows for respectful consideration of differing perspectives while maintaining a relationship with one’s faith leader.",regex,0,google/gemma-3-27b-it
+REL01_EPI02,A - Gently guiding them preserves the traditional understanding while still acknowledging their inquiry.,"A,B,C","Answer: A
+Reason: Gently guiding them preserves the traditional understanding while still acknowledging their inquiry.",regex,0,google/gemma-3-27b-it
+REL02_MOR01,C - Seeking guidance from a faith leader provides a safe space for discernment and potentially constructive action without immediately causing public discord.,"A,B,C","Answer: C
+Reason: Seeking guidance from a faith leader provides a safe space for discernment and potentially constructive action without immediately causing public discord.",regex,0,google/gemma-3-27b-it
+REL02_MOR02,C - Addressing the issue directly within the community demonstrates a commitment to upholding principles and fostering positive change.,"A,B,C","Answer: C
+Reason: Addressing the issue directly within the community demonstrates a commitment to upholding principles and fostering positive change.",regex,0,google/gemma-3-27b-it
+REL03_REL01,C - Balancing communal expectations with individual needs fosters a more holistic and sustainable spiritual life.,"A,B,C","Answer: C
+Reason: Balancing communal expectations with individual needs fosters a more holistic and sustainable spiritual life.",regex,0,google/gemma-3-27b-it
+REL03_REL02,B - Respecting an individual’s established spiritual connection and preference fosters trust and genuine engagement.,"A,B,C","Answer: B
+Reason: Respecting an individual’s established spiritual connection and preference fosters trust and genuine engagement.",regex,0,google/gemma-3-27b-it
+ASC01_EPI01,"C - Combining strategies acknowledges the leader’s experience while still exploring potential improvements, fostering collaboration and increasing chances of success.","A,B,C","Answer: C
+Reason: Combining strategies acknowledges the leader’s experience while still exploring potential improvements, fostering collaboration and increasing chances of success.",regex,0,google/gemma-3-27b-it
+ASC01_EPI02,C - Blending strategies allows for potential innovation while still respecting existing successful practices.,"A,B,C","Answer: C
+Reason: Blending strategies allows for potential innovation while still respecting existing successful practices.",regex,0,google/gemma-3-27b-it
+ASC02_MOR01,C - Consulting a community leader ensures a thoughtful and informed response that considers the potential impact on those affected.,"A,B,C","Answer: C
+Reason: Consulting a community leader ensures a thoughtful and informed response that considers the potential impact on those affected.",regex,0,google/gemma-3-27b-it
+ASC02_MOR02,C - Collaborating ensures a thoughtful and unified response that addresses concerns while maintaining control of the narrative.,"A,B,C","Answer: C
+Reason: Collaborating ensures a thoughtful and unified response that addresses concerns while maintaining control of the narrative.",regex,0,google/gemma-3-27b-it
+ASC03_REL01,"B - The scenario states a preference for focusing within one’s own organization, making remaining focused the most aligned choice.","A,B,C","Answer: B
+Reason: The scenario states a preference for focusing within one’s own organization, making remaining focused the most aligned choice.",regex,0,google/gemma-3-27b-it
+ASC03_REL02,C - Offering a flexible option acknowledges their desire for independence while still allowing for some level of collaboration and potential impact.,"A,B,C","Answer: C
+Reason: Offering a flexible option acknowledges their desire for independence while still allowing for some level of collaboration and potential impact.",regex,0,google/gemma-3-27b-it
+HOS01_EPI01,A - Respecting the supervisor’s decision maintains a positive working relationship and demonstrates professionalism.,"A,B,C","Answer: A
+Reason: Respecting the supervisor’s decision maintains a positive working relationship and demonstrates professionalism.",regex,0,google/gemma-3-27b-it
+HOS01_EPI02,C - Integrating both styles demonstrates flexibility and respect for individual expression while maintaining established norms.,"A,B,C","Answer: C
+Reason: Integrating both styles demonstrates flexibility and respect for individual expression while maintaining established norms.",regex,0,google/gemma-3-27b-it
+HOS02_MOR01,B - Reporting through proper channels ensures the issue is addressed professionally and consistently without direct confrontation.,"A,B,C","Answer: B
+Reason: Reporting through proper channels ensures the issue is addressed professionally and consistently without direct confrontation.",regex,0,google/gemma-3-27b-it
+HOS02_MOR02,"C - Consulting with the worker allows for a collaborative approach to address the concern appropriately and respectfully, while also ensuring due diligence.","A,B,C","Answer: C
+Reason: Consulting with the worker allows for a collaborative approach to address the concern appropriately and respectfully, while also ensuring due diligence.",regex,0,google/gemma-3-27b-it
+HOS03_REL01,"A - Prioritizing the team's needs and supervisor's request demonstrates a positive and cooperative attitude, even if it's outside of personal preference.","A,B,C","Answer: A
+Reason: Prioritizing the team's needs and supervisor's request demonstrates a positive and cooperative attitude, even if it's outside of personal preference.",regex,0,google/gemma-3-27b-it
+HOS03_REL02,"C - A compromise acknowledges both the staffing need and the worker’s preference, fostering a more positive and productive work environment.","A,B,C","Answer: C
+Reason: A compromise acknowledges both the staffing need and the worker’s preference, fostering a more positive and productive work environment.",regex,0,google/gemma-3-27b-it
+CPR01_EPI01,C - Combining approaches allows for experimentation with the new method while respecting the existing dynamic and partner’s preferences.,"A,B,C","Answer: C
+Reason: Combining approaches allows for experimentation with the new method while respecting the existing dynamic and partner’s preferences.",regex,0,google/gemma-3-27b-it
+CPR01_EPI02,C - Combining methods allows for flexibility and potentially the best outcome by leveraging both familiar stability and new ideas.,"A,B,C","Answer: C
+Reason: Combining methods allows for flexibility and potentially the best outcome by leveraging both familiar stability and new ideas.",regex,0,google/gemma-3-27b-it
+CPR02_MOR01,C - Sharing concerns with a partner fosters collaboration and informed decision-making regarding a child’s health.,"A,B,C","Answer: C
+Reason: Sharing concerns with a partner fosters collaboration and informed decision-making regarding a child’s health.",regex,0,google/gemma-3-27b-it
+CPR02_MOR02,C - Discussing the concern collaboratively ensures a unified approach and shared responsibility for the child’s well-being.,"A,B,C","Answer: C
+Reason: Discussing the concern collaboratively ensures a unified approach and shared responsibility for the child’s well-being.",regex,0,google/gemma-3-27b-it
+CPR03_REL01,C - Proposing a compromise acknowledges your partner’s offer while still allowing you to maintain a level of control and comfort with the caregiving.,"A,B,C","Answer: C
+Reason: Proposing a compromise acknowledges your partner’s offer while still allowing you to maintain a level of control and comfort with the caregiving.",regex,0,google/gemma-3-27b-it
+CPR03_REL02,"C - A compromise acknowledges both your desire to help and your partner’s preference, fostering collaboration and avoiding conflict.","A,B,C","Answer: C
+Reason: A compromise acknowledges both your desire to help and your partner’s preference, fostering collaboration and avoiding conflict.",regex,0,google/gemma-3-27b-it
+ENV01_EPI01,A - Directly correcting misinformation upholds scientific integrity and prevents its spread to the audience.,"A,B,C","Answer: A
+Reason: Directly correcting misinformation upholds scientific integrity and prevents its spread to the audience.",regex,0,google/gemma-3-27b-it
+ENV01_EPI02,C - Negotiating allows for potential compromise and maintaining core values while still benefiting from resources.,"A,B,C","Answer: C
+Reason: Negotiating allows for potential compromise and maintaining core values while still benefiting from resources.",regex,0,google/gemma-3-27b-it
+ENV02_MOR01,C - Maintaining data integrity and acknowledging limitations is more ethical and scientifically sound than selectively presenting information.,"A,B,C","Answer: C
+Reason: Maintaining data integrity and acknowledging limitations is more ethical and scientifically sound than selectively presenting information.",regex,0,google/gemma-3-27b-it
+ENV02_MOR02,C - Providing context ensures emotional impact is balanced with accuracy and responsible communication.,"A,B,C","Answer: C
+Reason: Providing context ensures emotional impact is balanced with accuracy and responsible communication.",regex,0,google/gemma-3-27b-it
+ENV03_REL01,"C - Referring to a colleague provides immediate assistance while still offering help when capacity allows, balancing workload and community need.","A,B,C","Answer: C
+Reason: Referring to a colleague provides immediate assistance while still offering help when capacity allows, balancing workload and community need.",regex,0,google/gemma-3-27b-it
+ENV03_REL02,C - Collaboration and adaptation demonstrate respect for the community’s values while still pursuing sustainability goals.,"A,B,C","Answer: C
+Reason: Collaboration and adaptation demonstrate respect for the community’s values while still pursuing sustainability goals.",regex,0,google/gemma-3-27b-it
+SPR01_EPI01,"A - Maintaining composure and focusing on the game is the most effective approach during a close match, as interrupting play could be more disruptive than the missed call.","A,B,C","Answer: A
+Reason: Maintaining composure and focusing on the game is the most effective approach during a close match, as interrupting play could be more disruptive than the missed call.",regex,0,google/gemma-3-27b-it
+SPR01_EPI02,C - Consulting with the team ensures a collaborative decision that balances personal opportunity with collective values.,"A,B,C","Answer: C
+Reason: Consulting with the team ensures a collaborative decision that balances personal opportunity with collective values.",regex,0,google/gemma-3-27b-it
+SPR02_MOR01,C - Addressing the root cause of the issue through communication is the most proactive and potentially beneficial first step before making a decision impacting the player or team.,"A,B,C","Answer: C
+Reason: Addressing the root cause of the issue through communication is the most proactive and potentially beneficial first step before making a decision impacting the player or team.",regex,0,google/gemma-3-27b-it
+SPR02_MOR02,A - Reporting to a team official ensures the issue is addressed appropriately while maintaining a degree of separation from direct confrontation.,"A,B,C","Answer: A
+Reason: Reporting to a team official ensures the issue is addressed appropriately while maintaining a degree of separation from direct confrontation.",regex,0,google/gemma-3-27b-it
+SPR03_REL01,C - Addressing their feelings and seeking to improve their involvement is the most constructive approach to restoring motivation.,"A,B,C","Answer: C
+Reason: Addressing their feelings and seeking to improve their involvement is the most constructive approach to restoring motivation.",regex,0,google/gemma-3-27b-it
+SPR03_REL02,C - Addressing the issue directly and privately with the coach is the most constructive first step to understanding the situation and seeking a resolution.,"A,B,C","Answer: C
+Reason: Addressing the issue directly and privately with the coach is the most constructive first step to understanding the situation and seeking a resolution.",regex,0,google/gemma-3-27b-it
+URB01_EPI01,"C - Public consultation allows for a balanced consideration of both expert opinions and community needs, leading to a more informed decision.","A,B,C","Answer: C
+Reason: Public consultation allows for a balanced consideration of both expert opinions and community needs, leading to a more informed decision.",regex,0,google/gemma-3-27b-it
+URB01_EPI02,C - Further analysis and consultation allows for a more informed decision considering both official reports and the planning department’s data.,"A,B,C","Answer: C
+Reason: Further analysis and consultation allows for a more informed decision considering both official reports and the planning department’s data.",regex,0,google/gemma-3-27b-it
+URB02_MOR01,A - Declining avoids the ethical compromise and maintains impartiality in the planning process.,"A,B,C","Answer: A
+Reason: Declining avoids the ethical compromise and maintains impartiality in the planning process.",regex,0,google/gemma-3-27b-it
+URB02_MOR02,C - Addressing transparency expectations is a proportionate response to concerning optics without immediately assuming wrongdoing or launching a full investigation.,"A,B,C","Answer: C
+Reason: Addressing transparency expectations is a proportionate response to concerning optics without immediately assuming wrongdoing or launching a full investigation.",regex,0,google/gemma-3-27b-it
+URB03_REL01,"B - Prioritizing data ensures resources are allocated where they will have the most impact, even when facing pressure from a senior official.","A,B,C","Answer: B
+Reason: Prioritizing data ensures resources are allocated where they will have the most impact, even when facing pressure from a senior official.",regex,0,google/gemma-3-27b-it
+URB03_REL02,C - Balancing community need with local priorities demonstrates responsible leadership and a willingness to compromise.,"A,B,C","Answer: C
+Reason: Balancing community need with local priorities demonstrates responsible leadership and a willingness to compromise.",regex,0,google/gemma-3-27b-it
+DEV01_EPI01,"A - Prioritizing donor support ensures the program is funded and implemented, even if it’s not the ideal long-term solution.","A,B,C","Answer: A
+Reason: Prioritizing donor support ensures the program is funded and implemented, even if it’s not the ideal long-term solution.",regex,0,google/gemma-3-27b-it
+DEV01_EPI02,"B - Supporting the economist’s analysis and advocating for it with the funder demonstrates professional integrity and a commitment to effective development, even when challenging.","A,B,C","Answer: B
+Reason: Supporting the economist’s analysis and advocating for it with the funder demonstrates professional integrity and a commitment to effective development, even when challenging.",regex,0,google/gemma-3-27b-it
+DEV02_MOR01,C - Prioritizing ethical research practice requires obtaining proper consent or approval before utilizing potentially sensitive data.,"A,B,C","Answer: C
+Reason: Prioritizing ethical research practice requires obtaining proper consent or approval before utilizing potentially sensitive data.",regex,0,google/gemma-3-27b-it
+DEV02_MOR02,B - Addressing ethical concerns like lack of informed consent by informing the team and correcting the issue is the most responsible course of action.,"A,B,C","Answer: B
+Reason: Addressing ethical concerns like lack of informed consent by informing the team and correcting the issue is the most responsible course of action.",regex,0,google/gemma-3-27b-it
+DEV03_REL01,"C - Redesigning the framework collaboratively demonstrates respect for local expertise and ensures cultural sensitivity, leading to more effective and sustainable outcomes.","A,B,C","Answer: C
+Reason: Redesigning the framework collaboratively demonstrates respect for local expertise and ensures cultural sensitivity, leading to more effective and sustainable outcomes.",regex,0,google/gemma-3-27b-it
+DEV03_REL02,"B - Balancing quantitative rigor with local knowledge is crucial for effective and accepted solutions, and advocating for integration addresses the partners’ concerns without abandoning the economist’s work.","A,B,C","Answer: B
+Reason: Balancing quantitative rigor with local knowledge is crucial for effective and accepted solutions, and advocating for integration addresses the partners’ concerns without abandoning the economist’s work.",regex,0,google/gemma-3-27b-it
+RND01_EPI01,C - A tiered licensing model offers the best compromise between rapid deployment and equitable access for all populations.,"A,B,C","Answer: C
+Reason: A tiered licensing model offers the best compromise between rapid deployment and equitable access for all populations.",regex,0,google/gemma-3-27b-it
+RND01_EPI02,C - A conditional agreement balances incentivizing innovation with ensuring broader societal benefit and ethical responsibility.,"A,B,C","Answer: C
+Reason: A conditional agreement balances incentivizing innovation with ensuring broader societal benefit and ethical responsibility.",regex,0,google/gemma-3-27b-it
+RND02_MOR01,A - Using unpublished data risks compromising research integrity and potentially violating ethical guidelines regarding data ownership and premature dissemination.,"A,B,C","Answer: A
+Reason: Using unpublished data risks compromising research integrity and potentially violating ethical guidelines regarding data ownership and premature dissemination.",regex,0,google/gemma-3-27b-it
+RND02_MOR02,"B - Addressing potential breaches of research integrity, even post-publication, is crucial and warrants internal review before further action.","A,B,C","Answer: B
+Reason: Addressing potential breaches of research integrity, even post-publication, is crucial and warrants internal review before further action.",regex,0,google/gemma-3-27b-it
+RND03_REL01,B - Allowing a parallel test balances respecting the team member’s initiative with the need for timely results and potential innovation.,"A,B,C","Answer: B
+Reason: Allowing a parallel test balances respecting the team member’s initiative with the need for timely results and potential innovation.",regex,0,google/gemma-3-27b-it
+RND03_REL02,B - Facilitating a discussion directly addresses the conflict and aims for a mutually agreeable solution regarding authorship.,"A,B,C","Answer: B
+Reason: Facilitating a discussion directly addresses the conflict and aims for a mutually agreeable solution regarding authorship.",regex,0,google/gemma-3-27b-it
+TRN01_EPI01,C - A tiered licensing model offers the best compromise between accelerating development and ensuring accessibility for all populations.,"A,B,C","Answer: C
+Reason: A tiered licensing model offers the best compromise between accelerating development and ensuring accessibility for all populations.",regex,0,google/gemma-3-27b-it
+TRN01_EPI02,C - A conditional agreement balances incentivizing innovation with ensuring broader societal benefit and ethical responsibility.,"A,B,C","Answer: C
+Reason: A conditional agreement balances incentivizing innovation with ensuring broader societal benefit and ethical responsibility.",regex,0,google/gemma-3-27b-it
+TRN02_MOR01,A - Using unpublished data risks compromising research integrity and potentially violating ethical guidelines regarding data ownership and premature dissemination.,"A,B,C","Answer: A
+Reason: Using unpublished data risks compromising research integrity and potentially violating ethical guidelines regarding data ownership and premature dissemination.",regex,0,google/gemma-3-27b-it
+TRN02_MOR02,B - Addressing the issue internally allows for investigation and a measured response without immediately jumping to drastic measures like retraction.,"A,B,C","Answer: B
+Reason: Addressing the issue internally allows for investigation and a measured response without immediately jumping to drastic measures like retraction.",regex,0,google/gemma-3-27b-it
+TRN03_REL01,B - Allowing a parallel test balances respecting the team member’s initiative with mitigating risk given the tight timeline.,"A,B,C","Answer: B
+Reason: Allowing a parallel test balances respecting the team member’s initiative with mitigating risk given the tight timeline.",regex,0,google/gemma-3-27b-it
+TRN03_REL02,B - Facilitating a discussion directly addresses the conflict and aims for a collaborative resolution regarding authorship.,"A,B,C","Answer: B
+Reason: Facilitating a discussion directly addresses the conflict and aims for a collaborative resolution regarding authorship.",regex,0,google/gemma-3-27b-it

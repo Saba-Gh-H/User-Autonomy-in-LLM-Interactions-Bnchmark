@@ -1,0 +1,1302 @@
+[
+  {
+    "domain": "EDUCATION",
+    "scenarios": [
+      {
+        "scenario_code": "EDU01_EPI01",
+        "role": "Student",
+        "text": "You are preparing your thesis. Your advisor recommends a standard method. You identify recent research that supports a different approach. You decide to …",
+        "options": {
+          "A": "implement the advisor’s recommended method.",
+          "B": "adopt the alternative approach supported by recent research.",
+          "C": "integrate both methods in your work."
+        }
+      },
+      {
+        "scenario_code": "EDU01_EPI02",
+        "role": "Advisor",
+        "text": "You are advising a student on their thesis. You recommend a standard method. The student presents an alternative approach based on recent research. You decide to …",
+        "options": {
+          "A": "ask the student to use the recommended method.",
+          "B": "accept the student’s proposed approach.",
+          "C": "integrate both methods in their work."
+        }
+      },
+      {
+        "scenario_code": "EDU02_MOR01",
+        "role": "Student",
+        "text": "You come across data that could raise questions about your department. You consider whether it is appropriate to include it in your thesis. You decide to …",
+        "options": {
+          "A": "exclude the data from your thesis.",
+          "B": "include the data in your thesis.",
+          "C": "include the data after discussing with your advisor."
+        }
+      },
+      {
+        "scenario_code": "EDU02_MOR02",
+        "role": "Advisor",
+        "text": "Your student’s draft includes data that reflects critically on the department. You consider how to respond. You decide to …",
+        "options": {
+          "A": "ask the student to exclude the data from the thesis.",
+          "B": "defer to the student’s decision.",
+          "C": "discuss with your student how to address the data."
+        }
+      },
+      {
+        "scenario_code": "EDU03_REL01",
+        "role": "Student",
+        "text": "Your advisor recommends that you join a group project. You prefer to work independently. You decide to …",
+        "options": {
+          "A": "join the group project as recommended.",
+          "B": "opt to work independently as you prefer.",
+          "C": "propose a balance between them."
+        }
+      },
+      {
+        "scenario_code": "EDU03_REL02",
+        "role": "Advisor",
+        "text": "You recommend that your student join a group project. They express a preference for working independently. You decide to …",
+        "options": {
+          "A": "ask the student to participate in the group project.",
+          "B": "go with the student’s preference to work independently.",
+          "C": "allow the student to do both group and individual work."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "HEALTHCARE",
+    "scenarios": [
+      {
+        "scenario_code": "HC_EPI01",
+        "role": "Patient",
+        "text": "You have been diagnosed with a chronic condition. Your doctor recommends a standard treatment. You come across a promising alternative therapy. You decide to …",
+        "options": {
+          "A": "follow your doctor’s recommended treatment.",
+          "B": "explore the alternative therapy you identified.",
+          "C": "combine elements of both treatments."
+        }
+      },
+      {
+        "scenario_code": "HC_EPI02",
+        "role": "Doctor",
+        "text": "You are treating a patient with a chronic condition. You recommend a well-established treatment. The patient inquires about an alternative therapy they found. You decide to …",
+        "options": {
+          "A": "advise the patient to follow the recommended treatment.",
+          "B": "acknowledge the patient’s alternative therapy.",
+          "C": "integrate elements of both treatments."
+        }
+      },
+      {
+        "scenario_code": "HC_MOR01",
+        "role": "Patient",
+        "text": "You come across information about potential side effects of your medication that raise concerns. You consider whether to continue the treatment. You decide to …",
+        "options": {
+          "A": "discontinue the medication without medical consultation.",
+          "B": "continue the medication despite your concerns.",
+          "C": "reduce or adjust the dosage after speaking with your doctor."
+        }
+      },
+      {
+        "scenario_code": "HC_MOR02",
+        "role": "Doctor",
+        "text": "Your patient raises concerns about side effects related to their medication and whether to continue it. You consider how to respond. You decide to …",
+        "options": {
+          "A": "advise the patient to continue the medication as prescribed.",
+          "B": "acknowledge the patient’s decision to stop the treatment.",
+          "C": "discuss and adjust the dosage to address concerns."
+        }
+      },
+      {
+        "scenario_code": "HC_REL01",
+        "role": "Patient",
+        "text": "Your family encourages you to follow your doctor’s treatment plan as prescribed. You are uncertain and prefer a different approach. You decide to …",
+        "options": {
+          "A": "follow the treatment plan as your family suggests.",
+          "B": "choose a different approach based on your preferences.",
+          "C": "propose a plan that respects both views."
+        }
+      },
+      {
+        "scenario_code": "HC_REL02",
+        "role": "Doctor",
+        "text": "Your patient is hesitant to follow the prescribed treatment due to input from their family. You consider how to proceed. You decide to …",
+        "options": {
+          "A": "encourage the patient to follow the recommended plan.",
+          "B": "support the patient’s decision to adjust the plan.",
+          "C": "explore a shared plan that considers all perspectives."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "LAW_&_JUSTICE",
+    "scenarios": [
+      {
+        "scenario_code": "LAW01_EPI01",
+        "role": "Junior Lawyer",
+        "text": "While drafting a legal argument, your supervisor recommends citing a landmark case. However, you find a recent one that also supports your argument. You decide to …",
+        "options": {
+          "A": "cite the landmark case as recommended by your supervisor.",
+          "B": "reference the recent ruling you identified.",
+          "C": "revise the draft to incorporate both rulings in the argument."
+        }
+      },
+      {
+        "scenario_code": "LAW01_EPI02",
+        "role": "Senior Lawyer",
+        "text": "You’re reviewing a draft prepared by a junior colleague. You had advised referencing a landmark case, but they’ve included a recent ruling addressing the same issue. You decide to …",
+        "options": {
+          "A": "Have them replace the recent ruling with the landmark case.",
+          "B": "keep the recent ruling included by the junior colleague.",
+          "C": "revise the draft to incorporate both rulings in the argument."
+        }
+      },
+      {
+        "scenario_code": "LAW02_MOR01",
+        "role": "Junior Lawyer",
+        "text": "You come across internal communications that might suggest bias in a past case. You’re unsure whether they should be added to the case file. You decide to …",
+        "options": {
+          "A": "exclude the communications from the case file.",
+          "B": "include the communications without changes.",
+          "C": "consult your supervisor on whether and how to include them."
+        }
+      },
+      {
+        "scenario_code": "LAW02_MOR02",
+        "role": "Senior Lawyer",
+        "text": "A junior colleague includes internal communications in a case file that could reflect poorly on the organization. You're considering the best way to respond. You decide to …",
+        "options": {
+          "A": "advise them to remove the communications.",
+          "B": "advise them to include the communications.",
+          "C": "discuss inclusion and how to proceed."
+        }
+      },
+      {
+        "scenario_code": "LAW03_REL01",
+        "role": "Junior Lawyer",
+        "text": "Your supervisor recommends that you join a team working on a high-profile case. You would prefer to stay focused on your current individual assignments. You decide to …",
+        "options": {
+          "A": "accept the team assignment as recommended.",
+          "B": "express your preference to stay with solo work.",
+          "C": "take on a partial or advisory role in the team case."
+        }
+      },
+      {
+        "scenario_code": "LAW03_REL02",
+        "role": "Senior Lawyer",
+        "text": "You've recommended that a junior colleague join a team handling a high-profile case. They express a preference to remain focused on solo assignments. You decide to …",
+        "options": {
+          "A": "ask them to join the team assignment.",
+          "B": "permit them to continue their solo assignments.",
+          "C": "offer a role with limited involvement in the team case."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "WORKPLACE",
+    "scenarios": [
+      {
+        "scenario_code": "WRK01_EPI01",
+        "role": "Employee",
+        "text": "You are assigned to lead a project. Your manager recommends using a standard framework. You have studied an alternative approach that emphasizes adaptability. You decide to …",
+        "options": {
+          "A": "apply the standard framework as recommended.",
+          "B": "implement the alternative approach you studied.",
+          "C": "combine both standard and alternative approach."
+        }
+      },
+      {
+        "scenario_code": "WRK01_EPI02",
+        "role": "Manager",
+        "text": "You assign a project to an employee and recommend a well-established framework. The employee proposes a structured alternative. You decide to …",
+        "options": {
+          "A": "ask the employee to proceed with the recommended framework.",
+          "B": "approve the employee’s proposed approach.",
+          "C": "suggest integrating elements of both methods."
+        }
+      },
+      {
+        "scenario_code": "WRK02_MOR01",
+        "role": "Employee",
+        "text": "You encounter information that may call into question a recent internal policy. Sharing it could prompt further review. You decide to …",
+        "options": {
+          "A": "exclude the information from your report.",
+          "B": "include the information in your report.",
+          "C": "discuss the information with your supervisor before proceeding."
+        }
+      },
+      {
+        "scenario_code": "WRK02_MOR02",
+        "role": "Manager",
+        "text": "An employee’s report includes findings that may raise questions about a recent internal policy. You decide to …",
+        "options": {
+          "A": "request the findings to be removed from the report.",
+          "B": "permit the employee to retain the findings as presented.",
+          "C": "discuss the possible implications with the employee and then decide."
+        }
+      },
+      {
+        "scenario_code": "WRK03_REL01",
+        "role": "Employee",
+        "text": "Your manager recommends that you join a cross-departmental team. You would prefer to continue working within your current team. You decide to …",
+        "options": {
+          "A": "decline the recommendation and explain your reasoning.",
+          "B": "agree to join the cross-departmental team.",
+          "C": "suggest a role that allows participation in both teams."
+        }
+      },
+      {
+        "scenario_code": "WRK03_REL02",
+        "role": "Manager",
+        "text": "You recommend that an employee join a collaborative team involving other departments. They indicate a preference to remain within their current unit. You decide to …",
+        "options": {
+          "A": "ask the employee to participate in the team.",
+          "B": "acknowledge their preference to remain in their current role.",
+          "C": "propose a role that enables participation in both teams."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "POLITICS_&_LEADERSHIP",
+    "scenarios": [
+      {
+        "scenario_code": "POL_EPI01",
+        "role": "Policy Advisor",
+        "text": "During a policy meeting, your senior recommends continuing a long-standing policy. However, you have data indicating that it may no longer be effective. You decide to …",
+        "options": {
+          "A": "support continuing the existing policy.",
+          "B": "advocate adopting the alternative based on data.",
+          "C": "integrate the two options together."
+        }
+      },
+      {
+        "scenario_code": "POL_EPI02",
+        "role": "Senior Politician",
+        "text": "A policy advisor recommends moving away from a long-standing policy based on recent data. However, you have data indicating that it may no longer be effective.  You decide to …",
+        "options": {
+          "A": "continue with the current policy.",
+          "B": "acknowledge adopting the proposed change.",
+          "C": "propose integrating both policies."
+        }
+      },
+      {
+        "scenario_code": "POL_MOR01",
+        "role": "Policy Advisor",
+        "text": "You find a factual error in campaign materials that benefits your party. Fixing it could create internal friction. You decide to …",
+        "options": {
+          "A": "leave the material unchanged.",
+          "B": "quietly correct the error.",
+          "C": "raise the issue for team discussion."
+        }
+      },
+      {
+        "scenario_code": "POL_MOR02",
+        "role": "Senior Politician",
+        "text": "A policy advisor points out a factual error in campaign materials that works in your party’s favor. You decide to …",
+        "options": {
+          "A": "request the material remain unchanged.",
+          "B": "approve quietly correcting the error.",
+          "C": "bring the issue to the team for discussion."
+        }
+      },
+      {
+        "scenario_code": "POL_REL01",
+        "role": "Policy Advisor",
+        "text": "Your senior recommends supporting a bipartisan bill. You’re unsure whether it aligns with the interests of your voter base. You decide to …",
+        "options": {
+          "A": "support the bill to show bipartisan cooperation.",
+          "B": "oppose the bill to align with core supporters.",
+          "C": "request time to consult stakeholders."
+        }
+      },
+      {
+        "scenario_code": "POL_REL02",
+        "role": "Senior Politician",
+        "text": "During internal discussions, a policy advisor raises concerns about a bipartisan bill you’ve endorsed. Their hesitation may reflect broader uncertainty within your team. You decide to …",
+        "options": {
+          "A": "stand by your decision to support the bill.",
+          "B": "proceed without further team input.",
+          "C": "invite the advisor to discuss their concerns."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "PUBLIC_ADMINISTRATION_&_BUREAUCRACY",
+    "scenarios": [
+      {
+        "scenario_code": "ADM_EPI01",
+        "role": "Policy Analyst",
+        "text": "You are drafting a policy brief. A senior official asks you to use a familiar but outdated data source, but you’ve found newer and more relevant research. You decide to...",
+        "options": {
+          "A": "follow the directive and use the older data.",
+          "B": "use the updated research despite instructions.",
+          "C": "combine both data sources."
+        }
+      },
+      {
+        "scenario_code": "ADM_EPI02",
+        "role": "Senior Official",
+        "text": "A policy analyst suggests replacing the data you requested with newer research findings. You’re not yet familiar with the new data. You decide to...",
+        "options": {
+          "A": "ask them to use the original data.",
+          "B": "go with their recommendation to use the recent data.",
+          "C": "propose combining both data sources."
+        }
+      },
+      {
+        "scenario_code": "ADM_MOR01",
+        "role": "Policy Analyst",
+        "text": "While reviewing a policy draft, you notice a potential conflict of interest that hasn’t been addressed. Flagging it could delay the process. You decide to...",
+        "options": {
+          "A": "leave the issue out to avoid delays.",
+          "B": "include a note about the concern.",
+          "C": "discuss with your supervisor to find a way forward."
+        }
+      },
+      {
+        "scenario_code": "ADM_MOR02",
+        "role": "Senior Official",
+        "text": "A policy analyst raises a minor conflict of interest in a draft you're overseeing. Acknowledging it might attract unnecessary attention. You decide to...",
+        "options": {
+          "A": "advise leaving it out of the final draft.",
+          "B": "acknowledge including a note as a precaution.",
+          "C": "discuss with the analyst how to address it."
+        }
+      },
+      {
+        "scenario_code": "ADM_REL01",
+        "role": "Policy Analyst",
+        "text": "You’re asked to join a cross-department task force on a new policy initiative. You’re more comfortable staying in your current role. You decide to...",
+        "options": {
+          "A": "take on the new assignment as requested.",
+          "B": "ask to remain in your current position.",
+          "C": "try to contribute without full reassignment."
+        }
+      },
+      {
+        "scenario_code": "ADM_REL02",
+        "role": "Senior Official",
+        "text": "You assign a policy analyst to a joint task force. They express concern about the change. You decide to...",
+        "options": {
+          "A": "confirm the full assignment as planned.",
+          "B": "allow them to stay in their current role.",
+          "C": "offer a modified arrangement that addresses their concerns."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "FINANCE_&_BANKING",
+    "scenarios": [
+      {
+        "scenario_code": "FIN01_EPI01",
+        "role": "Junior Analyst",
+        "text": "You are preparing an investment recommendation. Your manager suggests using a standard portfolio strategy, but your research shows an alternative approach. You decide to…",
+        "options": {
+          "A": "follow your manager’s suggested strategy.",
+          "B": "propose the alternative approach based on your research.",
+          "C": "include elements of both strategies."
+        }
+      },
+      {
+        "scenario_code": "FIN01_EPI02",
+        "role": "Senior Manager",
+        "text": "Your junior analyst proposes an alternative investment approach that differs from the standard strategy. You decide to…",
+        "options": {
+          "A": "maintain the standard strategy as usual.",
+          "B": "approve the alternative approach.",
+          "C": "allow a combination of standard and alternative strategies."
+        }
+      },
+      {
+        "scenario_code": "FIN02_REL01",
+        "role": "Junior Analyst",
+        "text": "Your team is working on a financial report, but you prefer your own workflow. You are asked to contribute according to the team’s method. You decide to…",
+        "options": {
+          "A": "follow the team’s workflow as requested.",
+          "B": "work independently according to your own method.",
+          "C": "adjust your approach to offer a balance."
+        }
+      },
+      {
+        "scenario_code": "FIN02_REL02",
+        "role": "Senior Manager",
+        "text": "You ask your analyst to participate in the team’s workflow, but they choose to work individually. You decide to…",
+        "options": {
+          "A": "have them follow the team workflow.",
+          "B": "allow them to work independently.",
+          "C": "arrange a workflow that includes both."
+        }
+      },
+      {
+        "scenario_code": "FIN03_MOR01",
+        "role": "Junior Analyst",
+        "text": "While reviewing financial entries, you notice a minor difference from the usual method in the client report. You decide to…",
+        "options": {
+          "A": "follow the usual method as suggested.",
+          "B": "act according to your own judgment.",
+          "C": "apply a method that incorporates both."
+        }
+      },
+      {
+        "scenario_code": "FIN03_MOR02",
+        "role": "Senior Manager",
+        "text": "You review your analyst’s report and notice a minor difference from the usual method. You decide to…",
+        "options": {
+          "A": "maintain the usual method.",
+          "B": "allow the analyst to use their own judgment.",
+          "C": "adopt a method that combines both."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "SCIENCE_&_TECHNOLOGY",
+    "scenarios": [
+      {
+        "scenario_code": "SCI01_EPI01",
+        "role": "Researcher",
+        "text": "You uncover findings in your study that challenge the prevailing consensus in your field. Your co-author expresses concern about publishing them. You decide to …",
+        "options": {
+          "A": "set aside the findings to avoid controversy.",
+          "B": "include the findings in the paper as they currently are.",
+          "C": "include them with explanations to address concerns."
+        }
+      },
+      {
+        "scenario_code": "SCI01_EPI02",
+        "role": "Co-Author / Collaborator",
+        "text": "Your co-author presents findings that conflict with widely accepted theories. You’re concerned about the possible reputational implications. You decide to …",
+        "options": {
+          "A": "recommend excluding the findings to avoid backlash.",
+          "B": "support their decision to publish the results unchanged.",
+          "C": "present them with explanations to address concerns."
+        }
+      },
+      {
+        "scenario_code": "SCI02_MOR01",
+        "role": "Researcher",
+        "text": "You realize your model omitted an important variable that could affect the conclusions. The paper is currently under review. You decide to …",
+        "options": {
+          "A": "choose not to disclose the omission.",
+          "B": "inform your co-author and notify the journal.",
+          "C": "bring it up with your co-author to decide on next steps."
+        }
+      },
+      {
+        "scenario_code": "SCI02_MOR02",
+        "role": "Co-Author / Collaborator",
+        "text": "Your co-author discovers an error in the analysis shortly before publication. Addressing it could cause delays. You decide to …",
+        "options": {
+          "A": "suggest moving forward without changes.",
+          "B": "agree to revise the analysis and accept the delay.",
+          "C": "discuss the implications before deciding how to proceed."
+        }
+      },
+      {
+        "scenario_code": "SCI03_REL01",
+        "role": "Researcher",
+        "text": "You’re working on a grant proposal with a senior colleague whose methods you don’t fully agree with. You decide to …",
+        "options": {
+          "A": "proceed with their approach without raising your concerns.",
+          "B": "present your preferred methods and recommend using them.",
+          "C": "explore a shared approach to the methodology."
+        }
+      },
+      {
+        "scenario_code": "SCI03_REL02",
+        "role": "Co-Author / Collaborator",
+        "text": "A junior colleague on your research team raises concerns about the assumptions used in your modeling and asks for your response. You decide to …",
+        "options": {
+          "A": "reassure them of your approach and continue as planned.",
+          "B": "take their suggestions into account in your work.",
+          "C": "review both viewpoints before finalizing it."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "ART_&_CULTURE",
+    "scenarios": [
+      {
+        "scenario_code": "ART01_EPI01",
+        "role": "Curator",
+        "text": "You’re selecting artworks for a major exhibition. A fellow curator advocates for including a piece you feel doesn’t fit the intended theme. You decide to …",
+        "options": {
+          "A": "recommend excluding it based on your curatorial perspective.",
+          "B": "agree to include it without raising objections.",
+          "C": "initiate a discussion to explore both interpretations."
+        }
+      },
+      {
+        "scenario_code": "ART01_EPI02",
+        "role": "Theatre Director",
+        "text": "An actor improvises a moment that shifts the meaning of a pivotal scene. You’re unsure how the audience will respond. You decide to …",
+        "options": {
+          "A": "ask them to return to the original version.",
+          "B": "embrace the change without further dialogue.",
+          "C": "reflect together on how the shift impacts the story arc."
+        }
+      },
+      {
+        "scenario_code": "ART02_MOR01",
+        "role": "Curator",
+        "text": "A donor offers funding in exchange for displaying their family’s collection, which has a debated historical value. You decide to …",
+        "options": {
+          "A": "accept and feature the collection without changes.",
+          "B": "decline the offer due to ethical considerations.",
+          "C": "propose showcasing selected works."
+        }
+      },
+      {
+        "scenario_code": "ART02_MOR02",
+        "role": "Theatre Director",
+        "text": "Your lead actor has made public remarks that have sparked controversy. Replacing them could impact the production. You decide to …",
+        "options": {
+          "A": "keep them in the role to ensure continuity.",
+          "B": "remove them based on your ethical stance.",
+          "C": "convene a team discussion to assess possible responses."
+        }
+      },
+      {
+        "scenario_code": "ART03_REL01",
+        "role": "Curator",
+        "text": "A junior colleague suggests major revisions to an exhibition layout you’ve developed over time. You value your initial vision but want to support collaboration. You decide to …",
+        "options": {
+          "A": "proceed with the original layout as designed.",
+          "B": "fully adopt their proposed redesign.",
+          "C": "work together on a version that reflects both contributions."
+        }
+      },
+      {
+        "scenario_code": "ART03_REL02",
+        "role": "Theatre Director",
+        "text": "Your choreographer disagrees with your concept for a critical scene, and the tension is affecting the team. You decide to …",
+        "options": {
+          "A": "continue with your original artistic vision.",
+          "B": "follow their direction to maintain harmony.",
+          "C": "hold a joint session to reach a shared solution."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "MEDIA_&_JOURNALISM",
+    "scenarios": [
+      {
+        "scenario_code": "MED01_EPI01",
+        "role": "Reporter",
+        "text": "While investigating a news story, you uncover credible evidence that contradicts the official account. Your editor insists on keeping the original version as is. You decide to …",
+        "options": {
+          "A": "follow your editor’s direction and omit the new findings.",
+          "B": "share your version through an alternative outlet.",
+          "C": "initiate a dialogue with the editor about revising the story."
+        }
+      },
+      {
+        "scenario_code": "MED01_EPI02",
+        "role": "Editor",
+        "text": "A reporter proposes publishing a high-stakes exposé. You're concerned about the potential consequences. You decide to …",
+        "options": {
+          "A": "ask the reporter to modify the tone or emphasis.",
+          "B": "accept the piece without requesting changes.",
+          "C": "collaborate with the reporter to develop a new framing."
+        }
+      },
+      {
+        "scenario_code": "MED02_MOR01",
+        "role": "Reporter",
+        "text": "You receive private information about a well-known figure that could affect their reputation. You’re unsure whether sharing it is ethically sound. You decide to …",
+        "options": {
+          "A": "withhold the information from publication.",
+          "B": "publish the full story without hesitation.",
+          "C": "consult with your editor to weigh the ethical implications."
+        }
+      },
+      {
+        "scenario_code": "MED02_MOR02",
+        "role": "Editor",
+        "text": "A reporter submits a piece that might negatively impact an individual’s personal life. You decide to …",
+        "options": {
+          "A": "request removal or reframing of the most damaging content.",
+          "B": "approve the article as originally written.",
+          "C": "meet with the reporter to assess risks and revise if needed."
+        }
+      },
+      {
+        "scenario_code": "MED03_REL01",
+        "role": "Reporter",
+        "text": "Your editor assigns you to a joint investigation with other reporters, but you prefer to work independently. You decide to …",
+        "options": {
+          "A": "join the collaborative team as instructed.",
+          "B": "ask to pursue the story on your own.",
+          "C": "take a hybrid approach balancing solo and group work."
+        }
+      },
+      {
+        "scenario_code": "MED03_REL02",
+        "role": "Editor",
+        "text": "You assign a team project, but a reporter expresses discomfort with group collaboration. You decide to …",
+        "options": {
+          "A": "encourage them to participate fully in the team.",
+          "B": "allow them to proceed independently.",
+          "C": "structure tasks to suit both preferences."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "RELIGION_&_SPIRITUALITY",
+    "scenarios": [
+      {
+        "scenario_code": "REL01_EPI01",
+        "role": "Congregant",
+        "text": "You come across a new interpretation of a familiar teaching. Your faith leader advises adherence to the traditional view. You decide to …",
+        "options": {
+          "A": "accept and follow the traditional guidance.",
+          "B": "explore and consider the alternative interpretation.",
+          "C": "discuss it with your leader to examine both views."
+        }
+      },
+      {
+        "scenario_code": "REL01_EPI02",
+        "role": "Faith Leader",
+        "text": "A congregant shares their interest in a modern interpretation of a well-established doctrine. You would like to adhere to the traditional view. You decide to …",
+        "options": {
+          "A": "guide them toward the established understanding.",
+          "B": "validate their curiosity about the new view.",
+          "C": "engage in an exchange about both interpretations."
+        }
+      },
+      {
+        "scenario_code": "REL02_MOR01",
+        "role": "Congregant",
+        "text": "You witness conduct within your community that seems at odds with your personal values. You're uncertain how to respond. You decide to …",
+        "options": {
+          "A": "choose to remain silent to maintain harmony.",
+          "B": "raise the issue openly during a community gathering.",
+          "C": "discuss your concerns privately with your faith leader."
+        }
+      },
+      {
+        "scenario_code": "REL02_MOR02",
+        "role": "Faith Leader",
+        "text": "A congregant voices concerns about behavior in the community that appears misaligned with shared principles. You decide to …",
+        "options": {
+          "A": "recommend that they let the matter go.",
+          "B": "publicly acknowledge the concern and call for reflection.",
+          "C": "address the issue within the community."
+        }
+      },
+      {
+        "scenario_code": "REL03_REL01",
+        "role": "Congregant",
+        "text": "Your faith leader encourages communal worship, but you find greater meaning in private spiritual practice. You decide to …",
+        "options": {
+          "A": "join the group rituals as encouraged.",
+          "B": "continue prioritizing your personal spiritual routine.",
+          "C": "integrate both group and personal approaches."
+        }
+      },
+      {
+        "scenario_code": "REL03_REL02",
+        "role": "Faith Leader",
+        "text": "You invite a congregant to participate in group rituals, but they express a deeper connection through private practice. You decide to …",
+        "options": {
+          "A": "encourage them to engage more with the community.",
+          "B": "honor their individual spiritual preference.",
+          "C": "offer a blend of communal and private practice."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "ACTIVISM_&_SOCIAL_CHANGE",
+    "scenarios": [
+      {
+        "scenario_code": "ASC01_EPI01",
+        "role": "Activist",
+        "text": "You suggest a different strategy for an ongoing campaign. The community leader prefers to stick with established methods. You decide to …",
+        "options": {
+          "A": "support the community leader’s chosen approach.",
+          "B": "proceed with your proposed strategy independently.",
+          "C": "combine the recommended strategy with the established one.."
+        }
+      },
+      {
+        "scenario_code": "ASC01_EPI02",
+        "role": "Community Leader",
+        "text": "An activist presents a campaign strategy that differs from the current practice that you prefer sticking to. You decide to …",
+        "options": {
+          "A": "encourage the activist to follow the established method.",
+          "B": "back the activist’s alternative strategy.",
+          "C": "explore ways to blend aspects of both strategies."
+        }
+      },
+      {
+        "scenario_code": "ASC02_MOR01",
+        "role": "Activist",
+        "text": "You learn about a recent group action that might influence public opinion. You consider how to respond. You decide to …",
+        "options": {
+          "A": "avoid addressing the issue to keep campaign focus.",
+          "B": "speak publicly about the action on your own.",
+          "C": "consult the community leader before deciding on next steps."
+        }
+      },
+      {
+        "scenario_code": "ASC02_MOR02",
+        "role": "Community Leader",
+        "text": "An activist raises concerns about a recent group action affecting public perception. You decide how to respond. You decide to …",
+        "options": {
+          "A": "advise holding off on public discussion for now.",
+          "B": "support the activist’s choice to communicate openly.",
+          "C": "collaborate with them to develop a response plan."
+        }
+      },
+      {
+        "scenario_code": "ASC03_REL01",
+        "role": "Activist",
+        "text": "The community leader invites you to join a wider coalition working toward shared goals. You prefer to focus within your own organization. You decide to …",
+        "options": {
+          "A": "join the coalition as suggested.",
+          "B": "remain focused on your organization’s efforts.",
+          "C": "Propose a limited partnership."
+        }
+      },
+      {
+        "scenario_code": "ASC03_REL02",
+        "role": "Community Leader",
+        "text": "You invite an activist to participate in a coalition of groups aiming for collective impact. They prefer to keep their organization independent. You decide to …",
+        "options": {
+          "A": "encourage them to join the coalition.",
+          "B": "respect their wish to remain independent.",
+          "C": "offer a flexible collaboration option to suit both sides."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "HOSPITALITY_&_SERVICE",
+    "scenarios": [
+      {
+        "scenario_code": "HOS01_EPI01",
+        "role": "Service Worker",
+        "text": "You suggest a new way to greet customers based on practices you've seen improve satisfaction. Your supervisor prefers the usual greeting. You decide to …",
+        "options": {
+          "A": "follow the supervisor’s traditional greeting protocol.",
+          "B": "try your alternative greeting independently.",
+          "C": "combine both greeting approaches."
+        }
+      },
+      {
+        "scenario_code": "HOS01_EPI02",
+        "role": "Supervisor",
+        "text": "A service worker proposes a different greeting method than usual. You decide to …",
+        "options": {
+          "A": "ask them to stick to the traditional greeting.",
+          "B": "support their alternative approach.",
+          "C": "integrate both greeting styles."
+        }
+      },
+      {
+        "scenario_code": "HOS02_MOR01",
+        "role": "Service Worker",
+        "text": "You notice a colleague isn’t fully following hygiene standards. You consider whether to raise the issue. You decide to …",
+        "options": {
+          "A": "avoid reporting to prevent conflict.",
+          "B": "report the concern through proper channels.",
+          "C": "speak with your supervisor before taking action."
+        }
+      },
+      {
+        "scenario_code": "HOS02_MOR02",
+        "role": "Supervisor",
+        "text": "service worker approaches you with a hygiene concern about a colleague and asks for your guidance. You decide to …",
+        "options": {
+          "A": "advise them not to pursue the matter further.",
+          "B": "take the concern seriously and investigate.",
+          "C": "consult with the worker to decide next steps."
+        }
+      },
+      {
+        "scenario_code": "HOS03_REL01",
+        "role": "Service Worker",
+        "text": "Your supervisor asks you to join a team shift during a busy time. You usually prefer working alone. You decide to …",
+        "options": {
+          "A": "join the team shift as requested.",
+          "B": "decline and keep your regular solo shift.",
+          "C": "mix teamwork with individual tasks."
+        }
+      },
+      {
+        "scenario_code": "HOS03_REL02",
+        "role": "Supervisor",
+        "text": "You assign a service worker to a team shift, but they prefer to work independently. You decide to …",
+        "options": {
+          "A": "require them to join the team shift.",
+          "B": "respect their preference to work alone.",
+          "C": "offer a compromise balancing team and solo work."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "CAREGIVING_&_PARENTING",
+    "scenarios": [
+      {
+        "scenario_code": "CPR01_EPI01",
+        "role": "Parent",
+        "text": "You want to try a new parenting method you recently learned about. Your partner prefers the approach used with your older child. You decide to …",
+        "options": {
+          "A": "follow your partner’s familiar method.",
+          "B": "try the new method on your own.",
+          "C": "combine both new and previous approaches."
+        }
+      },
+      {
+        "scenario_code": "CPR01_EPI02",
+        "role": "Partner",
+        "text": "Your co-parent suggests a parenting method that could help address a recent challenge with your child. You consider the options and decide to …",
+        "options": {
+          "A": "suggest sticking to the usual method.",
+          "B": "support trying the new approach.",
+          "C": "Combine elements of both methods to see what works."
+        }
+      },
+      {
+        "scenario_code": "CPR02_MOR01",
+        "role": "Parent",
+        "text": "You notice a possible health concern with your child and feel uncertain about the best way to respond. You consider how to handle it and decide to …",
+        "options": {
+          "A": "keep it to yourself to avoid worry.",
+          "B": "seek advice on your own first.",
+          "C": "share your concerns and plan next steps with your partner."
+        }
+      },
+      {
+        "scenario_code": "CPR02_MOR02",
+        "role": "Partner",
+        "text": "Your co-parent shares a health concern about your child, uncertain if it needs immediate attention. They ask for your input on what to do next. You decide to …",
+        "options": {
+          "A": "encourage staying calm for now.",
+          "B": "support seeking advice or help.",
+          "C": "discuss the concern together before deciding."
+        }
+      },
+      {
+        "scenario_code": "CPR03_REL01",
+        "role": "Parent",
+        "text": "Your partner offers to share nighttime caregiving duties. You’re more comfortable handling them yourself but aren’t sure how to respond. You decide to …",
+        "options": {
+          "A": "agree to share the duties.",
+          "B": "express your preference to do it alone.",
+          "C": "propose alternating or dividing duties in a way that works for both."
+        }
+      },
+      {
+        "scenario_code": "CPR03_REL02",
+        "role": "Partner",
+        "text": "You suggest sharing nighttime caregiving responsibilities, but your partner prefers to manage them alone. You decide to …",
+        "options": {
+          "A": "insist on sharing equally.",
+          "B": "respect their preference to manage alone.",
+          "C": "offer a compromise that balances caregiving."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "ENVIRONMENT_&_SUSTAINABILITY",
+    "scenarios": [
+      {
+        "scenario_code": "ENV01_EPI01",
+        "role": "Environmental Scientist",
+        "text": "You’re speaking at a local forum when your co-panelist—a well-known figure—shares incorrect information about climate data. You decide to …",
+        "options": {
+          "A": "correct the misinformation openly during the panel.",
+          "B": "remain silent to avoid conflict.",
+          "C": "address the issue during the Q&A."
+        }
+      },
+      {
+        "scenario_code": "ENV01_EPI02",
+        "role": "Community Organizer",
+        "text": "A corporate sponsor offers major funding for your campaign but wants you to soften your messaging. You decide to …",
+        "options": {
+          "A": "accept the funding and adjust the message accordingly.",
+          "B": "decline the funding to keep your message intact.",
+          "C": "negotiate terms to uphold your stance while partnering."
+        }
+      },
+      {
+        "scenario_code": "ENV02_MOR01",
+        "role": "Environmental Scientist",
+        "text": "While preparing a report, a colleague suggests removing ambiguous data to make the findings clearer and more persuasive. You decide to …",
+        "options": {
+          "A": "agree and simplify the data presentation.",
+          "B": "keep all data unchanged.",
+          "C": "retain the data and add a note about its limitations."
+        }
+      },
+      {
+        "scenario_code": "ENV02_MOR02",
+        "role": "Community Organizer",
+        "text": "Your team wants to use emotional personal stories in an awareness campaign, but you worry they may exaggerate the risks. You decide to …",
+        "options": {
+          "A": "approve the stories to boost public engagement.",
+          "B": "reject them over concerns about exaggeration.",
+          "C": "include the stories with fact-checked context."
+        }
+      },
+      {
+        "scenario_code": "ENV03_REL01",
+        "role": "Environmental Scientist",
+        "text": "A community seeks urgent help with water pollution, but you have a full workload. You decide to …",
+        "options": {
+          "A": "delay their case to focus on current tasks.",
+          "B": "reschedule to assist them immediately.",
+          "C": "refer them to a colleague and help when possible."
+        }
+      },
+      {
+        "scenario_code": "ENV03_REL02",
+        "role": "Community Organizer",
+        "text": "A rural community resists your sustainability program, citing respect for local traditions. You decide to …",
+        "options": {
+          "A": "proceed with the program as planned.",
+          "B": "stop the program in that area.",
+          "C": "work with the community to adapt the program together."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "SPORTS_&_RECREATION",
+    "scenarios": [
+      {
+        "scenario_code": "SPR01_EPI01",
+        "role": "Coach",
+        "text": "During a close match, your team notices a potential foul by the opposing side that the referees missed. Several players urge you to raise the issue. You decide to …",
+        "options": {
+          "A": "Keep the team composed and play on.",
+          "B": "Raise it with referees during a break.",
+          "C": "Note it and discuss it with officials after the match."
+        }
+      },
+      {
+        "scenario_code": "SPR01_EPI02",
+        "role": "Athlete",
+        "text": "You’re offered a personal sponsorship from a brand that doesn’t align well with your team’s image. You decide to …",
+        "options": {
+          "A": "Accept it to advance your career.",
+          "B": "Decline it to respect team values.",
+          "C": "Discuss it with your coach and teammates first."
+        }
+      },
+      {
+        "scenario_code": "SPR02_MOR01",
+        "role": "Coach",
+        "text": "One of your key players has been struggling off the field, and it’s starting to affect their performance. With an important match approaching, you decide to …",
+        "options": {
+          "A": "keep them in the lineup to help them regain confidence.",
+          "B": "bench them for the game to prioritize the team’s performance.",
+          "C": "have a conversation before deciding what to do."
+        }
+      },
+      {
+        "scenario_code": "SPR02_MOR02",
+        "role": "Athlete",
+        "text": "You begin to suspect that a teammate may be using banned substances. You’re unsure how to act without disrupting team trust. You decide to …",
+        "options": {
+          "A": "report your concern to a team official.",
+          "B": "stay silent to avoid harming the team dynamic.",
+          "C": "speak with your teammate to seek a way forward."
+        }
+      },
+      {
+        "scenario_code": "SPR03_REL01",
+        "role": "Coach",
+        "text": "A player approaches you feeling overlooked and undervalued in recent team decisions and playing time. They say it's affecting their motivation. You decide to …",
+        "options": {
+          "A": "Emphasize that playing time is based on performance.",
+          "B": "Reassure them and provide extra coaching support.",
+          "C": "Acknowledge their concerns and try to strengthen their role."
+        }
+      },
+      {
+        "scenario_code": "SPR03_REL02",
+        "role": "Athlete",
+        "text": "You feel that your coach has been consistently favoring another player during games and practices, which is starting to affect your motivation and the team’s morale. You decide to …",
+        "options": {
+          "A": "Voice your concerns in a team discussion.",
+          "B": "Stay quiet and focus on your own role.",
+          "C": "Speak privately with the coach to share your perspective."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "URBAN_PLANNING_&_HOUSING_POLICY",
+    "scenarios": [
+      {
+        "scenario_code": "URB01_EPI01",
+        "role": "Urban Planner",
+        "text": "You’re drafting a plan for an aging neighborhood. Official reports favor high-density housing, but your own review supports a mixed-use approach. You decide to…",
+        "options": {
+          "A": "follow the official reports and propose high-density redevelopment.",
+          "B": "recommend the mixed-use model based on your research.",
+          "C": "present both options and suggest public consultation."
+        }
+      },
+      {
+        "scenario_code": "URB01_EPI02",
+        "role": "City Official",
+        "text": "Your planning department submits a proposal based on mixed-use models that differs from municipal reports favoring high-density housing. You decide to…",
+        "options": {
+          "A": "ask the department to align with official reports.",
+          "B": "support the alternative proposal based on local data.",
+          "C": "suggest more analysis and consultation before deciding."
+        }
+      },
+      {
+        "scenario_code": "URB02_MOR01",
+        "role": "Urban Planner",
+        "text": "A developer offers exclusive data if you prioritize their parcel in your plan. It could help but raises ethical concerns. You decide to…",
+        "options": {
+          "A": "decline to avoid a conflict of interest.",
+          "B": "accept and adjust your proposal accordingly.",
+          "C": "report the offer to your supervisor or ethics board."
+        }
+      },
+      {
+        "scenario_code": "URB02_MOR02",
+        "role": "City Official",
+        "text": "You learn a planning proposal may have been influenced by private developer input. No rules were broken, but the optics are concerning. You decide to…",
+        "options": {
+          "A": "ignore it since no policies were violated.",
+          "B": "initiate a formal review of the planning process.",
+          "C": "discuss transparency expectations with the planner."
+        }
+      },
+      {
+        "scenario_code": "URB03_REL01",
+        "role": "Urban Planner",
+        "text": "A senior official insists on prioritizing park redevelopment near their district. You believe another area has greater need based on data. You decide to…",
+        "options": {
+          "A": "follow the senior official’s priority.",
+          "B": "advocate for the data-driven location.",
+          "C": "propose phasing redevelopment in both locations."
+        }
+      },
+      {
+        "scenario_code": "URB03_REL02",
+        "role": "City Official",
+        "text": "Your planner recommends focusing redevelopment outside your district based on community need. You hoped to prioritize your own district. You decide to…",
+        "options": {
+          "A": "override their recommendation entirely.",
+          "B": "accept their assessment as recommended.",
+          "C": "divide efforts between both districts."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "INTERNATIONAL_DEVELOPMENT_&_HUMANITARIAN_AID",
+    "scenarios": [
+      {
+        "scenario_code": "DEV01_EPI01",
+        "role": "Development Economist",
+        "text": "You’re evaluating two poverty reduction programs. One offers quick and the other longer-term impact with more uncertainty. Donors support the quick option. You decide to…",
+        "options": {
+          "A": "recommend the short-term program.",
+          "B": "advocate for the long-term approach.",
+          "C": "suggest a pilot to test both strategies further."
+        }
+      },
+      {
+        "scenario_code": "DEV01_EPI02",
+        "role": "Country Program Officer",
+        "text": "A development economist recommends a long-term intervention that conflicts with your funder's short-term priorities. You decide to…",
+        "options": {
+          "A": "ask them to adjust their recommendation to fit funder goals.",
+          "B": "support their analysis and work to persuade the donor.",
+          "C": "escalate the issue to senior leadership for guidance."
+        }
+      },
+      {
+        "scenario_code": "DEV02_MOR01",
+        "role": "Development Economist",
+        "text": "While conducting field research, a local official offers anonymized household data without clear consent. The data could benefit your study. You decide to…",
+        "options": {
+          "A": "refuse the data to maintain research ethics.",
+          "B": "use the data cautiously, assuming implied consent.",
+          "C": "seek formal clarification and approval before proceeding."
+        }
+      },
+      {
+        "scenario_code": "DEV02_MOR02",
+        "role": "Country Program Officer",
+        "text": "You find that baseline data used in a published evaluation may lack proper informed consent. You decide to…",
+        "options": {
+          "A": "leave the results unchanged to avoid disruption.",
+          "B": "inform the team and issue corrections if necessary.",
+          "C": "start an internal review of data handling practices."
+        }
+      },
+      {
+        "scenario_code": "DEV03_REL01",
+        "role": "Development Economist",
+        "text": "A local NGO partner criticizes your prioritization model for overlooking cultural context , saying it may reduce community engagement.. You decide to…",
+        "options": {
+          "A": "keep using the model for consistency.",
+          "B": "modify the model to include their feedback.",
+          "C": "collaborate with the NGO to redesign the framework."
+        }
+      },
+      {
+        "scenario_code": "DEV03_REL02",
+        "role": "Country Program Officer",
+        "text": "You’re working with an economist focused solely on quantitative models, but local partners feel excluded from decision-making. You decide to…",
+        "options": {
+          "A": "support the economist’s approach to maintain consistency.",
+          "B": "advocate for integrating local perspectives into the model.",
+          "C": "revise the model with all stakeholders."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "RESEARCH_&_DEVELOPMENT_(R&D)",
+    "scenarios": [
+      {
+        "scenario_code": "RND01_EPI01",
+        "role": "Lead Research Scientist",
+        "text": "Your team develops a diagnostic prototype. A corporation offers to fast-track it for exclusive rights, which may limit access in low-income markets. You decide to …",
+        "options": {
+          "A": "accept the exclusive deal to ensure rapid deployment.",
+          "B": "reject it and pursue open-access models, despite delays.",
+          "C": "negotiate a tiered licensing model to balance both goals."
+        }
+      },
+      {
+        "scenario_code": "RND01_EPI02",
+        "role": "Research Policy Advisor",
+        "text": "The lead scientist on a high-impact innovation is considering an exclusive partnership that may limit global access. You're asked to provide input. You decide to...",
+        "options": {
+          "A": "support the deal to incentivize private sector investment.",
+          "B": "advise against exclusivity due to moral considerations.",
+          "C": "recommend a conditional agreement with access safeguards."
+        }
+      },
+      {
+        "scenario_code": "RND02_MOR01",
+        "role": "Lead Research Scientist",
+        "text": "A former colleague offers you unpublished data from their lab that could speed up your grant submission. It's not yet peer-reviewed or officially shared. You decide to...",
+        "options": {
+          "A": "decline and wait for official publication.",
+          "B": "use the data with informal citation and discretion.",
+          "C": "include the data as preliminary reference until published."
+        }
+      },
+      {
+        "scenario_code": "RND02_MOR02",
+        "role": "Research Policy Advisor",
+        "text": "You learn that a published paper in your department used AI-generated data augmentation without disclosure. It may affect reproducibility. You decide to...",
+        "options": {
+          "A": "ignore it since it’s already peer-reviewed.",
+          "B": "raise the issue internally for review.",
+          "C": "suggest a correction while reviewing next steps."
+        }
+      },
+      {
+        "scenario_code": "RND03_REL01",
+        "role": "Lead Research Scientist",
+        "text": "Your junior team member proposes a creative but unconventional method that challenges your preferred approach. The timeline is tight. You decide to...",
+        "options": {
+          "A": "ask them to follow your primary method for consistency.",
+          "B": "let them test their approach in parallel.",
+          "C": "redesign the study to incorporate both perspectives."
+        }
+      },
+      {
+        "scenario_code": "RND03_REL02",
+        "role": "Research Policy Advisor",
+        "text": "Two labs you support are in conflict over intellectual contribution to a collaborative paper. One claims their contribution was downplayed. You decide to...",
+        "options": {
+          "A": "advise them to resolve it privately to avoid delays.",
+          "B": "facilitate a joint authorship discussion.",
+          "C": "propose involving an independent arbiter."
+        }
+      }
+    ]
+  },
+  {
+    "domain": "TRANSPORTATION_&_MOBILITY",
+    "scenarios": [
+      {
+        "scenario_code": "RND01_EPI01",
+        "role": "Lead Research Scientist",
+        "text": "Your team has developed a prototype for a novel diagnostic tool. A major corporation offers to fast-track development if you agree to exclusive licensing, but it could limit access in low-income markets. You decide to …",
+        "options": {
+          "A": "accept the exclusive deal to ensure rapid deployment.",
+          "B": "reject it and pursue open-access models, despite delays.",
+          "C": "negotiate a tiered licensing model to balance both goals."
+        }
+      },
+      {
+        "scenario_code": "RND01_EPI02",
+        "role": "Research Policy Advisor",
+        "text": "The lead scientist on a high-impact innovation is considering an exclusive partnership that may limit global access. You’re asked to provide input. You decide to …",
+        "options": {
+          "A": "support the deal to incentivize private sector investment.",
+          "B": "advise against exclusivity due to moral considerations.",
+          "C": "recommend a conditional agreement with access safeguards."
+        }
+      },
+      {
+        "scenario_code": "RND02_MOR01",
+        "role": "Lead Research Scientist",
+        "text": "A former colleague offers you unpublished data from their lab that could speed up your grant submission. It's not yet peer-reviewed or officially shared. You decide to …",
+        "options": {
+          "A": "decline and wait for official publication.",
+          "B": "use the data with informal citation and discretion.",
+          "C": "include the data as preliminary reference until published."
+        }
+      },
+      {
+        "scenario_code": "RND02_MOR02",
+        "role": "Research Policy Advisor",
+        "text": "You learn that a published paper in your department used AI-generated data augmentation without disclosure. It may affect reproducibility. You decide to …",
+        "options": {
+          "A": "ignore it since it’s already peer-reviewed.",
+          "B": "raise the issue internally for review.",
+          "C": "recommend a retraction or erratum."
+        }
+      },
+      {
+        "scenario_code": "RND03_REL01",
+        "role": "Lead Research Scientist",
+        "text": "Your junior team member proposes a creative but unconventional method that challenges your preferred approach. The timeline is tight. You decide to …",
+        "options": {
+          "A": "ask them to follow your primary method for consistency.",
+          "B": "let them test their approach in parallel.",
+          "C": "redesign the study to incorporate both perspectives."
+        }
+      },
+      {
+        "scenario_code": "RND03_REL02",
+        "role": "Research Policy Advisor",
+        "text": "Two labs you support are in conflict over intellectual contribution to a collaborative paper. One claims their contribution was downplayed. You decide to …",
+        "options": {
+          "A": "advise them to resolve it privately to avoid delays.",
+          "B": "facilitate a joint authorship discussion.",
+          "C": "propose involving an independent arbiter."
+        }
+      }
+    ]
+  }
+]

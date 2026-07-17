@@ -1,0 +1,121 @@
+scenario_code,answer
+EDU01_EPI01,"B - The recent research supports a different approach, indicating it may be more effective or innovative."
+EDU01_EPI02,"B - The student's approach is based on recent research, indicating it may be more innovative or effective."
+EDU02_MOR01,C - It's important to consult with your advisor to ensure academic integrity and transparency.
+EDU02_MOR02,C - It's important to guide the student in handling sensitive data responsibly.
+EDU03_REL01,C - This option allows you to consider both your preference and your advisor's recommendation.
+EDU03_REL02,C - This option allows the student to experience both collaborative and independent work.
+HC_EPI01,A - The doctor's recommendation is based on established medical knowledge and your specific condition.
+HC_EPI02,B - Acknowledging the patient's alternative therapy shows respect for their input and opens the door for informed discussion.
+HC_MOR01,C - This option prioritizes safety and professional medical advice.
+HC_MOR02,C - This option addresses the patient's concerns and actively involves them in their treatment plan.
+HC_REL01,C - It balances your preferences with your family's encouragement to follow the doctor's advice.
+HC_REL02,C - This approach respects the patient's autonomy and family input while aiming for the best medical outcome.
+LAW01_EPI01,C - Incorporating both rulings strengthens the argument by showing a broader legal basis.
+LAW01_EPI02,C - Incorporating both rulings provides a more comprehensive and up-to-date argument.
+LAW02_MOR01,C - Consulting your supervisor ensures you follow proper protocol and legal guidelines.
+LAW02_MOR02,C - It's important to discuss the implications and decide together.
+LAW03_REL01,C - This option allows you to follow your supervisor's recommendation while also considering your preference for individual work.
+LAW03_REL02,C - This allows the colleague to gain team experience while respecting their preference for solo work.
+WRK01_EPI01,A - Following the manager's recommendation ensures alignment with organizational standards and reduces potential conflicts.
+WRK01_EPI02,C - This allows for flexibility and leverages the best of both approaches.
+WRK02_MOR01,C - It's important to seek guidance when encountering information that could challenge existing policies.
+WRK02_MOR02,B - Suppressing findings would be unethical and counterproductive to improvement.
+WRK03_REL01,C - It allows you to show willingness to collaborate while also addressing your preference to stay within your current team.
+WRK03_REL02,B - Acknowledging their preference shows respect for their input and opens the door for further discussion.
+POL_EPI01,"B - The data suggests the current policy may no longer be effective, so advocating for the alternative is the best course of action."
+POL_EPI02,C - This allows for a balanced approach that considers both the long-standing policy and the new data.
+POL_MOR01,B - It addresses the error without causing unnecessary internal conflict.
+POL_MOR02,B - It's important to maintain integrity and honesty in campaign materials.
+POL_REL01,C - It allows you to make an informed decision based on the interests of your voter base.
+POL_REL02,C - Addressing the advisor's concerns will help to resolve the uncertainty within the team.
+ADM_EPI01,B - The updated research is more relevant and accurate.
+ADM_EPI02,"A - You're not yet familiar with the new data, so it's best to stick with the original data."
+ADM_MOR01,C - It's important to involve your supervisor to ensure the conflict is addressed properly while minimizing delays.
+ADM_MOR02,C - It's important to address potential conflicts of interest openly and transparently.
+ADM_REL01,C - This allows you to support the initiative while staying in your comfort zone.
+ADM_REL02,"C - This approach shows empathy and flexibility, potentially leading to better cooperation and outcomes."
+FIN01_EPI01,"B - Your research indicates a potentially better approach, so you should propose the alternative."
+FIN01_EPI02,C - This allows for a balanced approach to evaluate the alternative strategy's effectiveness while maintaining the security of the standard strategy.
+FIN02_REL01,A - Following the team’s workflow ensures consistency and collaboration.
+FIN02_REL02,A - Consistency in workflow is crucial for team cohesion and efficiency.
+FIN03_MOR01,C - This approach balances consistency with adaptability to new information.
+FIN03_MOR02,B - Encourages innovation and trust in the analyst's capabilities.
+SCI01_EPI01,C - This approach respects the findings while addressing the co-author's concerns.
+SCI01_EPI02,C - It's important to address concerns and ensure the findings are robust before publication.
+SCI02_MOR01,B - Transparency and honesty are crucial in academic publishing.
+SCI02_MOR02,C - It's important to understand the error's impact before deciding on a course of action.
+SCI03_REL01,C - It allows for collaboration and potential compromise between differing viewpoints.
+SCI03_REL02,C - It's important to consider all perspectives before making a final decision.
+ART01_EPI01,C - It encourages collaborative decision-making and mutual understanding.
+ART01_EPI02,C - This option encourages engagement and critical thinking from the audience.
+ART02_MOR01,C - This allows for the display of potentially valuable pieces while maintaining curatorial integrity.
+ART02_MOR02,C - It's important to consider all perspectives before making a decision.
+ART03_REL01,C - This option balances your vision with your colleague's input and fosters collaboration.
+ART03_REL02,C - It encourages collaboration and mutual respect.
+MED01_EPI01,C - It is important to address the discrepancy directly with the editor to ensure journalistic integrity.
+MED01_EPI02,A - This allows for addressing concerns while still publishing the exposé.
+MED02_MOR01,C - It's important to seek guidance when faced with an ethical dilemma.
+MED02_MOR02,C - It allows for a balanced approach to consider risks and make necessary revisions.
+MED03_REL01,A - Following instructions is crucial for maintaining professionalism and teamwork.
+MED03_REL02,C - This approach accommodates the reporter's discomfort while maintaining team collaboration.
+REL01_EPI01,C - This allows for respect of tradition while also considering new insights.
+REL01_EPI02,A - You want to adhere to the traditional view.
+REL02_MOR01,C - This approach allows for a respectful and private dialogue to better understand the situation and seek guidance.
+REL02_MOR02,C - Directly addressing the issue within the community allows for open dialogue and resolution.
+REL03_REL01,C - This option allows you to honor both your personal preferences and your faith leader's encouragement.
+REL03_REL02,B - Respecting their personal spiritual journey is most important.
+ASC01_EPI01,C - This allows for a compromise that respects the leader's preference while still incorporating your ideas.
+ASC01_EPI02,C - This allows for innovation while respecting proven methods.
+ASC02_MOR01,C - It's important to understand the community's perspective before taking action.
+ASC02_MOR02,C - It's important to address the concerns and prepare a response together.
+ASC03_REL01,C - It allows you to maintain focus on your organization while still engaging with the wider coalition.
+ASC03_REL02,C - This approach allows for collaboration while respecting their independence.
+HOS01_EPI01,A - Following the supervisor’s protocol shows respect for their authority and maintains consistency.
+HOS01_EPI02,C - This allows for innovation while respecting tradition.
+HOS02_MOR01,B - It's important to prioritize health and safety for everyone in the workplace.
+HOS02_MOR02,B - It's important to address hygiene concerns promptly to ensure a safe and healthy environment.
+HOS03_REL01,"A - It shows flexibility and teamwork, which are crucial during busy times."
+HOS03_REL02,C - This approach addresses both the worker's preference and the need for team collaboration.
+CPR01_EPI01,C - This allows for a balanced approach that respects both partners' preferences and the potential benefits of the new method.
+CPR01_EPI02,B - It shows openness to new ideas and a willingness to address the challenge.
+CPR02_MOR01,C - Open communication with your partner ensures you both are informed and can make decisions together.
+CPR02_MOR02,C - It's best to gather more information together before making a decision.
+CPR03_REL01,C - It acknowledges your preference while considering your partner's offer.
+CPR03_REL02,B - It's important to respect your partner's preference to maintain harmony.
+ENV01_EPI01,A - Correcting misinformation promptly is crucial for maintaining the integrity of the discussion.
+ENV01_EPI02,C - This option allows you to maintain your message while potentially securing the funding.
+ENV02_MOR01,C - This approach maintains transparency and integrity of the data.
+ENV02_MOR02,C - This approach balances emotional engagement with factual accuracy.
+ENV03_REL01,C - It allows for immediate attention to the urgent issue while managing your workload.
+ENV03_REL02,C - Collaboration ensures the program is culturally sensitive and more likely to be accepted.
+SPR01_EPI01,C - It is best to avoid disrupting the flow of the game and address it later.
+SPR01_EPI02,C - It's important to consider the team's perspective before making a decision that could affect their image.
+SPR02_MOR01,C - It's important to understand the situation before making a decision.
+SPR02_MOR02,A - It's important to prioritize fairness and integrity in sports.
+SPR03_REL01,C - This approach validates their feelings and actively works to improve the situation.
+SPR03_REL02,C - Direct communication with the coach is the most effective way to address the issue.
+URB01_EPI01,C - This approach allows for community input and consideration of both expert opinions.
+URB01_EPI02,B - The mixed-use model may better serve the community's unique needs.
+URB02_MOR01,C - It's important to involve a higher authority to handle potential ethical violations.
+URB02_MOR02,B - A formal review ensures thoroughness and impartiality in addressing the concern.
+URB03_REL01,B - The data-driven location likely has a greater need for redevelopment.
+URB03_REL02,"B - The planner's recommendation is based on community need, which should be prioritized."
+DEV01_EPI01,C - This approach balances immediate donor satisfaction with the potential for long-term impact.
+DEV01_EPI02,B - It is important to support the expert analysis and advocate for the best long-term solution.
+DEV02_MOR01,C - It is crucial to ensure proper consent and ethical standards are met before using the data.
+DEV02_MOR02,B - Ethical concerns must be addressed promptly and transparently.
+DEV03_REL01,C - This option addresses the criticism most effectively while fostering a collaborative relationship.
+DEV03_REL02,B - This option addresses the immediate issue of exclusion while allowing for the economist's quantitative focus to be maintained.
+RND01_EPI01,C - This option best balances the need for rapid deployment with the goal of accessibility in low-income markets.
+RND01_EPI02,C - It balances innovation incentives with global accessibility.
+RND02_MOR01,A - Using unpublished data could compromise the integrity of your research and potentially lead to ethical issues.
+RND02_MOR02,B - It is important to address potential issues with reproducibility and transparency within the department.
+RND03_REL01,B - It allows for innovation while mitigating risks within the tight timeline.
+RND03_REL02,B - This approach addresses the issue directly and ensures all parties have a voice.
+TRN01_EPI01,C - This option best balances the need for rapid deployment with the goal of ensuring access in low-income markets.
+TRN01_EPI02,C - It balances innovation incentives with global accessibility.
+TRN02_MOR01,A - Using unpublished data could compromise the integrity of your research and potentially violate ethical guidelines.
+TRN02_MOR02,B - It's important to address potential reproducibility issues promptly and internally first.
+TRN03_REL01,B - It allows for innovation while mitigating risks within the tight timeline.
+TRN03_REL02,B - This approach addresses the issue directly and ensures all parties have a voice.
