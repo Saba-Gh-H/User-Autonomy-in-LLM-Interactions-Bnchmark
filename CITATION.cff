@@ -1,14 +1,24 @@
 cff-version: 1.2.0
 type: software
-title: "Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice"
-message: "Please cite this repository and the accompanying paper. The DOI and final article citation are forthcoming."
+title: "Conformity, Assertion, or Compromise? Research Software and Benchmark Repository"
+message: "Please cite this software repository when using the code. Cite the accompanying ACM TIST article when referring to the paper or research findings."
 authors:
   - family-names: "Ghanbari Haez"
     given-names: "Saba"
-  - family-names: "Consolandi"
-    given-names: "Monica"
-  - family-names: "Dragoni"
-    given-names: "Mauro"
-year: 2026
-repository-code: "https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Benchmarck"
+repository-code: "https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Bnchmark"
 license: "AGPL-3.0-or-later"
+preferred-citation:
+  type: article
+  title: "Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice"
+  authors:
+    - family-names: "Ghanbari Haez"
+      given-names: "Saba"
+    - family-names: "Consolandi"
+      given-names: "Monica"
+    - family-names: "Dragoni"
+      given-names: "Mauro"
+  journal: "ACM Transactions on Intelligent Systems and Technology"
+  year: 2026
+  date-published: 2026-09-30
+  doi: "10.1145/3838184"
+  url: "https://doi.org/10.1145/3838184"

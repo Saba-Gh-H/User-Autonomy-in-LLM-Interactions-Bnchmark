@@ -1,0 +1,11 @@
+rank_group,rank,model_pair,model_1,model_2,n_compared,agreement_count,agreement,cohen_kappa
+Highest agreement,1,Llama 3.1 70B -- Llama 3.3 70B,Llama 3.1 70B,Llama 3.3 70B,120,111,0.925000,0.872340
+Highest agreement,2,Gemma 3 12B -- Gemma 3 27B,Gemma 3 12B,Gemma 3 27B,120,106,0.883333,0.746988
+Highest agreement,3,Mistral Small 3.2 24B -- Mistral Small 3.1 24B,Mistral Small 3.2 24B,Mistral Small 3.1 24B,120,102,0.850000,0.727548
+Highest agreement,4,Gemma 3 27B -- Qwen2.5 32B,Gemma 3 27B,Qwen2.5 32B,120,102,0.850000,0.698324
+Highest agreement,5,GPT-4o -- Qwen2.5 72B,GPT-4o,Qwen2.5 72B,120,102,0.850000,0.687410
+Lowest agreement,1,Llama 3.2 3B -- Qwen2.5 14B,Llama 3.2 3B,Qwen2.5 14B,120,77,0.641667,0.316285
+Lowest agreement,2,Aya Expanse 32B -- Llama 3.2 3B,Aya Expanse 32B,Llama 3.2 3B,119,74,0.621849,0.354430
+Lowest agreement,3,Gemma 3 27B -- Llama 3.2 3B,Gemma 3 27B,Llama 3.2 3B,120,78,0.650000,0.364759
+Lowest agreement,4,Gemma 3 12B -- Llama 3.2 3B,Gemma 3 12B,Llama 3.2 3B,120,80,0.666667,0.386425
+Lowest agreement,5,Llama 3.2 3B -- Qwen2.5 72B,Llama 3.2 3B,Qwen2.5 72B,120,80,0.666667,0.388535

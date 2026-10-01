@@ -4,13 +4,13 @@
 
 ### A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice
 
-[![ACM TIST](https://img.shields.io/badge/ACM%20TIST-accepted-0b6fbd)](https://dl.acm.org/journal/tist)
-[![Paper](https://img.shields.io/badge/paper-forthcoming-orange)](#citation)
+[![ACM TIST](https://img.shields.io/badge/ACM%20TIST-published-0b6fbd)](https://dl.acm.org/doi/10.1145/3838184)
+[![Paper](https://img.shields.io/badge/DOI-10.1145%2F3838184-orange)](https://doi.org/10.1145/3838184)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: AGPL v3+](https://img.shields.io/badge/License-AGPL--3.0--or--later-blue)](LICENSE)
 
-**Accepted for publication in ACM Transactions on Intelligent Systems and Technology (TIST). The final paper and DOI will be added when available.**
+**Published online in ACM Transactions on Intelligent Systems and Technology (TIST). [Read the paper](https://dl.acm.org/doi/10.1145/3838184).**
 
 </div>
 
@@ -66,7 +66,7 @@ flowchart LR
 
 ```text
 Dataset/
-  Canonical benchmark dataset copies and flattened dataset files.
+  Canonical benchmark dataset and flattened dataset files.
 
 LLM Normal Test/
   Archived baseline T=0 inference notebooks and stored A/B/C-order model responses.
@@ -81,7 +81,7 @@ Testing-with-Different-Tempretures/
   Temperature robustness runs at T=0.5 and T=1.0 with stored responses and summaries.
 
 Testing-with-Different-Extraction-Techniques/
-  Extraction-method robustness notebooks, stored responses, and summary outputs.
+  Archived extraction reruns, stored responses, and their historical summaries.
 
 Analyses/
   Canonical analysis notebooks, corrected reasoning-analysis code, generated tables,
@@ -90,6 +90,14 @@ Analyses/
 tests/
   Unit tests for the shared reasoning-analysis extraction and vocabulary logic.
 ```
+
+### Dataset and provenance notes
+
+- The canonical benchmark is [`Dataset/Autonomy_Dataset.json`](Dataset/Autonomy_Dataset.json). Copies alongside the LLM testing code are retained as accepted-paper artifacts.
+- Two archived analysis copies use `RND` rather than `TRN` in the final six scenario codes. These aliases are preserved unchanged; the corresponding scenario content is the same, and the testing folders use the canonical `TRN` codes.
+- The stored Gemma 3 27B baseline file contains all 120 responses, but its original T=0 inference notebook is not present. The Gemma 3 12B baseline notebook is present and calls the Ollama identifier `gemma3:12b`.
+- Under `Testing-with-Different-Tempretures/temp 1/`, some historical notebook and summary filenames retain `0.5`; the executed inference setting and stored response filenames identify these runs as T=1.0.
+- `Testing-with-Different-Extraction-Techniques/` contains separately generated extraction-test runs. The canonical same-response semantic extraction check is [`Analyses/Independent Extraction Robustness/`](Analyses/Independent%20Extraction%20Robustness/).
 
 <details>
 <summary><strong>📦 Artifact Types</strong></summary>
@@ -146,6 +154,8 @@ Run the semantic extraction robustness analysis:
 python "Analyses/Independent Extraction Robustness/independent_extraction_full.py"
 ```
 
+Archived local-model inference notebooks require an Ollama server and the model identifiers recorded in each notebook. The GPT-4o inference notebooks import an untracked local `secret.py` module containing `apikey`; no credential file is included in this repository. The stored responses are provided so reproducing the analyses does not require rerunning inference.
+
 ## 📈 Selected Visuals
 
 These are existing PNG outputs from the regenerated reasoning analysis.
@@ -163,14 +173,30 @@ These are existing PNG outputs from the regenerated reasoning analysis.
 
 ## 📚 Citation
 
-The final DOI and published citation will be added later.
+Saba Ghanbari Haez, Monica Consolandi, and Mauro Dragoni. 2026. Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice. *ACM Transactions on Intelligent Systems and Technology*. [https://doi.org/10.1145/3838184](https://doi.org/10.1145/3838184).
 
 ```bibtex
-@misc{ghanbarihaez2026autonomy,
+@article{ghanbarihaez2026conformity,
   title = {Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice},
   author = {Ghanbari Haez, Saba and Consolandi, Monica and Dragoni, Mauro},
+  journal = {ACM Transactions on Intelligent Systems and Technology},
   year = {2026},
-  note = {Accepted for publication in ACM Transactions on Intelligent Systems and Technology (TIST). DOI forthcoming.}
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3838184},
+  url = {https://doi.org/10.1145/3838184}
+}
+```
+
+When using the code, please cite the software repository separately:
+
+Saba Ghanbari Haez. 2026. *Conformity, Assertion, or Compromise? Research Software and Benchmark Repository*. GitHub. [https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Bnchmark](https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Bnchmark).
+
+```bibtex
+@software{ghanbarihaez2026autonomycode,
+  title = {Conformity, Assertion, or Compromise? Research Software and Benchmark Repository},
+  author = {Ghanbari Haez, Saba},
+  year = {2026},
+  url = {https://github.com/Saba-Gh-H/User-Autonomy-in-LLM-Interactions-Bnchmark}
 }
 ```
 
@@ -178,10 +204,8 @@ For software citation metadata, see [`CITATION.cff`](CITATION.cff).
 
 ## ⚖️ License
 
-Copyright (c) 2026 Saba Ghanbari Haez
-
-This repository is licensed under the GNU Affero General Public License v3.0 or later. See [`LICENSE`](LICENSE).
+The code in this repository is licensed under the GNU Affero General Public License v3.0 or later. See [`LICENSE`](LICENSE). When using the code, please cite the software repository as shown above.
 
 ## 🙏 Acknowledgements
 
-This repository accompanies an accepted ACM TIST paper. The final paper and DOI will be linked here when available.
+This repository accompanies the ACM TIST article by Saba Ghanbari Haez, Monica Consolandi, and Mauro Dragoni: [*Conformity, Assertion, or Compromise? A Scenario-Based Framework for Evaluating Autonomy-Relevant Response Patterns in LLM Advice*](https://doi.org/10.1145/3838184).
